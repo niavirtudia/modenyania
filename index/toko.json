@@ -1,20 +1,33 @@
 {
  "items": [
- {
-   "namaToko": "Oldblue",
-   "articleTitle": "Oldblue, Merek Jeans Khas dengan Tema American Vintage Workwear",
-   "tokoUrl": "/p/oldblue.html",
-   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip8mLX595SD_6z4ftyctq4ezaG6KPaigeoHF2s0cd-5EXdLkcfrrBEyGg0zzNIxLUYVLqWoNZe36IHuTUEzwQRaegIR-QQK8LIFVs9bKDuykBsO_iIbuq4hathj-O7fVqM6zWGH7CHSvdOsUhdv7TV2PWkCjRn6Yk187Dyclmo06rEzAOoqlQvIVMNZg/s1600/oldblue.jpg"
+  {
+   "productNumber": "1",
+   "title": "#NamaTOKO",
+   "ratingStars": "4.8",
+   "url": "#URL",
+   "imageUrl": "#IMG",
+   "commandView": "Toko / Merk"
   },{
-   "namaToko": "Mischief Denim",
-   "articleTitle": "Mischief Denim, Jeans Lokal Berkualitas Yang Telah Meramaikan Pasar Indonesia Sejak Tahun 2007",
-   "tokoUrl": "/p/mischief-denim.html",
-   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZ3247JAu5vTFb0BdBOoRvVV3wLGedP_qSHvEJYp-l06dZOZAQG8nIiHkWWYMr6ZZFK5tfG9dMAPH6DvuUSE-C28OA9m-GmHin63TDLoHx94JAvL2Xve1qgx45Re7dPCRMUpsF8yUnHbeqWc9uNcdF_Pp8USWJUQTQbIiJztjH0TQT_CCMr3mv5RJqA/s1600/mischiefdenim.jpg"
+   "productNumber": "2",
+   "title": "#NamaTOKO",
+   "ratingStars": "4.8",
+   "url": "#URL",
+   "imageUrl": "#IMG",
+   "commandView": "Toko / Merk"
   },{
-   "namaToko": "Wingman Denim",
-   "articleTitle": "Wingman Denim, Merek Lokal Jeans Selvedge Dengan Kualitas Standar Industri",
-   "tokoUrl": "/p/wingman-denim.html",
-   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4ixQoBdlQj678RqjCvzLOouzs9J6JR0hcDGFKwrAgWx5qARIvKuRfAWyRzMatujAk1g92dEIH_2qiGbmjQcMd0PAeC4OzR33VT_CMCqO8a_BxdOWwUYiV4trhRl0hnBEU2zJ4ZQzIAYKHJQwwYXSDbB8KlAm7jI3uslwiete4mH9b28jld3QYyhMAAg/s1082/wingmandenim.jpg"
+   "productNumber": "3",
+   "title": "#NamaTOKO",
+   "ratingStars": "4.8",
+   "url": "#URL",
+   "imageUrl": "#IMG",
+   "commandView": "Toko / Merk"
+  },{
+   "productNumber": "4",
+   "title": "#NamaTOKO",
+   "ratingStars": "4.8",
+   "url": "#URL",
+   "imageUrl": "#IMG",
+   "commandView": "Toko / Merk"
   }
  ]
 }
