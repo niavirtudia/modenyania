@@ -6,14 +6,7 @@
    "ratingStars": "4.8",
    "url": "https://shope.ee/5V4MpuqGFa",
    "imageUrl": "https://ik.imagekit.io/modenyania/katalog/5V4MpuqGFa.jpg",
-   "commandView": "Belimukena Premium",
-   "prolink": "
-	<div class="pro-link">
-        <span>Beli di</span>
-        <a class="pro-link-btn tiktok" href="{{url1}}" title="{{title}}" target="_blank"><span><svg><use xlink:href="#svg-icon-tiktokshop"/></svg></span></a>
-        <a class="pro-link-btn tokopedia" href="{{url2}}" title="{{title}}" target="_blank"><span><svg><use xlink:href="#svg-icon-tokopedia"/></svg></span></a>
-      </div>
-   "
+   "commandView": "Belimukena Premium"
   },{
    "productNumber": "97",
    "title": "Batik Bali Lestari Mukena Bali motif Batik Parang",
