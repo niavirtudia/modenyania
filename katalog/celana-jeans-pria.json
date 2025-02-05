@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "productNumber": "4",
+   "title": "Judul",
+   "ratingStars": "4.8",
+   "urlShopee": "#",
+   "imageUrl": "Gambar",
+   "commandView": "SHOPEE",
+   "buyin": "READY JUGA DI",
+   "tiktokshop": "TikTok Shop",
+   "urlTiktok": "#",
+   "tokopedia": "Tokopedia",
+   "urlTokopedia": "#"
+  },{
+   "productNumber": "3",
+   "title": "Judul",
+   "ratingStars": "4.8",
+   "urlShopee": "#",
+   "imageUrl": "Gambar",
+   "commandView": "SHOPEE",
+   "buyin": "READY JUGA DI",
+   "tiktokshop": "TikTok Shop",
+   "urlTiktok": "#",
+   "tokopedia": "Tokopedia",
+   "urlTokopedia": "#"
+  },{
+   "productNumber": "2",
+   "title": "Judul",
+   "ratingStars": "4.8",
+   "urlShopee": "#",
+   "imageUrl": "Gambar",
+   "commandView": "SHOPEE",
+   "buyin": "READY JUGA DI",
+   "tiktokshop": "TikTok Shop",
+   "urlTiktok": "#",
+   "tokopedia": "Tokopedia",
+   "urlTokopedia": "#"
+  },{
+   "productNumber": "1",
+   "title": "Judul",
+   "ratingStars": "4.8",
+   "urlShopee": "#",
+   "imageUrl": "Gambar",
+   "commandView": "SHOPEE",
+   "buyin": "READY JUGA DI",
+   "tiktokshop": "TikTok Shop",
+   "urlTiktok": "#",
+   "tokopedia": "Tokopedia",
+   "urlTokopedia": "#"
+  }
+ ]
+}
