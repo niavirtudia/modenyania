@@ -37,7 +37,12 @@
    "ratingStars": "4.8",
    "urlShopee": "https://shope.ee/5V4MpuqGFa",
    "imageUrl": "https://ik.imagekit.io/modenyania/katalog/5V4MpuqGFa.jpg",
-   "commandView": "Shopee"
+   "commandView": "Shopee",
+   "buyin": "Beli di",
+   "tiktokshop": "TikTok Shop",
+   "urlTiktok": "#",
+   "tokopedia": "Tokopedia",
+   "urlTokopedia": "#"
   }
  ]
 }
