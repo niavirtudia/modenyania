@@ -1,9 +1,5 @@
 {
-  "items": {
-    "currentPage": 3,
-    "pageCount": 5,
-    "next": null
-    "products": [
+  "items": [
 {
    "productNumber": "11",
    "title": "Abame - Polle Shirt",
@@ -41,5 +37,4 @@
    "commandView": "EVONNE"
   }
     ]
-  }
 }
