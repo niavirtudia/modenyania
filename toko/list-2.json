@@ -1,8 +1,5 @@
 {
-  "items": {
-    "currentPage": 2,
-    "pageCount": 5,
-    "products": [
+  "items": [
 {
    "productNumber": "6",
    "title": "Mukena Tazbiya Kombinasi Abla Series Allsize",
@@ -39,6 +36,6 @@
    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRnd4aCnV8vJ2cyEh5A7qtxJbFU9aib8O0H_DfCfHoGwUxKR8g-UShULdn9N8wdG98lB7L1xbelSWFbKjJxWM4RCL-h7oz1FRPi3c59G8n-hxmvY9ajktcdFMLOyj8uM9imaa6rylm6PUTYO-hcHdpwQIHak-a3JuO-I5qgWL4aC5FdQsCo8kkD9ikQkLG/s1024/2VO70HQGa8.jpg",
    "commandView": "Tachi Syari"
   }
-    ]
-  }
+    ],
+"next": "https://data.modenyania.com/toko/list-3.json"
 }
