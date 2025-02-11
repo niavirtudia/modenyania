@@ -1,8 +1,5 @@
 {
-  "items": {
-    "currentPage": 1,
-    "pageCount": 5,
-    "products": [
+  "items": [
       {
    "productNumber": "1",
    "title": "Gonegani Hijab Motif Persegi Blossom Scarf",
@@ -39,6 +36,6 @@
    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyBwbmeoCtKSzfhYAR0PGKqX6zfMggQnm_TwW0FRjcM5_AJ9FfjW5HkGt5bL5V_F-Tu7m00t11xw79gQKYW3hgutvWuZhx2l5sM1KpPxJkmyy9nx0W9hJ6iXVr-8QfithovSZQAQouC_YEoS9XgIXZZIGGbg9LD2O7WItrkQfTlkIvG-KgS2tsLRucQYZj/s820/1q8QB8AoGt.jpg",
    "commandView": "Hanhanhijab"
   }
-    ]
-  }
+    ],
+"next": "https://data.modenyania.com/toko/list-2.json"
 }
