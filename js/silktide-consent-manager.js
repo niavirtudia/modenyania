@@ -1,5 +1,3 @@
-// Silktide Consent Manager
-
 class SilktideCookieBanner {
   constructor(config) {
     this.config = config; // Save config to the instance
