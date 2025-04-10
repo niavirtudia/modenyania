@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Store Consent Sync</title>
+  <script>
+    window.addEventListener('message', function(event) {
+      // Pastikan ini berasal dari AMP
+      if (event.origin !== "https://www.modenyania.com") return;
+
+      // Dapatkan data dari AMP
+      const consentData = event.data;
+
+      // Debug
+      console.log("Consent data received from AMP:", consentData);
+
+      // Simpan ke localStorage / cookie / tracking
+      if (consentData && consentData.type === 'consent-response') {
+        localStorage.setItem("modenyania_amp_consent", JSON.stringify(consentData.response));
+      }
+
+      // Kirim respon kembali (opsional)
+      event.source.postMessage({ status: "ok" }, event.origin);
+    }, false);
+  </script>
+</head>
+<body>
+  <p>Sinkronisasi preferensi cookie…</p>
+</body>
+</html>
