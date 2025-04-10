@@ -1,30 +1,39 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Store Consent Sync</title>
-  <script>
-    window.addEventListener('message', function(event) {
-      // Pastikan ini berasal dari AMP
-      if (event.origin !== "https://www.modenyania.com") return;
+<html ⚡>
+  <head>
+    <meta charset="utf-8">
+    <title>Store Consent</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <script>
+      (function() {
+        const allowedOrigin = 'https://www.modenyania.com';
 
-      // Dapatkan data dari AMP
-      const consentData = event.data;
+        // Terima pesan dari AMP
+        window.addEventListener('message', function(event) {
+          if (event.origin !== allowedOrigin) return;
 
-      // Debug
-      console.log("Consent data received from AMP:", consentData);
+          try {
+            const data = JSON.parse(event.data);
+            if (data.type === 'consent-data') {
+              // Simpan ke localStorage
+              localStorage.setItem('modenyania_amp_consent', JSON.stringify(data.consentMetadata));
 
-      // Simpan ke localStorage / cookie / tracking
-      if (consentData && consentData.type === 'consent-response') {
-        localStorage.setItem("modenyania_amp_consent", JSON.stringify(consentData.response));
-      }
+              // (Opsional) Kirim ke server untuk persistensi
+              // fetch('/store-consent', { method: 'POST', body: JSON.stringify(data) });
 
-      // Kirim respon kembali (opsional)
-      event.source.postMessage({ status: "ok" }, event.origin);
-    }, false);
-  </script>
-</head>
-<body>
-  <p>Sinkronisasi preferensi cookie…</p>
-</body>
+              console.log('Consent data stored:', data.consentMetadata);
+            }
+          } catch (err) {
+            console.error('Error processing consent data:', err);
+          }
+        });
+
+        // Minta AMP kirim data consent
+        window.parent.postMessage(JSON.stringify({
+          type: 'consent-requests'
+        }), allowedOrigin);
+      })();
+    </script>
+  </head>
+  <body></body>
 </html>
