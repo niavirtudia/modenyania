@@ -6,14 +6,22 @@
 <body>
   <script>
     window.addEventListener('DOMContentLoaded', () => {
-      const consent = {
-        ad_storage: 'granted',
-        analytics_storage: 'granted',
-        functionality_storage: 'granted',
-        personalization_storage: 'denied',
-        security_storage: 'granted'
-      };
-      onUserConsent(consent);
+    const consent = {
+      ad_storage: granted('marketing') ? 'granted' : 'denied',
+      analytics_storage: granted('analytics') ? 'granted' : 'denied',
+      personalization_storage: granted('marketing') ? 'granted' : 'denied',
+      security_storage: 'granted',
+    
+      functionality_storage: granted('preferences') ? 'granted' : 'denied',
+      measurement_storage: granted('analytics') ? 'granted' : 'denied',
+      ad_user_data: granted('marketing') ? 'granted' : 'denied',
+      ad_personalization: granted('marketing') ? 'granted' : 'denied',
+    
+      necessary: 'granted',
+      marketing: granted('marketing') ? 'granted' : 'denied',
+      preferences: granted('preferences') ? 'granted' : 'denied'
+    };
+      onNiaConsentReady(consent);
     });
   </script>
 </body>
