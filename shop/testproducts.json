@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Dummy Foundation",
+    "searched": "M01",
+    "image": "https://picsum.photos/seed/foundation/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
+      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 2",
+    "searched": "M02",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 3",
+    "searched": "M03",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 4",
+    "searched": "M04",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 5",
+    "searched": "M05",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 6",
+    "searched": "M06",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 7",
+    "searched": "M07",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 8",
+    "searched": "M08",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  },
+  {
+    "name": "Dummy Foundation 9",
+    "searched": "M09",
+    "image": "https://picsum.photos/seed/foundation2/640/480",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "links": [
+      {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
+      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
+      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"}
+    ]
+  }
+]
