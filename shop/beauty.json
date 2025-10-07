@@ -1,163 +1,19 @@
 [
-  {
-    "name": "#",
-    "searched": "M10",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M09",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M08",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M07",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M06",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M05",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M04",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M03",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
-    "searched": "M02",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
-    "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
-    ]
-  },{
-    "name": "#",
+{
+    "name": "Cetaphil Gentle Skin Cleanser 500ml dengan Niacinamide, Glycerin dan Panthenol Sabun Pembersih Muka Untuk Segala Jenis Kulit",
     "searched": "M01",
-    "image": "#",
-    "category": "#",
-    "subcategory": "#",
-    "price": "Rp #",
+    "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
+    "category": "Skincare",
+    "subcategory": "Cleanser",
+    "price": "Rp185.900",
+	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
     "links": [
-      {"logo": "logo-tiktok", "url": "#", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "#", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "#", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "#", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "#", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "#", "title": "Beli di Zalora"},
-	  {"logo": "logo-article", "url": "#", "title": "Baca Artikel"}
+      {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSHtTQSoCLbBV-dft7p/", "title": "Beli di TikTok"},
+	  {"logo": "logo-shopee", "url": "https://s.shopee.co.id/BKGb9AcjP", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "https://tk.tokopedia.com/ZSAos2tv6/", "title": "Beli di Tokopedia"},
+      {"logo": "logo-lazada", "url": "https://atid.me/go/U5BVlADb", "title": "Beli di Lazada"},
+      {"logo": "logo-blibli", "url": "https://atid.me/go/zmwpQx3q", "title": "Beli di Blibli"},
+      {"logo": "logo-zalora", "url": "https://invl.me/clmy7pd", "title": "Beli di Zalora"}
     ]
   }
 ]
