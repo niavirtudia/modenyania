@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Women's High-Waist Seamless Yoga Legging",
+    "searched": "M03",
+    "image": "https://example.com/images/highwaist-seamless-yoga-legging.jpg",
+    "category": "Legging",
+    "subcategory": [
+      "Yoga Legging"
+    ],
+    "price": "Rp 249.000",
+    "articleUrl": "https://example.com/articles/highwaist-seamless-yoga-legging",
+    "links": [
+      {
+        "logo": "logo-tiktok",
+        "url": "https://tiktokshop.com/product/12345",
+        "title": "Beli di TikTok"
+      },
+      {
+        "logo": "logo-shopee",
+        "url": "https://shopee.co.id/product/12345",
+        "title": "Beli di Shopee"
+      },
+      {
+        "logo": "logo-tokopedia",
+        "url": "https://tokopedia.com/product/12345",
+        "title": "Beli di Tokopedia"
+      },
+      {
+        "logo": "logo-lazada",
+        "url": "https://lazada.co.id/product/12345",
+        "title": "Beli di Lazada"
+      },
+      {
+        "logo": "logo-blibli",
+        "url": "https://blibli.com/product/12345",
+        "title": "Beli di Blibli"
+      },
+      {
+        "logo": "logo-zalora",
+        "url": "https://zalora.co.id/product/12345",
+        "title": "Beli di Zalora"
+      }
+    ]
+  },
+  {
+    "name": "Men's Compression Running Legging",
+    "searched": "M04",
+    "image": "https://example.com/images/mens-compression-running-legging.jpg",
+    "category": "Legging",
+    "subcategory": [
+      "Running",
+      "Compression",
+      "Performance"
+    ],
+    "price": "Rp 279.000",
+    "articleUrl": "https://example.com/articles/mens-compression-running-legging",
+    "links": [
+      {
+        "logo": "logo-tiktok",
+        "url": "https://tiktokshop.com/product/67890",
+        "title": "Beli di TikTok"
+      },
+      {
+        "logo": "logo-shopee",
+        "url": "https://shopee.co.id/product/67890",
+        "title": "Beli di Shopee"
+      },
+      {
+        "logo": "logo-tokopedia",
+        "url": "https://tokopedia.com/product/67890",
+        "title": "Beli di Tokopedia"
+      },
+      {
+        "logo": "logo-lazada",
+        "url": "https://lazada.co.id/product/67890",
+        "title": "Beli di Lazada"
+      },
+      {
+        "logo": "logo-blibli",
+        "url": "https://blibli.com/product/67890",
+        "title": "Beli di Blibli"
+      },
+      {
+        "logo": "logo-zalora",
+        "url": "https://zalora.co.id/product/67890",
+        "title": "Beli di Zalora"
+      }
+    ]
+  }
+]
