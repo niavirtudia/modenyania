@@ -3,7 +3,7 @@
     "name": "COSRX Low pH Good Morning Cleanser - 150 ML (Sabun Wajah Untuk Semua Jenis Kulit) Best Seller",
     "image": "https://i.ibb.co.com/MkFz5KXY/COSRX-Cleanser.webp",
     "category": "Skincare",
-    "subcategory": "Cleanser",
+    "subcategory": ["Cleanser"],
     "price": "Rp116.250",
 	"articleUrl": "https://list.modenyania.com/beauty/cosrx-low-ph-good-morning-cleanser.html",
     "links": [
@@ -17,7 +17,7 @@
     "name": "Cetaphil Gentle Skin Cleanser 500ml dengan Niacinamide, Glycerin dan Panthenol Sabun Pembersih Muka Untuk Segala Jenis Kulit",
     "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
     "category": "Skincare",
-    "subcategory": "Cleanser",
+    "subcategory": ["Cleanser"],
     "price": "Rp185.900",
 	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
     "links": [
