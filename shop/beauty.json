@@ -4,7 +4,7 @@
     "searched": "M02",
     "image": "https://i.ibb.co.com/MkFz5KXY/COSRX-Cleanser.webp",
     "category": "Skincare",
-    "subcategory": "Cleanser",
+    "subcategory": ["Cleanser"],
     "price": "Rp116.250",
 	"articleUrl": "https://list.modenyania.com/beauty/cosrx-low-ph-good-morning-cleanser.html",
     "links": [
@@ -19,7 +19,7 @@
     "searched": "M01",
     "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
     "category": "Skincare",
-    "subcategory": "Cleanser",
+    "subcategory": ["Cleanser"],
     "price": "Rp185.900",
 	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
     "links": [
