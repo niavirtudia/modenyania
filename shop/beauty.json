@@ -4,7 +4,8 @@
     "searched": "M03",
     "image": "https://i.ibb.co.com/VWgCrVVb/og.webp",
     "category": "Body Care",
-    "subcategory": ["Foot Cream", "Krim Kaki"],
+    "subcategory": ["Body Moisturizers & Treatments","Pelembap & Perawatan Kulit"],
+	"subsub": ["Foot Cream", "Krim Kaki"],
     "price": "Rp42.808",
 	"articleUrl": "https://list.modenyania.com/beauty/azalea-smooth-foot-cream-krim-pelembut-kaki.html",
     "links": [
@@ -17,7 +18,8 @@
     "searched": "M02",
     "image": "https://i.ibb.co.com/MkFz5KXY/COSRX-Cleanser.webp",
     "category": "Skincare",
-    "subcategory": ["Cleanser", "Pembersih Wajah", "Cleansing Gel"],
+    "subcategory": ["Cleanser","Pembersih Wajah"],
+	"subsub": ["Cleansing Gel","Gel Pembersih Wajah"],
     "price": "Rp116.250",
 	"articleUrl": "https://list.modenyania.com/beauty/cosrx-low-ph-good-morning-cleanser.html",
     "links": [
@@ -32,7 +34,8 @@
     "searched": "M01",
     "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
     "category": "Skincare",
-    "subcategory": ["Cleanser", "Pembersih Wajah", "Gentle Cleanser", "Masalah Kulit: Kulit Kering"],
+    "subcategory": ["Cleanser","Pembersih Wajah","Skin Concern","Masalah Kulit", ],
+	"subsub": ["Gentle Cleanser","Pembersih Lembut","Hydrating","Kulit Kering"],
     "price": "Rp185.900",
 	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
     "links": [
