@@ -6,6 +6,9 @@
     "category": "Body Care",
     "subcategory": ["Body Moisturizers & Treatments","Pelembap & Perawatan Kulit"],
 	"subsub": ["Foot Cream","Krim Kaki"],
+    "target": ["Rekomendasi"],
+    "brand": "Azalea",
+    "priceRange": "Under 50K",
     "price": "Rp42.808",
 	"articleUrl": "https://list.modenyania.com/beauty/azalea-smooth-foot-cream-krim-pelembut-kaki.html",
     "links": [
@@ -20,6 +23,9 @@
     "category": "Skincare",
     "subcategory": ["Cleanser","Pembersih Wajah"],
 	"subsub": ["Cleansing Gel","Gel Pembersih Wajah"],
+    "target": ["Produk Terlaris", "Paling Favorit", "Rekomendasi"],
+    "brand": "Cosrx",
+    "priceRange": "50K-150K",
     "price": "Rp116.250",
 	"articleUrl": "https://list.modenyania.com/beauty/cosrx-low-ph-good-morning-cleanser.html",
     "links": [
@@ -36,6 +42,9 @@
     "category": "Skincare",
     "subcategory": ["Cleanser","Pembersih Wajah","Skin Concern","Masalah Kulit"],
 	"subsub": ["Gentle Cleanser","Pembersih Lembut","Hydrating","Kulit Kering"],
+    "target": ["Produk Terlaris", "Paling Favorit", "Rekomendasi"],
+    "brand": "Cetaphil",
+    "priceRange": "150K-350K",	
     "price": "Rp185.900",
 	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
     "links": [
