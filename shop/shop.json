@@ -1,9 +1,33 @@
 [
   {
+    "name": "Agnes Hijab Thiani Dress - Gamis Minimalis Ceruty Putih Elegan",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVaUj_zZ5i2HWBlvpoOzKJcCq0OufSES7hV371b5arqPAgKSP5gF-T4_bFwKNRhbqE6YXIcMAuOk9WYbXPbrJpgeR5puI9pMeYEWe67Wqufjx5Z01sTVsVOR3_WP87WNfHt9lTshyk-UKbRFWzsPa36-pRNX6qFCL0iM7qdifov3eHuN9pLxw2Bvgli4S-/s1600/T-agnes-hijab-thiani-dress.webp",
+    "category": "Gamis",
+    "subcategory": ["Gamis Polos Minimalis", "Minimalist Plain Gamis"],
+    "price": "Rp184.200",
+	"articleUrl": "https://list.modenyania.com/fashion-muslim/agnes-hijab-thiani-dress-gamis-ceruty-putih-simple-elegan-kombinasi-renda/",
+    "links": [
+	  {"logo": "logo-shopee", "url": "https://s.shopee.co.id/6Ad7frFgRC", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "https://tk.tokopedia.com/ZSys81PrE/", "title": "Beli di Tokopedia"},
+      {"logo": "logo-lazada", "url": "https://atid.me/go/kEYMhaZK", "title": "Beli di Lazada"}
+    ]
+  },{
+    "name": "Dress Panjang Reina Basic Dress - Dress Elegan Yang Sopan",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8BmIl-EmkohqDVpk4bHVta_j4Vl2hI7s4iF7FpS-6VgHTLuxnmEz4CQplfbZWEKOcqngiJWpOqSjKKY_jfh6HchL9TokHXLvpQ5FPNYLyZTSdPYNmI_s1YhbQf9drf32x2n8wCEhdGrv3qM3912VviDz00vQeO4zzjtDig9rexu2Fd3R5nYLBuxDsv-ok/s1600/Thumbreina-basic-dress.webp",
+    "category": "Dress Panjang",
+    "subcategory": ["Dress Casual", "Casual Maxi Dress"],
+    "price": "Rp429.840",
+	"articleUrl": "https://list.modenyania.com/fashion-muslim/dress-panjang-reina-basic-dress-dress-elegan-yang-sopan/",
+    "links": [
+      {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSH3eDtfDhVrf-1HoHD/", "title": "Beli di TikTok"},
+	  {"logo": "logo-shopee", "url": "https://s.shopee.co.id/5L40C7W6So", "title": "Beli di Shopee"},
+      {"logo": "logo-tokopedia", "url": "https://tk.tokopedia.com/ZSypYBsS5/", "title": "Beli di Tokopedia"}
+    ]
+  },{
     "name": "Twinpack Azalea Smooth Foot Cream - Krim Pelembut Kaki",
     "image": "https://i.ibb.co.com/VWgCrVVb/og.webp",
-    "category": "Perawatan Tubuh",
-    "subcategory": ["Krim Kaki"],
+    "category": "Body Care",
+    "subcategory": ["Foot Cream", "Krim Kaki"],
     "price": "Rp42.808",
 	"articleUrl": "https://list.modenyania.com/beauty/azalea-smooth-foot-cream-krim-pelembut-kaki.html",
     "links": [
@@ -58,8 +82,8 @@
   },{
     "name": "COSRX Low pH Good Morning Cleanser - 150 ML (Sabun Wajah Untuk Semua Jenis Kulit) Best Seller",
     "image": "https://i.ibb.co.com/MkFz5KXY/COSRX-Cleanser.webp",
-    "category": "Perawatan Wajah",
-    "subcategory": ["Pembersih Wajah", "Cleanser", "Skincare"],
+    "category": "Skincare",
+    "subcategory": ["Cleanser", "Pembersih Wajah"],
     "price": "Rp116.250",
 	"articleUrl": "https://list.modenyania.com/beauty/cosrx-low-ph-good-morning-cleanser.html",
     "links": [
@@ -72,8 +96,8 @@
   },{
     "name": "Cetaphil Gentle Skin Cleanser 500ml dengan Niacinamide, Glycerin dan Panthenol Sabun Pembersih Muka Untuk Segala Jenis Kulit",
     "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
-    "category": "Perawatan Wajah",
-    "subcategory": ["Pembersih Wajah", "Cleanser", "Skincare"],
+    "category": "Skincare",
+    "subcategory": ["Cleanser", "Pembersih Wajah"],
     "price": "Rp185.900",
 	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
     "links": [
