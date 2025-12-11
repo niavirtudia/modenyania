@@ -1,15 +1,27 @@
 [
-{
-    "name": "Twinpack Azalea Smooth Foot Cream - Krim Pelembut Kaki",
-    "searched": "M03",
+  {
+	"searched": "M03",
+	"name": "Twinpack Azalea Smooth Foot Cream - Krim Pelembut Kaki",
     "image": "https://i.ibb.co.com/VWgCrVVb/og.webp",
-    "category": "perawatan khusus",
-    "subcategory": ["hand & foot care", "perawatan kaki"],
-	"subsub": ["foot cream", "krim kaki"],
-    "target": ["rekomendasi"],
-    "brand": "azalea",
-    "priceRange": "Under 50K",
-    "price": "Rp42.808",
+	"price": "Rp42.808",
+	"category": [
+      "perawatan khusus", 
+      "merek", 
+      "rentang harga",
+	  "produk terlaris",
+	  "paling favorit",
+	  "pilihan editor"
+    ],
+	"subcategory": [
+      "hand & foot care",
+	  "perawatan kaki",
+      "azalea",
+      "under 50k"
+    ],
+	"subsub": [
+      "foot cream",
+	  "krim kaki"
+    ], 
 	"articleUrl": "https://list.modenyania.com/beauty/azalea-smooth-foot-cream-krim-pelembut-kaki.html",
     "links": [
       {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSH7aoevMTgr7-yqUW9/", "title": "Beli di TikTok"},
@@ -17,16 +29,23 @@
       {"logo": "logo-tokopedia", "url": "https://tk.tokopedia.com/ZSUksB7nK/", "title": "Beli di Tokopedia"}
     ]
   },{
-    "name": "COSRX Low pH Good Morning Cleanser - 150 ML (Sabun Wajah Untuk Semua Jenis Kulit) Best Seller",
     "searched": "M02",
+	"name": "COSRX Low pH Good Morning Cleanser - 150 ML (Sabun Wajah Untuk Semua Jenis Kulit) Best Seller",
     "image": "https://i.ibb.co.com/MkFz5KXY/COSRX-Cleanser.webp",
-    "category": "skincare",
-    "subcategory": ["cleanser", "pembersih wajah"],
-	"subsub": ["cleansing gel", "gel pembersih wajah"],
-    "target": ["produk terlaris", "paling favorit", "rekomendasi"],
-    "brand": "cosrx",
-    "priceRange": "50K-150K",
-    "price": "Rp116.250",
+	"price": "Rp116.250",
+	"category": [
+      "skincare", 
+      "merek", 
+      "rentang harga",
+	  "pilihan editor"
+    ], 
+	"subcategory": [
+      "cleanser",
+	  "pembersih wajah",
+      "cosrx", 
+      "50k-150k"
+    ],
+    "subsub": ["cleansing gel", "gel pembersih wajah"],
 	"articleUrl": "https://list.modenyania.com/beauty/cosrx-low-ph-good-morning-cleanser.html",
     "links": [
       {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSH7M7uUBTuyo-n5xf9/", "title": "Beli di TikTok"},
@@ -36,16 +55,27 @@
       {"logo": "logo-blibli", "url": "https://atid.me/go/jx4lcG00", "title": "Beli di Blibli"}
     ]
   },{
-    "name": "Cetaphil Gentle Skin Cleanser 500ml dengan Niacinamide, Glycerin dan Panthenol Sabun Pembersih Muka Untuk Segala Jenis Kulit",
     "searched": "M01",
+	"name": "Cetaphil Gentle Skin Cleanser 500ml dengan Niacinamide, Glycerin dan Panthenol Sabun Pembersih Muka Untuk Segala Jenis Kulit",
     "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
-    "category": "skincare",
-    "subcategory": ["cleanser", "pembersih wajah", "skin concern", "masalah kulit"],
+	"price": "Rp185.900",
+	"category": [
+      "skincare", 
+      "merek", 
+      "produk terlaris",
+	  "paling favorit",
+	  "pilihan editor",
+	  "rentang harga"
+    ],
+	"subcategory": [
+      "cleanser",
+	  "pembersih wajah",
+	  "skin concern",
+	  "masalah kulit",
+      "cetaphil",
+      "150k-350k"
+    ],
 	"subsub": ["gentle cleanser", "pembersih lembut", "hydrating", "kulit kering"],
-    "target": ["produk terlaris", "paling favorit", "rekomendasi"],
-    "brand": "cetaphil",
-    "priceRange": "150K-350K",
-    "price": "Rp185.900",
 	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
     "links": [
       {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSHtTQSoCLbBV-dft7p/", "title": "Beli di TikTok"},
