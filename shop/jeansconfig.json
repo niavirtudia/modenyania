@@ -1,28 +1,72 @@
 {
   "NAV_DIMENSIONS": [
-    {
-      "title": "PILIH FIT KAMU",
-      "groups": [
-        {
-          "key": "mens fit",
-          "label": "Men's Fit (Fit Jeans Pria)",
-          "isMulti": true,
-          "items": [
-            {
-              "key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)",
-              "subitems": [["subsub 1", "Label SubSub"]]
+    {"title": "PILIH FIT KAMU",
+    "groups": [
+        {"key": "mens fit", "label": "Men's Fit (Fit Jeans Pria)",
+        "isMulti": true,
+        "items": [
+			{"key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)"},
+			{"key": "baggy/loose fit men", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
+			{"key": "relaxed fit", "label": "Relaxed Fit (Jeans Potongan Santai)"},
+			{"key": "slim fit men", "label": "Slim Fit (Jeans Potongan Ramping)"},
+			{"key": "tapered fit", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
+			{"key": "regular fit", "label": "Regular Fit (Jeans Potongan Standar)"},
+            "subitems": [
+				["kaos-polos", "Kaos Polos (Basic)"],
+                ["kemeja-flanel", "Kemeja Flanel"],
+                ["hoodie-oversize", "Hoodie Oversize"]
+              ]
             }
+          ]
+        },
+        {"key": "womens fit", "label": "Women's Fit (Fit Jeans Wanita)",
+		"isMulti": true,
+        "items": [
+            {"key": "dress-wanita", "label": "Dress & Gamis",
+            "subitems": [
+                ["maxi-dress", "Maxi Dress"],
+                ["tunik-modern", "Tunik Modern"]
+              ]
+            },
+            {"key": "hijab-koleksi", "label": "Koleksi Hijab",
+            "subitems": [
+                ["pashmina-ceruty", "Pashmina Ceruty"],
+                ["segiempat-voal", "Segiempat Voal"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {"title": "Filter Spesifik",
+    "groups": [
+        {"key": "material-kain", "label": "Pilih Material (Multi-select)",
+        "isMulti": true,
+        "items": [
+            { "key": "katun-combed", "label": "Katun Combed" },
+            { "key": "denim-14oz", "label": "Denim 14oz" },
+            { "key": "linen-premium", "label": "Linen Premium" },
+            { "key": "polyester", "label": "Polyester" }
+          ]
+        },
+        {"key": "fit-kategori", "label": "Potongan Baju (Fit)",
+        "isMulti": true,
+        "items": [
+            { "key": "regular-fit", "label": "Regular Fit" },
+            { "key": "slim-fit", "label": "Slim Fit" },
+            { "key": "loose-fit", "label": "Loose Fit" }
           ]
         }
       ]
     }
   ],
-  "MULTI_SELECT_CATEGORIES": ["mens fit", "womens fit"],
-  "categoryData": {
-    "kategori 1": { "desc": "deskripsi", "intro": "tagline" }
-  },
+  "MULTI_SELECT_CATEGORIES": [
+    "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren"
+  ],
   "EXCLUDED_PILLS_BASE": [
-    "mens fit",
-    "womens fit"
-  ]
+    "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
+  ],
+  "categoryData": {
+    "mens fit":{"desc":"Temukan fit jeans pria yang langsung membentuk siluet tegas dan maskulin. Lebih rapi, lebih percaya diri, dan siap tampil maksimal.","introl":"Fit Jeans Tegas, Rapi & Berkarakter"},"womens fit":{"desc":"Pilih jeans wanita yang mengikuti lekuk tubuh dengan sempurna. Nyaman dipakai, menonjolkan bentuk, dan bikin kamu tampil lebih percaya diri.","introl":"Fit Jeans untuk Bentuk Indah dan Percaya Diri"},"body type":{"desc":"Tidak perlu ke mana-mana untuk memilih celana jeans yang sesuai bentuk tubuhmu! Cukup sekali klik di sini","introl":"Celana Jeans yang Sesuai Bentuk Tubuhmu"},"style":{"desc":"Pilih celana jeans sesuai gaya yang kamu mau. Gaya kasual urban yang trendi, minimalis, vintage maupun klasik, semua ada di sini","introl":"Gaya Adalah Bahan Bakar Percaya Dirimu"},"waist":{"desc":"Pilih celana jeans mulai dari pinggang rendah, sedang hingga tinggi. Semua mendukung penampilanmu, bahkan untuk tampak lebih tinggi sekalipun","introl":"Tampak Lebih Tinggi Juga Bisa"},"denim type":{"desc":"Pilih denim sesuai gaya hidup: keaslian Selvedge, kekokohan Rigid, atau fleksibilitas Stretch. Tiap jenis kain menentukan karakter jeans kamu","introl":"Bukan Sekadar Kain, Ini Karakter"},"distressing":{"desc":"Jeans clean look, sobek, fade maupun yang berefek pudar, semua memberikan karakter berbeda pada penampilanmu.","introl":"Tampilan Jeansmu Memancarkan Karakter"},"brand":{"desc":"Merek celana jeans pilihan, bikin koleksi birumu lengkap dan siap tampil beda serta percaya diri.","introl":"Dari Lokal Premium Hingga Internasional"},"price":{"desc":"Tak perlu bayar mahal untuk tampil lebih keren. Budget tipis juga bisa punya jeans keren loh. Eksplor lebih banyak pilihan cuma di sini","introl":"Sesuaikan Budgetmu"},"washing":{"desc":"Pilih selvedge denim berdasarkan pencuciannya. Mulai dari yang belum dicuci dengan karakter berkembang, sekali cuci yang stabil maupun yang siap pakai","introl":"Karakter Jeans Berkembang, Stabil dan Lembut"},"shrinkage":{"desc":"Pilih selvedge denim untuk fit yang mengikuti tubuh dan ukuran yang lebih stabil.","introl":"Fit Mengikuti Tubuh dan Ukuran Lebih Stabil"},"weight":{"desc":"Pilih jeans selvedge berdasarkan ketebalan kain mulai dari lightweight, midweight dan heavyweight.","introl":"Semakin Tebal Semakin Premium"},"indigo dyeing":{"desc":"Pilih selvedge jeans berdasarkan pewarnaan. Pewarnaan celana jeans adalah investasi jangka panjang bahkan menentukan karakter fade yang bikin kamu tampil beda","introl":"Perwarnaan Jeans Adalah Investasi"},"selvedge id":{"desc":"Pilih karakter unik selvedge denim kamu di sini. Mulai dari red line, silver line dan multi-color line. Karakter unik selvedge denim yang bisa kamu pamer","introl":"Karakter Unik Selvedge Denim"},"fabric origin":{"desc":"Pilih berdasarkan asal denim. Premium lokal hingga legenda selvedge denim internasional","introl":"Premium Lokal Hingga Internasional"},"koleksi pilihan":{"desc":"Pilih celana jeans berdasarkan hasil kurasi editor, terlaris di brand celana jeans, hingga yang paling favorit oleh konsumen","introl":"Pilihan Editor, Terlaris & Paling Favorit"},"jeans terbaru & tren":{"desc":"Pilih celana jeans terbaru dari berbagai merek ternama, bikin koleksimu semakin lengkap atau ikuti tren celana jeans","introl":"Jeans Terbaru & Tren"}
+  }
 }
