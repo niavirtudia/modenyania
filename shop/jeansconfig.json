@@ -1,0 +1,28 @@
+{
+  "NAV_DIMENSIONS": [
+    {
+      "title": "PILIH FIT KAMU",
+      "groups": [
+        {
+          "key": "mens fit",
+          "label": "Men's Fit (Fit Jeans Pria)",
+          "isMulti": true,
+          "items": [
+            {
+              "key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)",
+              "subitems": [["subsub 1", "Label SubSub"]]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "MULTI_SELECT_CATEGORIES": ["mens fit", "womens fit"],
+  "categoryData": {
+    "kategori 1": { "desc": "deskripsi", "intro": "tagline" }
+  },
+  "EXCLUDED_PILLS_BASE": [
+    "mens fit",
+    "womens fit"
+  ]
+}
