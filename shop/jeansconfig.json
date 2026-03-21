@@ -10,7 +10,7 @@
 			{"key": "relaxed fit", "label": "Relaxed Fit (Jeans Potongan Santai)"},
 			{"key": "slim fit men", "label": "Slim Fit (Jeans Potongan Ramping)"},
 			{"key": "tapered fit", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
-			{"key": "regular fit", "label": "Regular Fit (Jeans Potongan Standar)"},
+			{"key": "regular fit", "label": "Regular Fit (Jeans Potongan Standar)",
             "subitems": [
 				["kaos-polos", "Kaos Polos (Basic)"],
                 ["kemeja-flanel", "Kemeja Flanel"],
