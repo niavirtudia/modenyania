@@ -1,67 +1,224 @@
 {
   "NAV_DIMENSIONS": [
-    {"title": "PILIH FIT KAMU",
-    "groups": [
-        {"key": "mens fit", "label": "Men's Fit (Fit Jeans Pria)",
-        "isMulti": false,
-        "items": [
-			{"key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)"},
-			{"key": "baggy/loose fit men", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
-			{"key": "relaxed fit", "label": "Relaxed Fit (Jeans Potongan Santai)"},
-			{"key": "slim fit men", "label": "Slim Fit (Jeans Potongan Ramping)"},
-			{"key": "tapered fit", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
-			{"key": "regular fit", "label": "Regular Fit (Jeans Potongan Standar)",
-            "subitems": [
-				["kaos-polos", "Kaos Polos (Basic)"],
-                ["kemeja-flanel", "Kemeja Flanel"],
-                ["hoodie-oversize", "Hoodie Oversize"]
-              ]
-            }
-          ]
-        },
-        {"key": "womens fit", "label": "Women's Fit (Fit Jeans Wanita)",
-		"isMulti": true,
-        "items": [
-            {"key": "dress-wanita", "label": "Dress & Gamis",
-            "subitems": [
-                ["maxi-dress", "Maxi Dress"],
-                ["tunik-modern", "Tunik Modern"]
-              ]
-            },
-            {"key": "hijab-koleksi", "label": "Koleksi Hijab",
-            "subitems": [
-                ["pashmina-ceruty", "Pashmina Ceruty"],
-                ["segiempat-voal", "Segiempat Voal"]
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {"title": "Filter Spesifik",
-    "groups": [
-        {"key": "material-kain", "label": "Pilih Material (Multi-select)",
-        "isMulti": true,
-        "items": [
-            { "key": "katun-combed", "label": "Katun Combed" },
-            { "key": "denim-14oz", "label": "Denim 14oz" },
-            { "key": "linen-premium", "label": "Linen Premium" },
-            { "key": "polyester", "label": "Polyester" }
-          ]
-        },
-        {"key": "fit-kategori", "label": "Potongan Baju (Fit)",
-        "isMulti": true,
-        "items": [
-            { "key": "regular-fit", "label": "Regular Fit" },
-            { "key": "slim-fit", "label": "Slim Fit" },
-            { "key": "loose-fit", "label": "Loose Fit" }
-          ]
-        }
-      ]
-    }
+{"title": "PILIH FIT KAMU",
+"groups": [
+  {"key": "mens fit", "label": "Men's Fit (Fit Jeans Pria)",
+  "isMulti": true,
+  "items": [
+      {"key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)"},
+	  {"key": "baggy/loose fit men", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
+	  {"key": "relaxed fit", "label": "Relaxed Fit (Jeans Potongan Santai)"},
+	  {"key": "slim fit men", "label": "Slim Fit (Jeans Potongan Ramping)"},
+	  {"key": "tapered fit", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
+	  {"key": "regular fit", "label": "Regular Fit (Jeans Potongan Standar)"},
+      {"key": "skinny fit men", "label": "Skinny Fit (Jeans Potongan Ketat)"},
+	  {"key": "bootcut fit men", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"}
+	]
+  },
+  {"key": "womens fit", "label": "Women's Fit (Fit Jeans Wanita)",
+  "isMulti": true,
+  "items": [
+      {"key": "wide leg fit", "label": "Wide Leg Fit (Jeans Potongan Lebar)"},
+	  {"key": "baggy/loose fit women", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
+	  {"key": "straight leg fit", "label": "Straight Leg Fit (Jeans Potongan Lurus)"},
+	  {"key": "barrel/horseshoe fit", "label": "Barrel/Horseshoe Fit (Jeans Potongan Barrel)"},
+	  {"key": "flare/bootcut fit", "label": "Flare/Bootcut Fit (Jeans Potongan Flare)"},
+	  {"key": "slim fit women", "label": "Slim Fit (Jeans Potongan Ramping)"},
+	  {"key": "mom jeans fit", "label": "Mom Jeans Fit (Jeans Potongan Mom)"},
+	  {"key": "boyfriend fit", "label": "Boyfriend Fit (Jeans Potongan Boyfriend)"},
+	  {"key": "skinny fit women", "label": "Skinny Fit (Jeans Potongan Ketat)"},
+	  {"key": "bootcut fit women", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"}
+	]
+  }
+  ]
+},
+{"title": "Diri & Preferensimu",
+"groups": [
+  {"key": "pengguna", "label": "Pengguna (Gender)",
+  "isMulti": true,
+  "items": [
+      {"key": "men", "label": "Men (Pria)"},
+	  {"key": "women", "label": "Women (Wanita)"},
+      {"key": "unisex", "label": "Unisex (Uniseks)"}
+	]
+  },
+  {"key": "body type", "label": "Body Type (Tipe Tubuh)",
+  "isMulti": true,
+  "items": [
+      {"key": "standard", "label": "Standard (Proporsi Tubuh Standar)"},
+	  {"key": "big & tall", "label": "Big & Tall (Ukuran Besar & Panjang Ekstra)"},
+	  {"key": "athletic", "label": "Athletic (Paha Lebih Lebar & Tetap Ramping di Bawah)"},
+	  {"key": "curvy", "label": "Curvy (Lekuk Pinggul Tegas & Lebih Mengikuti Bentuk)"},
+	  {"key": "petite", "label": "Petite (Khusus Tubuh Kecil/Pendek & Proporsi Pas)"},
+      {"key": "plus size", "label": "Plus Size (Khusus Untuk Ukuran Besar)"}
+	]
+  },
+  {"key": "style", "label": "Style (Gaya)",
+  "isMulti": true,
+  "items": [
+      {"key": "streetwear", "label": "Streetwear (Gaya Kasual Urban & Trendi)"},
+      {"key": "minimal", "label": "Minimal (Sederhana, Bersih & Modern)"},
+	  {"key": "vintage", "label": "Vintage (Nuansa Klasik Tempo Dulu)"},
+	  {"key": "classic", "label": "Classic (Gaya Timeless & Tidak Lekang Tren)"}
+	]
+  },
+  {"key": "waist", "label": "Waist (Tinggi Pinggang)",
+  "isMulti": true,
+  "items": [
+      {"key": "high waist", "label": "High Waist (Pinggang Tinggi)"},
+      {"key": "mid waist", "label": "Mid Waist (Pinggang Sedang)"},
+	  {"key": "low waist", "label": "Low Waist (Pinggang Rendah)"}
+	]
+  },
+  {"key": "denim type", "label": "Denim Type (Tipe Denim)",
+  "isMulti": true,
+  "items": [
+      {"key": "selvedge denim", "label": "Selvedge Denim (Tepi Kain Ikonik, Rapat & Kuat)"},
+	  {"key": "raw/dry denim", "label": "Raw/Dry Denim (Kaku, Membentuk Fading Alami)"},
+	  {"key": "stretch denim", "label": "Stretch Denim (Fleksibel, Sangat Nyaman)"},
+	  {"key": "rigid denim", "label": "Rigid Denim (100% Katun, Non-Stretch Denim)"},
+	  {"key": "slubby denim", "label": "Slubby Denim (Tekstur Kasar & Bergelombang)"},
+	  {"key": "chambray", "label": "Chambray (Sangat Ringan & Lembut)"}
+	]
+  },
+  {"key": "distressing", "label": "Distressing (Tampilan)",
+  "isMulti": true,
+  "items": [
+      {"key": "clean look", "label": "Clean Look (Warna Solid & Tampilan Rapi)"},
+	  {"key": "ripped", "label": "Ripped (Sobekan Terlihat & Gaya Edgy)"},
+	  {"key": "whiskers & fades", "label": "Whiskers & Fades (Efek Luntur Alami Pada Lipatan)"},
+      {"key": "distressed", "label": "Distressed (Efek Pudar/Aus & Tampilan Vintage)"}
+	]
+  },
+  {"key": "brand", "label": "Brand (Merek)",
+  "isMulti": true,
+  "items": [
+      {"key": "oldblue co", "label": "Oldblue Co"},
+	  {"key": "mischief denim", "label": "Mischief Denim"},
+	  {"key": "sage denim", "label": "Sage Denim"},
+      {"key": "wingman denim", "label": "Wingman Denim"},
+	  {"key": "pot meets pop", "label": "Pot Meets Pop"},
+	  {"key": "nbdn denim", "label": "NBDN Denim"},
+	  {"key": "akaime", "label": "Akaime"},
+	  {"key": "warpweft", "label": "Warpweft"},
+	  {"key": "blue states", "label": "Blue States"},
+	  {"key": "carnivores soul", "label": "Carnivores Soul"},
+	  {"key": "bespoke project", "label": "Bespoke Project"},
+	  {"key": "earthy genova", "label": "Earthy Genova"},
+	  {"key": "adelaide denim", "label": "Adelaide Denim"},
+	  {"key": "mihane jeans", "label": "Mihane Jeans"},
+	  {"key": "indigo territory", "label": "Indigo Territory"},
+	  {"key": "used 1968", "label": "Used 1968"},
+	  {"key": "the denim station", "label": "The Denim Station"},
+	  {"key": "people meet denim", "label": "People Meet Denim"},
+	  {"key": "worckhome denim", "label": "Worckhome Denim"},
+	  {"key": "iron heart", "label": "Iron Heart"},
+	  {"key": "momotaro jeans", "label": "Momotaro Jeans"},
+	  {"key": "samurai jeans", "label": "Samurai Jeans"},
+	  {"key": "the flat head", "label": "The Flat Head"},
+	  {"key": "pure blue japan", "label": "Pure Blue Japan"},
+	  {"key": "studio dartisan", "label": "Studio D'Artisan"},
+	  {"key": "fullcount", "label": "FullCount"},
+	  {"key": "warehouse & co", "label": "Warehouse & Co"},
+	  {"key": "oni denim", "label": "ONI Denim"},
+	  {"key": "levis", "label": "Levi's"},
+	  {"key": "nudie jeans", "label": "Nudie Jeans"},
+	  {"key": "naked & famous", "label": "Naked & Famous"},
+	  {"key": "the unbranded brand", "label": "The Unbranded Brand"},
+	  {"key": "lee cooper", "label": "Lee Cooper"},
+	  {"key": "evisu", "label": "Evisu"},
+	  {"key": "nyoel jeans", "label": "Nyoel Jeans"}
+	]
+  },
+  {"key": "price", "label": "Sesuaikan Budget (Rentang Harga)",
+  "isMulti": true,
+  "items": [
+      {"key": "di bawah 200k", "label": "< 200K (Super Hemat, Tetap Stylish)"},
+      {"key": "200k – 399k", "label": "200K – 399K (Favorit Banyak Orang)"},
+	  {"key": "400k – 699k", "label": "400K – 699K (Seimbang, Nyaman & Berkualitas)"},
+      {"key": "700k – 999k", "label": "700K – 999K (Lebih Premium, Mulai Terasa Beda)"},
+	  {"key": "1jt – 1.5jt", "label": "1JT – 1.5JT (Premium Pilihan, Kualitas Unggul)"},
+	  {"key": "di atas 1.5jt", "label": "> 1.5JT (Premium Eksklusif, Untuk yang Spesial)"}
+	]
+  }
+  ]
+},
+{"title": "SELVEDGE DENIM",
+"groups": [
+  {"key": "washing", "label": "Washing (Pencucian)",
+  "isMulti": true,
+  "items": [
+      {"key": "raw selvedge", "label": "Raw Selvedge (Belum Dicuci, Karakter Berkembang)"},
+      {"key": "one wash selvedge", "label": "One Wash Selvedge (Dicuci Sekali, Lebih Stabil)"},
+	  {"key": "washed selvedge", "label": "Washed Selvedge (Lebih Lembut, Siap Pakai)"}
+	]
+  },
+  {"key": "shrinkage", "label": "Shrinkage (Penyusutan)",
+  "isMulti": true,
+  "items": [
+      {"key": "unsanforized selvedge", "label": "Unsanforized Selvedge (Menyusut, Fit Mengikuti Tubuh)"},
+      {"key": "sanforized selvedge", "label": "Sanforized Selvedge (Minim Susut, Ukuran Lebih Stabil)"}
+	]
+  },
+  {"key": "weight", "label": "Weight (Ketebalan Kain)",
+  "isMulti": true,
+  "items": [
+      {"key": "lightweight", "label": "Lightweight (≤ 12 oz, Ringan & Sejuk Di Kulit)"},
+      {"key": "midweight", "label": "Midweight (13–15 oz, Standar Ideal & Serbaguna)"},
+	  {"key": "heavyweight", "label": "Heavyweight (≥ 16 oz, Tebal, Awet & Fading Kontras)"}
+	]
+  },
+  {"key": "indigo dyeing", "label": "Indigo Dyeing (Pewarnaan)",
+  "isMulti": true,
+  "items": [
+      {"key": "standard indigo", "label": "Standard Indigo (Pewarna Sintetis Standar)"},
+	  {"key": "rope-dyed indigo", "label": "Rope-Dyed Indigo (Teknik Celup Tali, Fading Kontras & Estetik)"},
+	  {"key": "deep indigo", "label": "Deep Indigo (Biru Sangat Gelap, Hasil Fading Tajam)"},
+      {"key": "indigo x black", "label": "Indigo X Black (Warna Pekat, Benang Dalam Hitam)"},
+	  {"key": "natural indigo", "label": "Natural Indigo (Pewarna Alami, Warna Biru Klasik)"}
+	]
+  },
+  {"key": "selvedge id", "label": "Selvedge ID (Warna Tepi Kain)",
+  "isMulti": true,
+  "items": [
+      {"key": "red line", "label": "Red Line (Garis Merah, Paling Ikonik)"},
+	  {"key": "signature blue", "label": "Signature Blue (Garis Biru, Elegan)"},
+      {"key": "plain/silver line", "label": "Plain/Silver Line (Minimalis & Elegan)"},
+	  {"key": "multi-color line", "label": "Multi-Color Line (Warna Khusus/Edisi Terbatas)"}
+	]
+  },
+  {"key": "fabric origin", "label": "Fabric Origin (Asal Kain)",
+  "isMulti": true,
+  "items": [
+      {"key": "indonesian selvedge", "label": "Indonesian Selvedge (Kualitas Lokal, Karakter Kuat & Kompetitif)"},
+	  {"key": "japanese selvedge", "label": "Japanese Selvedge (Tekstur Unik, Standar Kualitas Tinggi)"},
+      {"key": "american selvedge", "label": "American Selvedge (Karakter Vintage, Nilai Sejarah Tinggi)"}
+	]
+  }
+  ]
+},
+{"title": "Akses Cepat",
+"groups": [
+  {"key": "koleksi pilihan", "label": "Koleksi Pilihan (Featured Collections)",
+  "isMulti": true,
+  "items": [
+      {"key": "editors picks", "label": "Editor's Picks (Pilihan Editor)"},
+	  {"key": "best sellers", "label": "Best Sellers (Paling Laris)"},
+      {"key": "most favorite", "label": "Most Favorite (Paling Pavorit)"}
+	]
+  },
+  {"key": "jeans terbaru & tren", "label": "Jeans Terbaru & Tren (New & Trend Jeans)",
+  "isMulti": true,
+  "items": [
+      {"key": "new arrivals", "label": "New Arrivals (Jeans Terbaru)"},
+	  {"key": "trending now", "label": "Trending Now (Lagi Tren)"}
+	]
+  }
+  ]
+}
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren"
+    "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren"
   ],
   "EXCLUDED_PILLS_BASE": [
     "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
