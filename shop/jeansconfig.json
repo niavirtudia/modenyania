@@ -3,7 +3,7 @@
     {"title": "PILIH FIT KAMU",
     "groups": [
         {"key": "mens fit", "label": "Men's Fit (Fit Jeans Pria)",
-        "isMulti": true,
+        "isMulti": false,
         "items": [
 			{"key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)"},
 			{"key": "baggy/loose fit men", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
@@ -61,7 +61,7 @@
     }
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren"
+    "womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren"
   ],
   "EXCLUDED_PILLS_BASE": [
     "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
