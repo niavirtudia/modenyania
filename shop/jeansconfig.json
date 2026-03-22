@@ -65,7 +65,7 @@
 	]
   },
   {"key": "waist", "label": "Waist (Tinggi Pinggang)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "high waist", "label": "High Waist (Pinggang Tinggi)"},
       {"key": "mid waist", "label": "Mid Waist (Pinggang Sedang)"},
@@ -73,7 +73,7 @@
 	]
   },
   {"key": "denim type", "label": "Denim Type (Tipe Denim)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "selvedge denim", "label": "Selvedge Denim (Tepi Kain Ikonik, Rapat & Kuat)"},
 	  {"key": "raw/dry denim", "label": "Raw/Dry Denim (Kaku, Membentuk Fading Alami)"},
@@ -84,7 +84,7 @@
 	]
   },
   {"key": "distressing", "label": "Distressing (Tampilan)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "clean look", "label": "Clean Look (Warna Solid & Tampilan Rapi)"},
 	  {"key": "ripped", "label": "Ripped (Sobekan Terlihat & Gaya Edgy)"},
@@ -133,7 +133,7 @@
 	]
   },
   {"key": "price", "label": "Sesuaikan Budget (Rentang Harga)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "di bawah 200k", "label": "< 200K (Super Hemat, Tetap Stylish)"},
       {"key": "200k – 399k", "label": "200K – 399K (Favorit Banyak Orang)"},
@@ -156,14 +156,14 @@
 	]
   },
   {"key": "shrinkage", "label": "Shrinkage (Penyusutan)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "unsanforized selvedge", "label": "Unsanforized Selvedge (Menyusut, Fit Mengikuti Tubuh)"},
       {"key": "sanforized selvedge", "label": "Sanforized Selvedge (Minim Susut, Ukuran Lebih Stabil)"}
 	]
   },
   {"key": "weight", "label": "Weight (Ketebalan Kain)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "lightweight", "label": "Lightweight (≤ 12 oz, Ringan & Sejuk Di Kulit)"},
       {"key": "midweight", "label": "Midweight (13–15 oz, Standar Ideal & Serbaguna)"},
@@ -171,7 +171,7 @@
 	]
   },
   {"key": "indigo dyeing", "label": "Indigo Dyeing (Pewarnaan)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "standard indigo", "label": "Standard Indigo (Pewarna Sintetis Standar)"},
 	  {"key": "rope-dyed indigo", "label": "Rope-Dyed Indigo (Teknik Celup Tali, Fading Kontras & Estetik)"},
@@ -181,7 +181,7 @@
 	]
   },
   {"key": "selvedge id", "label": "Selvedge ID (Warna Tepi Kain)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "red line", "label": "Red Line (Garis Merah, Paling Ikonik)"},
 	  {"key": "signature blue", "label": "Signature Blue (Garis Biru, Elegan)"},
@@ -190,7 +190,7 @@
 	]
   },
   {"key": "fabric origin", "label": "Fabric Origin (Asal Kain)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "indonesian selvedge", "label": "Indonesian Selvedge (Kualitas Lokal, Karakter Kuat & Kompetitif)"},
 	  {"key": "japanese selvedge", "label": "Japanese Selvedge (Tekstur Unik, Standar Kualitas Tinggi)"},
@@ -220,7 +220,7 @@
 }
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren"
+    "mens fit","womens fit","body type","style","brand","koleksi pilihan","jeans terbaru & tren"
   ],
   "EXCLUDED_PILLS_BASE": [
     "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
