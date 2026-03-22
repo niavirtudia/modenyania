@@ -5,27 +5,29 @@
   {"key": "mens fit", "label": "Men's Fit (Fit Jeans Pria)",
   "isMulti": true,
   "items": [
-      {"key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)"},
+      {"key": "straight fit men", "label": "Straight Fit (Jeans Potongan Lurus)"},
 	  {"key": "baggy/loose fit men", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
-	  {"key": "relaxed fit", "label": "Relaxed Fit (Jeans Potongan Santai)"},
+	  {"key": "relaxed fit men", "label": "Relaxed Fit (Jeans Potongan Santai)"},
 	  {"key": "slim fit men", "label": "Slim Fit (Jeans Potongan Ramping)"},
-	  {"key": "tapered fit", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
-	  {"key": "regular fit", "label": "Regular Fit (Jeans Potongan Standar)"},
+	  {"key": "tapered fit men", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
+	  {"key": "regular fit men", "label": "Regular Fit (Jeans Potongan Standar)"},
       {"key": "skinny fit men", "label": "Skinny Fit (Jeans Potongan Ketat)"},
-	  {"key": "bootcut fit men", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"}
+	  {"key": "tight fit men", "label": "Tight Fit (Potongan Ekstra Ketat)"},
+	  {"key": "bootcut fit men", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"},
+	  {"key": "relaxed tapered fit men", "label": "Relaxed Tapered Fit (Longgar di Atas, Mengecil di Bawah)"}
 	]
   },
   {"key": "womens fit", "label": "Women's Fit (Fit Jeans Wanita)",
   "isMulti": true,
   "items": [
-      {"key": "wide leg fit", "label": "Wide Leg Fit (Jeans Potongan Lebar)"},
+      {"key": "wide leg fit women", "label": "Wide Leg Fit (Jeans Potongan Lebar)"},
 	  {"key": "baggy/loose fit women", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
-	  {"key": "straight leg fit", "label": "Straight Leg Fit (Jeans Potongan Lurus)"},
-	  {"key": "barrel/horseshoe fit", "label": "Barrel/Horseshoe Fit (Jeans Potongan Barrel)"},
-	  {"key": "flare/bootcut fit", "label": "Flare/Bootcut Fit (Jeans Potongan Flare)"},
+	  {"key": "straight leg fit women", "label": "Straight Leg Fit (Jeans Potongan Lurus)"},
+	  {"key": "barrel/horseshoe fit women", "label": "Barrel/Horseshoe Fit (Jeans Potongan Barrel)"},
+	  {"key": "flare/bootcut fit women", "label": "Flare/Bootcut Fit (Jeans Potongan Flare)"},
 	  {"key": "slim fit women", "label": "Slim Fit (Jeans Potongan Ramping)"},
-	  {"key": "mom jeans fit", "label": "Mom Jeans Fit (Jeans Potongan Mom)"},
-	  {"key": "boyfriend fit", "label": "Boyfriend Fit (Jeans Potongan Boyfriend)"},
+	  {"key": "mom jeans fit women", "label": "Mom Jeans Fit (Jeans Potongan Mom)"},
+	  {"key": "boyfriend fit women", "label": "Boyfriend Fit (Jeans Potongan Boyfriend)"},
 	  {"key": "skinny fit women", "label": "Skinny Fit (Jeans Potongan Ketat)"},
 	  {"key": "bootcut fit women", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"}
 	]
