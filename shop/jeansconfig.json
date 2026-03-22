@@ -77,7 +77,12 @@
   "items": [
       {"key": "selvedge denim", "label": "Selvedge Denim (Tepi Kain Ikonik, Rapat & Kuat)"},
 	  {"key": "raw/dry denim", "label": "Raw/Dry Denim (Kaku, Membentuk Fading Alami)"},
-	  {"key": "stretch denim", "label": "Stretch Denim (Fleksibel, Sangat Nyaman)"},
+	  {"key": "stretch denim", "label": "Stretch Denim (Fleksibel, Sangat Nyaman)",
+      "subitems": [
+		  ["comfort stretch","Comfort Stretch (Elastis Ringan, Tetap Kokoh)"],
+		  ["super stretch","Super Stretch (Sangat Fleksibel & Mengikuti Tubuh)"]
+        ]
+      },
 	  {"key": "rigid denim", "label": "Rigid Denim (100% Katun, Non-Stretch Denim)"},
 	  {"key": "slubby denim", "label": "Slubby Denim (Tekstur Kasar & Bergelombang)"},
 	  {"key": "chambray", "label": "Chambray (Sangat Ringan & Lembut)"}
