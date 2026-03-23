@@ -1,0 +1,503 @@
+{
+  "NAV_DIMENSIONS": [
+{"title": "GAUN & DRESS PANJANG", 
+"groups": [
+  {"key":"gamis","label": "Gamis (Long Dress Gamis)",
+  "items": [
+	  {"key":"gamis harian/santai","label": "Gamis Harian/Santai (Daily/Casual Gamis)"},
+	  {"key":"gamis pesta","label": "Gamis Pesta (Party Gamis)"},
+	  {"key":"gamis brokat & bordir","label": "Gamis Brokat & Bordir (Lace & Embroidered Gamis)"},
+	  {"key":"gamis polos minimalis","label": "Gamis Polos Minimalis (Minimalist Plain Gamis)"},
+	  {"key":"gamis simple mewah","label": "Gamis Simple Mewah (Simple, Luxurious Gamis)"},
+	  {"key":"gamis syari","label": "Gamis Syari (Syari Gamis)"},
+	  {"key":"gamis tradisional","label": "Gamis Tradisional (Traditional Gamis)"},
+	  {"key":"gamis berlapis","label": "Gamis Berlapis (Layered Gamis)"},
+	  {"key":"gamis sporty","label": "Gamis Sporty (Sporty Gamis)"},
+	  {"key":"gamis beraksen","label": "Gamis Beraksen (Accented Gamis)"},
+	  {"key":"gamis modern","label": "Gamis Modern (Modern Gamis)"},
+	  {"key":"gamis busui friendly","label":"Gamis Busui Friendly (Nursing-Friendly Gamis)"}
+	]
+  },
+  {"key":"kaftan","label": "Kaftan (Kaftan)",
+  "items": [
+	  {"key":"kaftan satin/silk","label": "Kaftan Satin/Silk (Satin/Silk Kaftan)"},
+	  {"key":"kaftan brokat/etnik","label": "Kaftan Brokat/Etnik (Lace/Ethnic Kaftan)"},
+	  {"key":"kaftan harian","label": "Kaftan Harian (Daily Kaftan)"},
+	  {"key":"kaftan batik","label": "Kaftan Batik (Batik Kaftan)"},
+	  {"key":"kaftan satu set","label": "Kaftan Satu Set (One Set Kaftan)"},
+	  {"key":"kaftan rumah","label":"Kaftan Rumah (Home Kaftan)"}
+    ]
+  },
+  {"key":"abaya","label": "Abaya (Abaya)",
+  "items": [
+	  {"key":"abaya dubai/premium","label":"Abaya Dubai/Premium (Dubai/Premium Abaya)"},
+	  {"key":"abaya kimono style","label":"Abaya Kimono Style (Kimono-Style Abaya)"},
+	  {"key":"abaya harian","label":"Abaya Harian (Daily Abaya)"},
+	  {"key":"abaya minimalis","label":"Abaya Minimalis (Minimalist Abaya)"},
+	  {"key":"abaya set hijab","label":"Abaya Set Hijab (Abaya Hijab Set)"},
+	  {"key":"abaya ibu hamil","label":"Abaya Ibu Hamil (Maternity Abaya)"}
+    ]
+  },
+  {"key":"dress panjang","label": "Dress Panjang (Muslim Maxi Dress)",
+  "items": [
+	  {"key":"dress casual","label":"Dress Casual (Casual Maxi Dress)"},
+	  {"key":"dress kaos","label":"Dress Kaos (Tee Dress)"},
+	  {"key":"dress pesta","label":"Dress Pesta (Party Maxi Dress)"},
+	  {"key":"dress formal","label":"Dress Formal (Formal Maxi Dress)"},
+	  {"key":"dress berlapis","label":"Dress Berlapis (Layered Maxi Dress)"},
+	  {"key":"dress polos minimalis","label":"Dress Polos Minimalis (Minimalist Plain Maxi Dress)"},
+	  {"key":"dress ruffle/frill","label":"Dress Ruffle/Frill (Ruffle Maxi Dress)"},
+	  {"key":"dress a-line","label":"Dress A-Line (A-Line Maxi Dress)"},
+	  {"key":"dress empire waist","label":"Dress Empire Waist (Empire Waist Maxi Dress)"},
+	  {"key":"dress motif/printed","label":"Dress Motif/Printed (Printed Maxi Dress)"},
+	  {"key":"dress denim/linen","label":"Dress Denim/Linen (Denim/Linen Maxi Dress)"},
+	  {"key":"dress sporty","label":"Dress Sporty (Sporty Maxi Dress)"},
+	  {"key":"dress modern asimetris","label":"Dress Modern Asimetris (Asymmetrical Maxi Dress)"}
+    ]
+  },
+  {"key":"daster & gaun santai","label": "Daster & Gaun Santai (Muslimah Homewear & Loungewear)",
+  "items": [
+	  {"key":"daster kekinian","label":"Daster Kekinian (Baju Daster Model Sekarang)"},
+	  {"key":"daster tidur","label":"Daster Tidur (Daster Lembut & Nyaman)"},
+	  {"key":"daster kaos","label":"Daster Kaos (Bahan Kaos Kekinian)"},
+	  {"key":"daster katun/rayon","label":"Daster Katun/Rayon (Cotton/Rayon Home Dress)"},
+	  {"key":"daster motif/batik","label":"Daster Motif/Batik (Patterned/Batik Home Dress)"},
+	  {"key":"daster polos","label":"Daster Polos (Plain Home Dress)"},
+	  {"key":"daster busui friendly","label":"Daster Busui Friendly (Nursing-Friendly Home Dress)"}
+    ]
+  }
+  ]
+},
+{"title": "ATASAN MUSLIMAH", 
+"groups": [
+  {"key":"tunik","label": "Tunik (Tunic)",
+  "items": [
+	  {"key":"tunik harian","label":"Tunik Harian (Daily Tunic)"},
+	  {"key":"tunik polos","label":"Tunik Polos (Plain Tunic)"},
+	  {"key":"tunik motif/printed","label":"Tunik Motif/Printed (Patterned/Printed Tunic)"},
+	  {"key":"tunik oversize","label":"Tunik Oversize (Oversized Tunic)"},
+	  {"key":"tunik formal","label":"Tunik Formal (Formal Shirt-Tunic)"},
+	  {"key":"tunik linen/katun","label":"Tunik Linen/Katun (Linen/Cotton Tunic)"},
+	  {"key":"tunik kebaya","label":"Tunik Kebaya (Kebaya-Tunic)"},
+	  {"key":"tunik ibu hamil","label":"Tunik Ibu Hamil (Maternity Tunic)"}
+    ]
+  },
+  {"key":"blus","label": "Blus (Blouse)",
+  "items": [
+	  {"key":"blus polos","label":"Blus Polos (Plain Blouse)"},
+	  {"key":"blus motif/printed","label":"Blus Motif/Printed (Patterned/Printed Blouse)"},
+	  {"key":"blus formal","label":"Blus Formal (Formal Blouse)"},
+	  {"key":"blus brokat/lace","label":"Blus Brokat/Lace (Lace Blouse)"},
+	  {"key":"blus berlapis","label":"Blus Berlapis (Layered Blouse)"},
+	  {"key":"blus ukuran besar","label":"Blus Ukuran Besar (Oversized Blouse)"},
+	  {"key":"blus kimono style","label":"Blus Kimono Style (Kimono Blouse)"},
+	  {"key":"blus ruffle/frill","label":"Blus Ruffle/Frill (Ruffle Blouse)"},
+	  {"key":"blus lengan puff","label":"Blus Lengan Puff (Puff Sleeve Blouse)"},
+	  {"key":"blus asimetris","label":"Blus Asimetris (Asymmetrical Blouse)"},
+	  {"key":"blus linen/katun","label":"Blus Linen/Katun (Linen/Cotton Blouse)"},
+	  {"key":"blus peplum","label":"Blus Peplum (Peplum Blouse)"},
+	  {"key":"blus batik/etnik","label":"Blus Batik/Etnik (Batik/Ethnic Blouse)"}
+    ]
+  },
+  {"key":"outer & cardigan","label": "Outer & Cardigan (Muslimah Outerwear & Cardigans)",
+  "items": [
+	  {"key":"kimono outer muslimah","label":"Kimono Outer Muslimah (Muslimah Kimono Outer)"},
+	  {"key":"blazer muslimah","label":"Blazer Muslimah (Muslimah Oversized Blazer)"},
+	  {"key":"denim outer muslimah","label":"Denim Outer Muslimah (Muslimah Denim Outer)"},
+	  {"key":"kardigan","label": "Kardigan (Cardigan)",
+      "subitems": [
+          ["kardigan panjang", "Kardigan Panjang (Long Cardigan)"],
+		  ["kardigan rajut", "Kardigan Rajut (Knitted Cardigan)"],
+		  ["kardigan ukuran besar", "Kardigan Ukuran Besar (Oversized Cardigan)"],
+		  ["kardigan depan terbuka", "Kardigan Depan Terbuka (Open-Front Cardigan)"],
+          ["kardigan berikat pinggang", "Kardigan Berikat Pinggang (Belted Cardigan)"],
+		  ["kardigan ruffle/berlapis", "Kardigan Ruffle/Berlapis (Ruffle or Layered Cardigan)"],
+		  ["kardigan sporty", "Kardigan Sporty (Sporty Cardigan)"],
+		  ["kardigan crop", "Kardigan Crop (Cropped Cardigan)"],
+		  ["kardigan brokat/lace", "Kardigan Brokat/Lace (Lace Cardigan)"],
+		  ["kardigan batik/etnik", "Kardigan Batik/Etnik (Batik or Ethnic Cardigan)"]
+        ]
+      },
+	  {"key":"vest panjang muslimah","label":"Vest Panjang Muslimah (Muslimah Long Vest)"},
+	  {"key":"cape outer","label":"Cape Outer (Cape Outerwear)"},
+	  {"key":"jaket muslimah","label":"Jaket Muslimah (Muslimah Jacket)"},
+	  {"key":"hoodie muslimah","label":"Hoodie Muslimah (Muslimah Hoodie)"}
+    ]
+  }
+  ]
+},
+{"title": "BAWAHAN MUSLIMAH", 
+"groups": [
+  {"key":"rok panjang","label": "Rok Panjang (Long Skirt/Maxi Skirt)",
+  "items": [ 
+	  {"key": "rok plisket","label": "Rok Plisket (Pleated Skirt)"},
+	  {"key": "rok a-line","label": "Rok A-Line (A-Line Skirt)"},
+	  {"key": "rok lilit","label": "Rok Lilit (Wrap Skirt)"},
+	  {"key": "rok tulle","label": "Rok Tulle (Tulle Skirt)"},
+	  {"key": "rok denim","label": "Rok Denim (Denim Maxi Skirt)"},
+      {"key": "rok batik/etnik","label": "Rok Batik/Etnik (Batik/Ethnic Skirt)"}
+    ]
+  },
+  {"key":"rok celana", "label": "Rok Celana (Skirt Pants/Muslimah Skirt-Trousers)", "items": [] },
+  {"key":"celana panjang","label": "Celana Panjang (Long Pants/Muslimah Trousers)",
+  "items": [ 
+	  {"key": "celana kulot","label": "Celana Kulot (Culotte Pants)"},
+	  {"key": "celana palazzo","label": "Celana Palazzo (Palazzo Pants)"},
+	  {"key": "celana pleated","label": "Celana Pleated (Pleated Pants)"},
+	  {"key": "celana jogger","label": "Celana Jogger (Muslimah Jogger Pants)"},
+	  {"key": "celana straight cut","label": "Celana Straight Cut (Straight Cut Pants)"},
+	  {"key": "celana high waist","label": "Celana High Waist (High-Waist Pants)"},
+	  {"key": "celana cargo","label": "Celana Cargo (Muslimah Cargo Pants)"},
+	  {"key": "celana denim","label": "Celana Denim (Muslimah Denim Pants)"},
+	  {"key": "celana wide leg","label": "Celana Wide Leg (Wide-Leg Pants)"}
+	]
+  },
+  {"key":"skirt & hybrid style","label": "Skirt & Hybrid Style (Hybrid Modest Bottoms)",
+  "items": [ 
+	  {"key": "skirt over pants","label": "Skirt Over Pants (Layered Skirt-Pants)"},
+	  {"key": "skort muslimah","label": "Skort Muslimah (Modest Skort)"},
+	  {"key": "wrap pants","label": "Wrap Pants (Wrap-Style Pants)"}
+	]
+  },
+  {"key":"bawahan tradisional modern","label": "Bawahan Tradisional Modern (Modern Ethnic Bottoms)",
+  "items": [ 
+	  {"key": "sarung instan muslimah","label": "Sarung Instan Muslimah (Instant Sarong Skirt)"},
+	  {"key": "celana batik","label": "Celana Batik (Batik Pants)"},
+	  {"key": "celana tenun","label": "Celana Tenun (Handwoven Pants)"}
+	]
+  }
+  ]
+},
+{"title": "Pilih Preferensi", 
+"groups": [
+  {"key":"tren","label": "Koleksi Tren 2026 (New Trend 2026)",
+  "items": [
+	  {"key":"abaya modern","label": "Abaya Modern (Modern Batik & Minimalis)"},
+	  {"key":"sarimbit","label": "Sarimbit & Busana Keluarga (Pakaian Serasi/Pasangan)"},
+	  {"key":"baju kurung","label": "Baju Kurung Modern (Busana Muslim Tradisional)"},
+	  {"key":"hijab ombre","label": "Hijab Ombre & Printed (Hijab Dengan Gradasi Warna)"}
+	]
+  },
+  {"key":"rekomendasi","label": "Rekomendasi (Pilihan Populer)",
+  "items": [
+	  {"key":"produk terlaris","label": "Produk Terlaris (Best Sellers)"},
+	  {"key":"paling favorit","label": "Paling Favorit (Most Favorite)"},
+	  {"key":"pilihan editor","label": "Pilihan Editor (Editor's Pick)"}
+	]
+  }, 
+  {"key":"panjang busana","label": "Panjang Busana (Dress Length)",
+  "items": [
+	  {"key":"panjang/maxi","label": "Panjang/Maxi (Hingga Mata Kaki/Lantai)"},
+	  {"key":"midi","label": "Midi/Midi Length (Panjang Hingga Betis)"},
+	  {"key":"plus size","label": "Plus Size/Big Size Muslimah (Ukuran Besar/Jumbo Muslimah)"}
+	]
+  },
+  {"key":"gaya","label": "Gaya (Penampilan)",
+  "items": [
+	  {"key":"syari","label": "Syari (Tertutup, Longgar & Sopan)"},
+	  {"key":"kekinian","label": "kekinian/modern (Trendi, Ringkas & Stylish)"},
+	  {"key":"santai","label": "Santai/Casual (Ringan, Fleksibel & Harian)"},
+	  {"key":"minimalis","label": "Simpel/Minimalis (Sederhana, Bersih & Elegan)"},
+	  {"key":"anggun","label": "Anggun/Elegant (Mewah, Lembut & Berkelas)"},
+	  {"key":"sporty","label": "Aktif/Sporty (Elastis, Dinamis & Breathable)"},
+	  {"key":"tradisional/etnik","label": "Tradisional/Etnik (Bermotif, Berbudaya & Klasik)"}
+	]
+  },
+  {"key":"kegiatan","label": "Kegiatan (Acara)",
+  "items": [
+	  {"key":"harian","label": "Harian/Santai (Nyaman, Ringan & Praktis)"},
+	  {"key":"kerja","label": "Kerja/Formal (Profesional, Terstruktur & Sopan)"},
+	  {"key":"pesta","label": "Pesta (Elegan, Detail & Mewah)"},
+	  {"key":"travel","label": "Travel (Fleksibel, Anti Kusut & Fungsional)"},
+	  {"key":"ibadah","label": "Ibadah (Nyaman, Adem & Ringan)"}
+	]
+  },
+  {"key":"material","label": "Material (Bahan Pakaian)",
+  "items": [
+	  {"key":"katun","label": "Bahan Katun (Sejuk, Menyerap & Nyaman)"},
+	  {"key":"linen","label": "Bahan Denim/Linen (Ringan, Bertekstur & Natural)"},
+	  {"key":"satin/silk","label": "Bahan Satin/Silk (Halus, Mengilap & Mewah)"},
+	  {"key":"brokat","label": "Bahan Brokat/Bordir (Berornamen, Detail & Elegan)"},
+	  {"key":"rayon","label": "Bahan Rayon/Jersey (Adem, Lembut & Fleksibel)"},
+	  {"key":"ceruty","label": "Bahan Ceruty (Ringan, Jatuh & Elegan)"},
+	  {"key":"crinkle","label": "Crinkle (Kasual, Effortless & Modern)"},
+	  {"key":"cloud mist","label": "Cloud Mist (Ringan, Lembut & Jatuh Halus)"},
+	  {"key":"matte satin","label": "Matte Satin (Lembut, Ringan & Adem)"},
+	  {"key":"texture silk","label": "Texture Silk (Lembut, Elegan & Bertekstur)"}
+	  
+	]
+  },
+  {"key":"harga","label": "Rentang Harga (Price Range)",
+  "items": [
+      {"key":"under 50k","label": "Di bawah Rp50.000 (Harga Receh)"},
+	  {"key":"50k-150k","label": "Rp50.000 - Rp150.000 (Budget Tipis)"},
+      {"key":"150k-350k","label": "Rp150.000 - Rp350.000 (Harga Aman)"},
+	  {"key":"350k-750k","label": "Rp350.000 - Rp750.000 (Mid Range Style)"},
+	  {"key":"750k-1500k","label": "Rp750.000 - Rp1.500.000 (Kelas Premium)"},
+      {"key":"1500k++","label": "Rp1.500.000++ (Harga Sultan)"}
+    ]
+  },
+  {"key":"koleksi merek","label": "Koleksi Merek (Brands Collection)",
+  "items": [
+	  
+	  {"key":"belimukena premium","label": "Belimukena Premium (Koleksi Mukena Premium)"},
+	  {"key":"lozy hijab","label": "Lozy Hijab (Koleksi Hijab, Mukena & Abaya)"},
+	  {"key":"diario","label": "Diario (Koleksi Hijab, Mukena & Abaya)"},
+	  {"key":"tazbiya","label": "Tazbiya (Koleksi Mukena Berkualitas)"},
+	  {"key":"khadijah label","label": "Khadijah label (Koleksi Mukena Premium)"},
+	  {"key":"sabamodest","label": "Sabamodest (Modest Stylish, Exclusive)"},
+	  {"key":"mayra","label": "Mayra (Modestwear Minimalis)"},
+	  {"key":"agnes hijab","label": "Agnes Hijab (Koleksi Gamis Elegan)"},
+	  {"key":"elzatta","label": "Elzatta (Elzatta)"},
+	  {"key":"dian pelangi","label": "Dian Pelangi (Dian Pelangi)"},
+	  {"key":"casa elana","label": "Casa Elana (Casa Elana)"},
+	  {"key":"shafira","label": "Shafira (Shafira)"},
+	  {"key":"miss marina","label": "Miss Marina (Miss Marina)"},
+	  {"key":"monel","label": "Monel (Monel)"},
+	  {"key":"kivitz","label": "Kivitz (Kivitz)"},
+	  {"key":"ria miranda","label": "Ria Miranda (Ria Miranda)"},
+	  {"key":"mfmw","label": "MFMW (MFMW)"},
+	  {"key":"rabbani","label": "Rabbani (Rabbani)"},
+	  {"key":"si.se.sa","label": "Si.Se.Sa (Si.Se.Sa)"},
+	  {"key":"suqma","label": "Suqma (Suqma)"},
+	  {"key":"tunecca","label": "Tunecca (Tunecca)"},
+	  {"key":"zoya","label": "Zoya (Zoya)"},
+	  {"key":"vanilla hijab","label": "Vanilla Hijab (Vanilla Hijab)"}
+	]
+  },
+  {"key":"edisi premium","label": "Edisi Premium (Premium Edition)",
+  "items": [
+	  {"key":"gamis bordir & brokat premium","label": "Gamis Bordir & Brokat Premium (Premium Embroidered & Brocade Gamis)"},
+	  {"key":"abaya dubai premium","label": "Abaya Dubai Premium (Luxury Dubai Abaya)"},
+	  {"key":"hijab silk & satin","label": "Hijab Silk & Satin (Silk & Satin Hijab Collection)"},
+	  {"key":"aksesoris muslimah mewah","label": "Aksesoris Muslimah Mewah (Luxury Muslimah Accessories)"}
+	]
+  },
+  {"key":"ukuran besar","label": "Ukuran Besar (Plus Size Collection)",
+  "items": [
+	  {"key":"gaun & dress besar","label": "Gaun & Dress Besar (Gamis Big Size, Abaya Jumbo, Maxi Dress Curvy)"},
+	  {"key":"atasan plus size","label": "Atasan Plus Size (Tunik Oversize, Blus Big Size)"},
+	  {"key":"bawahan plus size","label": "Bawahan Plus Size (Rok Panjang Jumbo, Celana Kulot Big Size)"},
+	  {"key":"setelan plus size","label": "Setelan Plus Size (Sarimbit Big Size, Baju Kurung Plus Size)"},
+	  {"key":"hijab plus size","label": "Hijab Plus Size (Khimar Jumbo, Hijab untuk Wajah Bulat)"}
+	]
+  }
+  ]
+},
+{"title": "Setelan & Busana Fungsional", 
+"groups": [
+  {"key":"pakaian kantor & setelan muslimah","label": "Pakaian Kantor & Setelan Muslimah (Muslimah Office Wear & Coordinated Sets)",
+  "items": [
+	  {"key":"tunik formal untuk kerja","label":"Tunik Formal untuk Kerja (Formal Work Tunic)"},
+	  {"key":"blazer & abaya profesional","label":"Blazer & Abaya Profesional (Professional Blazer & Abaya)"},
+	  {"key":"setelan blus & rok/celana","label":"Setelan Blus & Rok/Celana (Blouse & Skirt/Pants Set)"},
+	  {"key":"setelan tunik & celana kulot","label":"Setelan Tunik & Celana Kulot (Tunic & Culotte Pants Set)"},
+	  {"key":"setelan blus & rok plisket","label":"Setelan Blus & Rok Plisket (Blouse & Pleated Skirt Set)"},
+	  {"key":"setelan outer & inner","label":"Setelan Outer & Inner (One Set Outer & Inner Outfit)"}
+    ]
+  },
+  {"key":"pakaian muslim untuk bepergian","label": "Pakaian Muslim untuk Bepergian (Travel Muslim Wear)",
+  "items": [
+	  {"key":"travel abaya","label": "Travel Abaya (Travel-Friendly Abaya)"},
+	  {"key":"travel tunic & pants set","label": "Travel Tunic & Pants Set (Travel Tunic & Pants Set)"},
+	  {"key":"hijab anti kusut","label": "Hijab Anti Kusut (Wrinkle-Free Travel Hijab)"},
+	  {"key":"outer lightweight muslimah","label": "Outer Lightweight Muslimah (Lightweight Muslim Outerwear)"},
+	  {"key":"gamis sporty travel","label": "Gamis Sporty Travel (Sporty Travel Gamis)"}
+	]
+  },
+  {"key":"setelan busana & keluarga","label": "Setelan Busana & Keluarga (Family & Couple Outfits)",
+  "items": [
+	  {"key":"setelan hijab + gamis","label": "Setelan Hijab + Gamis (Hijab + Gamis Set)"},
+	  {"key":"setelan hijab + tunik","label": "Setelan Hijab + Tunik (Hijab + Tunic Set)"},
+	  {"key":"setelan keluarga/sarimbit","label": "Setelan Keluarga/Sarimbit (Family Matching Set/Sarimbit)"},
+	  {"key":"setelan suami & istri","label": "Setelan Suami & Istri (Husband & Wife Set)"},
+	  {"key":"setelan ibu–anak","label": "Setelan Ibu–Anak (Mother–Daughter Set)"},
+	  {"key":"setelan ayah–anak","label": "Setelan Ayah–Anak (Father–Son Set)"},
+	  {"key":"busana keluarga lebaran","label": "Busana Keluarga Lebaran (Eid Family Outfit)"}
+	]
+  }
+  ]
+},
+{"title": "Hijab & Aksesoris", 
+"groups": [
+  {"key":"hijab","label": "Hijab (Penutup Kepala & Tubuh)",
+  "items": [
+      {"key":"hijab segi empat","label": "Hijab Segi Empat (Square Hijab)",
+      "subitems": [
+		  ["hijab voal", "Hijab Voal (Voal Hijab)"],
+		  ["hijab silk/satin", "Hijab Silk/Satin (Silk/Satin Hijab)"],
+		  ["hijab cornskin/crinkle", "Hijab Cornskin/Crinkle (Cornskin/Crinkle Hijab)"]
+        ]
+      },
+	  {"key":"hijab polos/netral","label":"Hijab Polos/Netral (Plain/Neutral Hijab)"},
+	  {"key":"hijab motif/printed","label":"Hijab Motif/Printed (Patterned/Printed Hijab)"},
+	  {"key":"hijab pashmina","label": "Hijab Pashmina (Pashmina Hijab)",
+	  "subitems": [
+		  ["pashmina crinkle", "Pashmina Crinkle (Crinkle Pashmina)"],
+	      ["pashmina ceruty babydoll", "Pashmina Ceruty Babydoll (Ceruty Babydoll Pashmina)"],
+		  ["pashmina plisket", "Pashmina Plisket (Pleated Pashmina)"]
+        ]
+      },
+	  {"key":"hijab turban","label":"Hijab Turban (Turban Hijab)"},
+	  {"key":"hijab dengan earrings","label":"Hijab dengan Earrings (Hijab with Earrings)"},
+	  {"key":"hijab premium","label":"Hijab Premium (Luxury Hijab Collection)"},
+	  {"key":"hijab instan/khimar","label": "Hijab Instan/Khimar (Instant Hijab/Khimar)",
+      "subitems": [
+		  ["khimar 2 lapis", "Khimar 2 Lapis (Two-Layer Khimar)"],
+		  ["khimar panjang", "Khimar Panjang (Long Khimar)"],
+		  ["khimar soft pad/non pad", "Khimar Soft Pad/Non Pad (Soft Pad/Non-Pad Khimar)"],
+		  ["khimar syari jumbo", "Khimar Syari Jumbo (Jumbo Syari Khimar)"],
+		  ["khimar instan busui", "Khimar Instan Busui (Nursing-Friendly Instant Khimar)"]
+        ]
+      }
+    ]
+  },
+  {"key":"aksesoris","label": "Aksesoris (Hijab Accessories)",
+  "items": [
+	  {"key":"ciput/inner hijab","label": "Ciput/Inner Hijab (Inner Cap/Underscarf)"},
+	  {"key":"syal/pashmina","label": "Syal/Pashmina (Scarf/Pashmina)"},
+	  {"key":"bros & peniti hijab","label": "Bros & Peniti Hijab (Hijab Brooches & Pins)"}
+	]
+  }
+  ]
+},
+{"title": "PAKAIAN MUSLIM PRIA", 
+"groups": [
+  {"key":"pakaian muslim pria","label": "Busana Muslim Pria (Muslim Wear)",
+  "items": [
+	  {"key":"kemeja koko","label": "Kemeja Koko (Koko Shirt)"},
+	  {"key":"koko polos & minimalis","label": "Koko Polos & Minimalis (Plain & Minimalist Koko)"},
+	  {"key":"koko bordir & brokat","label": "Koko Bordir & Brokat (Embroidered & Brocade Koko)"},
+	  {"key":"koko batik & etnik","label": "Koko Batik & Etnik (Batik & Ethnic Koko)"},
+	  {"key":"jubah/thobe","label": "Jubah/Thobe (Jubah/Thobe)"},
+	  {"key":"jubah daily","label": "Jubah Daily (Daily Thobe)"},
+	  {"key":"jubah pesta","label": "Jubah Pesta (Formal/Party Thobe)"},
+	  {"key":"sarung & baju muslim","label": "Sarung & Baju Muslim (Sarong & Muslim Shirt)"},
+	  {"key":"sarung modern","label": "Sarung Modern (Modern Sarong)"},
+	  {"key":"set sarung & koko","label": "Set Sarung & Koko (Sarong & Koko Set)"}
+	]
+  },
+  {"key":"aksesoris pria","label": "Aksesoris Pria (Muslim Accessories)",
+  "items": [
+	  {"key":"peci/songkok","label": "Peci/Songkok (Peci/Skullcap)"},
+	  {"key":"sorban","label": "Sorban (Turban/Head Scarf)"},
+	  {"key":"tasbih & parfum muslim","label": "Tasbih & Parfum Muslim (Prayer Beads & Islamic Perfume)"}
+	]
+  }
+  ]
+},
+{"title": "PERLENGKAPAN IBADAH", 
+"groups": [
+  {"key":"mukena","label": "Mukena (Harian, Jumbo, Travel)",
+  "items": [
+	  {"key":"mukena harian","label": "Mukena Harian (Nyaman, Praktis & Rutin)"},
+	  {"key":"mukena jumbo","label": "Mukena Jumbo (Lega, Menutup & Nyaman)"},
+	  {"key":"mukena travel","label": "Mukena Travel (Ringkas, Ringan & Portabel)"},
+	  {"key":"mukena ringan","label": "Mukena Ringan (Enteng, Adem & Fleksibel)"},
+	  {"key":"mukena terusan","label": "Mukena Terusan (Simpel, Cepat & Rapi)"},
+	  {"key":"mukena premium","label": "Mukena Premium (Mewah, Halus & Elegan)"},
+	  {"key":"mukena parasut","label": "Mukena Parasut (Tipis, Cepat Kering & Tahan Air)"},
+	  {"key":"mukena silk","label": "Mukena Silk (Lembut, Jatuh & Eksklusif)"},
+	  {"key":"mukena polos","label": "Mukena Polos (Minimalis, Kalem & Timeless)"},
+	  {"key":"mukena motif","label": "Mukena Motif (Feminin, Artistik & Menarik)"},
+	  {"key":"mukena anak","label": "Mukena Anak (Ceria, Ringan & Nyaman)"},
+	  {"key":"mukena hadiah","label": "Mukena Hadiah (Cantik, Berkesan & Siap Kado)"}
+	]
+  },
+  {"key": "sajadah","label": "Sajadah (Harian, Travel, Motif)",
+  "items": [
+	  {"key":"sajadah harian","label": "Sajadah Harian (Nyaman, Praktis & Rutin)"},
+	  {"key":"sajadah travel","label": "Sajadah Travel (Ringkas, Ringan & Portabel)"},
+	  {"key":"sajadah tipis","label": "Sajadah Tipis (Fleksibel, Cepat Kering & Praktis)"},
+	  {"key":"sajadah tebal","label": "Sajadah Tebal (Empuk, Hangat & Nyaman)"},
+	  {"key":"sajadah premium","label": "Sajadah Premium (Mewah, Halus & Elegan)"},
+	  {"key":"sajadah parasut","label": "Sajadah Parasut (Anti Air, Ringan & Tahan)"},
+	  {"key":"sajadah anti slip","label": "Sajadah Anti Slip (Aman, Stabil & Nyaman)"},
+	  {"key":"sajadah polos/minimalis","label": "Sajadah Polos/Minimalis (Simpel, Kalem & Timeless)"},
+	  {"key":"sajadah motif","label": "Sajadah Motif (Artistik, Menarik & Ekspresif)"},
+	  {"key":"sajadah beludru/velvet","label": "Sajadah Beludru/Velvet (Lembut, Mewah & Hangat)"},
+	  {"key":"sajadah anak","label": "Sajadah Anak (Ceria, Ringan & Nyaman)"},
+	  {"key":"sajadah hadiah","label": "Sajadah Hadiah (Elegan, Berkesan & Siap Kado)"}
+	]
+  },
+  {"key":"tas ibadah","label": "Tas Ibadah (Travel, Mini, Premium)",
+  "items": [
+	  {"key":"tas mukena & sajadah","label": "Tas Mukena & Sajadah (Multifungsi, Muat Banyak & Praktis)"},
+	  {"key":"tas travel ibadah","label": "Tas Travel Ibadah (Ringan, Ringkas & Siap Jalan)"},
+	  {"key":"tas ibadah mini","label": "Tas Ibadah Mini (Kecil, Simpel & Efisien)"},
+	  {"key":"tas ibadah serut","label": "Tas Ibadah Serut (Cepat, Praktis & Santai)"},
+	  {"key":"tas ibadah waterproof","label": "Tas Ibadah Waterproof (Anti Air, Aman & Tahan)"},
+	  {"key":"tas ibadah premium","label": "Tas Ibadah Premium (Eksklusif, Rapi & Elegan)"},
+	  {"key":"tas ibadah polos/minimalis","label": "Tas Ibadah Polos/Minimalis (Clean, Kalem & Fleksibel)"},
+	  {"key":"tas ibadah motif","label": "Tas Ibadah Motif (Menarik, Unik & Ceria)"},
+	  {"key":"tas ibadah hadiah","label": "Tas Ibadah Hadiah (Cantik, Berkesan & Siap Kado)"}
+	]
+  }
+  ]
+}
+  ],
+  "MULTI_SELECT_CATEGORIES": [
+    "tren","rekomendasi","panjang busana","gaya","kegiatan","material","harga","koleksi merek","edisi premium","ukuran besar","mukena","sajadah","tas ibadah"
+  ],
+  "EXCLUDED_PILLS_BASE": [
+    "tren","rekomendasi","panjang busana","gaya","kegiatan","material","harga","koleksi merek","edisi premium","ukuran besar","aksesoris","pakaian muslim pria","aksesoris pria","produk terlaris","paling favorit","pilihan editor","harian","kerja","pesta","travel","under 50k","50k-150k","150k-350k","350k-750k","750k-1500k","1500k++"
+  ],
+  "categoryData": {
+    "gamis": {
+        "desc": "Gamis muslimah dengan potongan longgar dan panjang, dirancang untuk kenyamanan sekaligus tampilan anggun dalam berbagai aktivitas harian hingga acara formal.",
+        "intro": "Anggun, syar’i, dan selalu relevan."
+    },
+    "kaftan": {
+        "desc": "Kaftan muslimah dengan siluet flowy dan detail elegan, cocok untuk acara spesial, momen istimewa, hingga tampilan premium yang effortless.",
+        "intro": "Elegansi longgar yang memikat."
+    },
+    "abaya": {
+        "desc": "Abaya muslimah bergaya klasik hingga modern dengan desain minimalis dan potongan lurus, menghadirkan kesan mewah yang tenang dan berkelas.",
+        "intro": "Kesederhanaan yang berkelas."
+    },
+    "dress panjang": {
+        "desc": "Dress panjang muslimah dengan desain tertutup dan nyaman, ideal untuk gaya feminin yang sopan namun tetap stylish.",
+        "intro": "Feminin, sopan, dan penuh pesona."
+    },
+    "daster & gaun santai": {
+        "desc": "Daster dan gaun santai muslimah yang ringan, adem, dan praktis, dirancang untuk kenyamanan maksimal saat di rumah maupun aktivitas kasual.",
+        "intro": "Nyaman dipakai, cantik dinikmati."
+    },
+    "tunik": {
+        "desc": "Tunik muslimah dengan panjang ideal dan desain versatile, mudah dipadukan dengan berbagai bawahan untuk gaya harian yang rapi.",
+        "intro": "Simpel, fleksibel, selalu pas."
+    },
+    "blus": {
+        "desc": "Blus muslimah dengan potongan sopan dan detail modern, cocok untuk tampilan kasual rapi hingga semi formal.",
+        "intro": "Rapi, ringan, dan effortless."
+    },
+    "outer & cardigan muslimah": {
+        "desc": "Outer dan cardigan muslimah sebagai pelengkap gaya, memberikan sentuhan layering yang sopan, hangat, dan stylish.",
+        "intro": "Layering manis untuk gaya muslimah."
+    },
+    "rok panjang": {
+        "desc": "Rok panjang muslimah dengan potongan longgar dan bahan nyaman, mendukung gerak aktif tanpa mengorbankan kesantunan.",
+        "intro": "Melangkah bebas dengan tetap anggun."
+    },
+    "rok celana": {
+        "desc": "Rok celana muslimah yang memadukan tampilan feminin dan kenyamanan celana, ideal untuk aktivitas aktif sehari-hari.",
+        "intro": "Fleksibel bergerak, tetap sopan."
+    },
+    "celana panjang": {
+        "desc": "Celana panjang muslimah dengan potongan longgar dan desain modest, nyaman dipakai untuk gaya kasual hingga formal.",
+        "intro": "Nyaman bergerak, rapi terlihat."
+    },
+    "skirt & hybrid style": {
+        "desc": "Skirt dan hybrid style muslimah dengan desain inovatif yang menggabungkan fungsi, gaya modern, dan nilai modest fashion.",
+        "intro": "Gaya baru untuk muslimah modern."
+    },
+    "bawahan tradisional modern": {
+        "desc": "Bawahan muslimah bernuansa tradisional dengan sentuhan modern, menghadirkan keanggunan etnik yang relevan dengan gaya masa kini.",
+        "intro": "Tradisi bertemu gaya masa kini."
+    },
+    "hijab": {
+        "desc": "Hijab muslimah dengan pilihan bahan, warna, dan tekstur yang nyaman, mendukung tampilan rapi dan percaya diri setiap hari.",
+        "intro": "Pelengkap sempurna gaya muslimah."
+    }
+  }
+}
