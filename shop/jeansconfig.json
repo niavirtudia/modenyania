@@ -8,7 +8,10 @@
       {"key": "straight fit men", "label": "Straight Fit (Jeans Potongan Lurus)"},
 	  {"key": "baggy/loose fit men", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
 	  {"key": "relaxed fit men", "label": "Relaxed Fit (Jeans Potongan Santai)"},
+	  {"key": "relaxed straight fit men", "label": "Relaxed Straight Fit (Potongan Lebih Longgar dari Straight)"},
 	  {"key": "slim fit men", "label": "Slim Fit (Jeans Potongan Ramping)"},
+	  {"key": "slim straight fit men", "label": "Slim Straight Fit (Ramping, Lurus dari Paha ke Bawah)"},
+	  {"key": "slim tapered fit men", "label": "Slim Tapered Fit (Ramping di Paha, Mengecil ke Bawah)"},
 	  {"key": "tapered fit men", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
 	  {"key": "regular fit men", "label": "Regular Fit (Jeans Potongan Standar)"},
       {"key": "skinny fit men", "label": "Skinny Fit (Jeans Potongan Ketat)"},
@@ -182,7 +185,8 @@
 	  {"key": "rope-dyed indigo", "label": "Rope-Dyed Indigo (Teknik Celup Tali, Fading Kontras & Estetik)"},
 	  {"key": "deep indigo", "label": "Deep Indigo (Biru Sangat Gelap, Hasil Fading Tajam)"},
       {"key": "indigo x black", "label": "Indigo X Black (Warna Pekat, Benang Dalam Hitam)"},
-	  {"key": "natural indigo", "label": "Natural Indigo (Pewarna Alami, Warna Biru Klasik)"}
+	  {"key": "natural indigo", "label": "Natural Indigo (Pewarna Alami, Warna Biru Klasik)"},
+	  {"key": "bushido indigo", "label": "Bushido Indigo (Warna Biru Pekat, Signature Dye)"}
 	]
   },
   {"key": "selvedge id", "label": "Selvedge ID (Warna Tepi Kain)",
