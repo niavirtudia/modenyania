@@ -258,6 +258,12 @@
             "url": "https://tk.tokopedia.com/ZSuqxkPHV/",
             "data-type": "Tokopedia",
             "title": "Beli di Tokopedia"
+        },
+		{
+            "logo": "logo-artikel",
+            "url": "https://www.modenyania.com/shop/jeans/14-oz-selvedge-denim",
+            "data-type": "Article",
+            "title": "Lihat di Article"
         }
     ]
 }
