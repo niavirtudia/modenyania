@@ -14,6 +14,7 @@
 	  {"key": "slim tapered fit men", "label": "Slim Tapered Fit (Ramping di Paha, Mengecil ke Bawah)"},
 	  {"key": "tapered fit men", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
 	  {"key": "regular fit men", "label": "Regular Fit (Jeans Potongan Standar)"},
+	  {"key": "regular tapered fit men", "label": "Regular Tapered Fit (Standar di Atas, Mengecil ke Bawah)"},
       {"key": "skinny fit men", "label": "Skinny Fit (Jeans Potongan Ketat)"},
 	  {"key": "tight fit men", "label": "Tight Fit (Potongan Ekstra Ketat)"},
 	  {"key": "bootcut fit men", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"},
@@ -64,7 +65,9 @@
       {"key": "streetwear", "label": "Streetwear (Gaya Kasual Urban & Trendi)"},
       {"key": "minimal", "label": "Minimal (Sederhana, Bersih & Modern)"},
 	  {"key": "vintage", "label": "Vintage (Nuansa Klasik Tempo Dulu)"},
-	  {"key": "classic", "label": "Classic (Gaya Timeless & Tidak Lekang Tren)"}
+	  {"key": "classic", "label": "Classic (Gaya Timeless & Tidak Lekang Tren)"},
+	  {"key": "casual", "label": "Casual (Santai, Nyaman Untuk Harian)"},
+	  {"key": "smart casual", "label": "Smart Casual (Santai Tapi Tetap Rapi)"}
 	]
   },
   {"key": "waist", "label": "Waist (Tinggi Pinggang)",
@@ -75,20 +78,37 @@
 	  {"key": "low waist", "label": "Low Waist (Pinggang Rendah)"}
 	]
   },
-  {"key": "denim type", "label": "Denim Type (Tipe Denim)",
+  {"key": "weight", "label": "Weight (Ketebalan Denim)",
   "isMulti": false,
+  "items": [
+      {"key": "lightweight", "label": "Lightweight (≤ 12 oz, Ringan & Sejuk Di Kulit)"},
+      {"key": "midweight", "label": "Midweight (13–15 oz, Standar Ideal & Serbaguna)"},
+	  {"key": "heavyweight", "label": "Heavyweight (≥ 16 oz, Tebal, Awet & Fading Kontras)"}
+	]
+  },
+  {"key": "denim type", "label": "Denim Type (Tipe Denim)",
+  "isMulti": true,
   "items": [
       {"key": "selvedge denim", "label": "Selvedge Denim (Tepi Kain Ikonik, Rapat & Kuat)"},
 	  {"key": "raw/dry denim", "label": "Raw/Dry Denim (Kaku, Membentuk Fading Alami)"},
-	  {"key": "stretch denim", "label": "Stretch Denim (Fleksibel, Sangat Nyaman)",
-      "subitems": [
-		  ["comfort stretch","Comfort Stretch (Elastis Ringan, Tetap Kokoh)"],
-		  ["super stretch","Super Stretch (Sangat Fleksibel & Mengikuti Tubuh)"]
-        ]
-      },
+	  {"key": "stretch denim", "label": "Stretch Denim (Fleksibel, Sangat Nyaman)"},
+	  {"key": "non-stretch", "label": "Non-Stretch (Tidak Elastis, Tidak Melar)"},
 	  {"key": "rigid denim", "label": "Rigid Denim (100% Katun, Non-Stretch Denim)"},
 	  {"key": "slubby denim", "label": "Slubby Denim (Tekstur Kasar & Bergelombang)"},
 	  {"key": "chambray", "label": "Chambray (Sangat Ringan & Lembut)"}
+	]
+  },
+  {"key": "denim material", "label": "Denim Material (Material & Inovasi)",
+  "isMulti": false,
+  "items": [
+      {"key": "organic cotton", "label": "Organic Cotton (Katun Alami, Ramah Lingkungan)"},
+	  {"key": "recycled denim", "label": "Recycled Denim (Bahan Daur Ulang)"},
+	  {"key": "seaweed denim", "label": "Seaweed Denim (Serat Rumput Laut, Inovatif & Unik)"},
+      {"key": "stretch blend", "label": "Stretch Blend (Lebih Fleksibel & Nyaman)"},
+	  {"key": "tencel", "label": "TENCEL™/Lyocell (Lembut & Breathable)"},
+	  {"key": "hemp blend", "label": "Hemp Blend (Kuat & Natural)"},
+	  {"key": "linen blend", "label": "Linen Blend (Lebih Ringan & Adem)"},
+	  {"key": "recycled stretch", "label": "Recycled Stretch (Stretch + Bahan Daur Ulang)"}
 	]
   },
   {"key": "distressing", "label": "Distressing (Tampilan)",
@@ -170,14 +190,6 @@
       {"key": "sanforized selvedge", "label": "Sanforized Selvedge (Minim Susut, Ukuran Lebih Stabil)"}
 	]
   },
-  {"key": "weight", "label": "Weight (Ketebalan Kain)",
-  "isMulti": false,
-  "items": [
-      {"key": "lightweight", "label": "Lightweight (≤ 12 oz, Ringan & Sejuk Di Kulit)"},
-      {"key": "midweight", "label": "Midweight (13–15 oz, Standar Ideal & Serbaguna)"},
-	  {"key": "heavyweight", "label": "Heavyweight (≥ 16 oz, Tebal, Awet & Fading Kontras)"}
-	]
-  },
   {"key": "indigo dyeing", "label": "Indigo Dyeing (Pewarnaan)",
   "isMulti": false,
   "items": [
@@ -185,14 +197,18 @@
 	  {"key": "rope-dyed indigo", "label": "Rope-Dyed Indigo (Teknik Celup Tali, Fading Kontras & Estetik)"},
 	  {"key": "deep indigo", "label": "Deep Indigo (Biru Sangat Gelap, Hasil Fading Tajam)"},
       {"key": "indigo x black", "label": "Indigo X Black (Warna Pekat, Benang Dalam Hitam)"},
+	  {"key": "indigo x indigo", "label": "Indigo x Indigo (Warna Biru Luar-Dalam, Dimensi Biru Pekat)"},
+	  {"key": "black x black", "label": "Black x Black (Hitam Pekat Luar-Dalam, Tampilan Stealth)"},
 	  {"key": "natural indigo", "label": "Natural Indigo (Pewarna Alami, Warna Biru Klasik)"},
-	  {"key": "bushido indigo", "label": "Bushido Indigo (Warna Biru Pekat, Signature Dye)"}
+	  {"key": "bushido indigo", "label": "Bushido Indigo (Warna Biru Pekat, Signature Dye)"},
+	  {"key": "overdyed", "label": "Overdyed (Warna Tambahan di Atas Indigo)"}
 	]
   },
   {"key": "selvedge id", "label": "Selvedge ID (Warna Tepi Kain)",
   "isMulti": false,
   "items": [
       {"key": "red line", "label": "Red Line (Garis Merah, Paling Ikonik)"},
+	  {"key": "green line", "label": "Green Line (Garis Hijau, Unik)"},
 	  {"key": "signature blue", "label": "Signature Blue (Garis Biru, Elegan)"},
       {"key": "plain/silver line", "label": "Plain/Silver Line (Minimalis & Elegan)"},
 	  {"key": "multi-color line", "label": "Multi-Color Line (Warna Khusus/Edisi Terbatas)"}
@@ -229,7 +245,7 @@
 }
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "mens fit","womens fit","body type","style","brand","koleksi pilihan","jeans terbaru & tren"
+    "mens fit","womens fit","body type","denim type","style","brand","koleksi pilihan","jeans terbaru & tren"
   ],
   "EXCLUDED_PILLS_BASE": [
     "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
@@ -258,6 +274,10 @@
 	  "denim type": {
 		"desc": "Pilih denim sesuai gaya hidup: keaslian Selvedge, kekokohan Rigid, atau fleksibilitas Stretch. Tiap jenis kain menentukan karakter jeans kamu",
 		"introl": "Bukan Sekadar Kain, Ini Karakter"
+	  },
+	  "denim material": {
+		"desc": "Pilih denim sesuai material dan inovasi brand. Dari bahan alami, daur ulang, ringan hingga nyaman",
+		"introl": "Bukan Sekadar Material, Ini Kenyamanan"
 	  },
 	  "distressing": {
 		"desc": "Jeans clean look, sobek, fade maupun yang berefek pudar, semua memberikan karakter berbeda pada penampilanmu.",
