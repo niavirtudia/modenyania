@@ -195,12 +195,14 @@
   "items": [
       {"key": "standard indigo", "label": "Standard Indigo (Pewarna Sintetis Standar)"},
 	  {"key": "rope-dyed indigo", "label": "Rope-Dyed Indigo (Teknik Celup Tali, Fading Kontras & Estetik)"},
+	  {"key": "dark indigo x white", "label": "Dark Indigo x White (Luar Biru Pekat, Dalam Putih)"},
 	  {"key": "deep indigo", "label": "Deep Indigo (Biru Sangat Gelap, Hasil Fading Tajam)"},
       {"key": "indigo x black", "label": "Indigo X Black (Warna Pekat, Benang Dalam Hitam)"},
 	  {"key": "indigo x indigo", "label": "Indigo x Indigo (Warna Biru Luar-Dalam, Dimensi Biru Pekat)"},
 	  {"key": "black x black", "label": "Black x Black (Hitam Pekat Luar-Dalam, Tampilan Stealth)"},
 	  {"key": "natural indigo", "label": "Natural Indigo (Pewarna Alami, Warna Biru Klasik)"},
 	  {"key": "bushido indigo", "label": "Bushido Indigo (Warna Biru Pekat, Signature Dye)"},
+	  {"key": "kasuri indigo", "label": "Kasuri Indigo (Teknik Ikat Tradisional, Pola Bintik Putih Organik)"},
 	  {"key": "overdyed", "label": "Overdyed (Warna Tambahan di Atas Indigo)"}
 	]
   },
@@ -248,7 +250,7 @@
     "mens fit","womens fit","body type","denim type","style","brand","koleksi pilihan","jeans terbaru & tren"
   ],
   "EXCLUDED_PILLS_BASE": [
-    "mens fit","womens fit","pengguna","body type","style","waist","denim type","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
+    "mens fit","womens fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
   ],
   "categoryData": {
 	  "mens fit": {
