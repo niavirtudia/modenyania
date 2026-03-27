@@ -98,6 +98,26 @@
 	  {"key": "chambray", "label": "Chambray (Sangat Ringan & Lembut)"}
 	]
   },
+  {"key": "denim look", "label": "Denim Look (Tampilan Denim)",
+  "isMulti": false,
+  "items": [
+      {"key": "clean look", "label": "Clean Look (Warna Solid & Tampilan Rapi)"},
+	  {"key": "ripped", "label": "Ripped (Sobekan Terlihat & Gaya Edgy)"},
+	  {"key": "whiskers & fades", "label": "Whiskers & Fades (Efek Luntur Alami Pada Lipatan)"},
+      {"key": "distressed", "label": "Distressed (Efek Pudar/Aus & Tampilan Vintage)"}
+	]
+  },
+  {"key": "denim design", "label": "Denim Design (Bentuk & Karakter Utama)",
+  "isMulti": false,
+  "items": [
+	  {"key": "regular", "label": "Regular (Klasik & Fleksibel)"},
+	  {"key": "cargo", "label": "Cargo (Fungsional & Aktif)"},
+	  {"key": "carpenter", "label": "Carpenter (Workwear & Rugged)"},
+	  {"key": "utility", "label": "Utility (Praktis & Clean)"},
+	  {"key": "minimal", "label": "Minimal (Simpel & Modern)"},
+	  {"key": "biker", "label": "Biker (Dinamis & Edgy)"}
+	]
+  },
   {"key": "denim material", "label": "Denim Material (Material & Inovasi)",
   "isMulti": false,
   "items": [
@@ -109,15 +129,6 @@
 	  {"key": "hemp blend", "label": "Hemp Blend (Kuat & Natural)"},
 	  {"key": "linen blend", "label": "Linen Blend (Lebih Ringan & Adem)"},
 	  {"key": "recycled stretch", "label": "Recycled Stretch (Stretch + Bahan Daur Ulang)"}
-	]
-  },
-  {"key": "distressing", "label": "Distressing (Tampilan)",
-  "isMulti": false,
-  "items": [
-      {"key": "clean look", "label": "Clean Look (Warna Solid & Tampilan Rapi)"},
-	  {"key": "ripped", "label": "Ripped (Sobekan Terlihat & Gaya Edgy)"},
-	  {"key": "whiskers & fades", "label": "Whiskers & Fades (Efek Luntur Alami Pada Lipatan)"},
-      {"key": "distressed", "label": "Distressed (Efek Pudar/Aus & Tampilan Vintage)"}
 	]
   },
   {"key": "brand", "label": "Brand (Merek)",
@@ -250,7 +261,7 @@
     "mens fit","womens fit","body type","denim type","style","brand","koleksi pilihan","jeans terbaru & tren"
   ],
   "EXCLUDED_PILLS_BASE": [
-    "mens fit","womens fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","distressing","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
+    "mens fit","womens fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","denim look","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
   ],
   "categoryData": {
 	  "mens fit": {
@@ -281,7 +292,7 @@
 		"desc": "Pilih denim sesuai material dan inovasi brand. Dari bahan alami, daur ulang, ringan hingga nyaman",
 		"introl": "Bukan Sekadar Material, Ini Kenyamanan"
 	  },
-	  "distressing": {
+	  "denim look": {
 		"desc": "Jeans clean look, sobek, fade maupun yang berefek pudar, semua memberikan karakter berbeda pada penampilanmu.",
 		"introl": "Tampilan Jeansmu Memancarkan Karakter"
 	  },
