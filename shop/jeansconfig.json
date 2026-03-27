@@ -1,39 +1,37 @@
 {
   "NAV_DIMENSIONS": [
-{"title": "PILIH FIT KAMU",
+{"title": "PILIH LOOK & FITMU",
 "groups": [
-  {"key": "mens fit", "label": "Men's Fit (Fit Jeans Pria)",
+  {"key": "denim look", "label": "Denim Look (Tampilan Denim)",
   "isMulti": true,
   "items": [
-      {"key": "straight fit men", "label": "Straight Fit (Jeans Potongan Lurus)"},
-	  {"key": "baggy/loose fit men", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
-	  {"key": "relaxed fit men", "label": "Relaxed Fit (Jeans Potongan Santai)"},
-	  {"key": "relaxed straight fit men", "label": "Relaxed Straight Fit (Potongan Lebih Longgar dari Straight)"},
-	  {"key": "slim fit men", "label": "Slim Fit (Jeans Potongan Ramping)"},
-	  {"key": "slim straight fit men", "label": "Slim Straight Fit (Ramping, Lurus dari Paha ke Bawah)"},
-	  {"key": "slim tapered fit men", "label": "Slim Tapered Fit (Ramping di Paha, Mengecil ke Bawah)"},
-	  {"key": "tapered fit men", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
-	  {"key": "regular fit men", "label": "Regular Fit (Jeans Potongan Standar)"},
-	  {"key": "regular tapered fit men", "label": "Regular Tapered Fit (Standar di Atas, Mengecil ke Bawah)"},
-      {"key": "skinny fit men", "label": "Skinny Fit (Jeans Potongan Ketat)"},
-	  {"key": "tight fit men", "label": "Tight Fit (Potongan Ekstra Ketat)"},
-	  {"key": "bootcut fit men", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"},
-	  {"key": "relaxed tapered fit men", "label": "Relaxed Tapered Fit (Longgar di Atas, Mengecil di Bawah)"}
+      {"key": "clean look", "label": "Clean Look (Warna Solid & Tampilan Rapi)"},
+	  {"key": "ripped", "label": "Ripped (Sobekan Terlihat & Gaya Edgy)"},
+      {"key": "distressed", "label": "Distressed (Efek Pudar/Aus & Tampilan Vintage)"},
+	  {"key": "whiskers & fades", "label": "Whiskers & Fades (Efek Luntur Alami Pada Lipatan)"}
 	]
   },
-  {"key": "womens fit", "label": "Women's Fit (Fit Jeans Wanita)",
+  {"key": "denim fit", "label": "Denim Fit (Potongan Denim)",
   "isMulti": true,
   "items": [
-      {"key": "wide leg fit women", "label": "Wide Leg Fit (Jeans Potongan Lebar)"},
-	  {"key": "baggy/loose fit women", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
-	  {"key": "straight leg fit women", "label": "Straight Leg Fit (Jeans Potongan Lurus)"},
-	  {"key": "barrel/horseshoe fit women", "label": "Barrel/Horseshoe Fit (Jeans Potongan Barrel)"},
-	  {"key": "flare/bootcut fit women", "label": "Flare/Bootcut Fit (Jeans Potongan Flare)"},
-	  {"key": "slim fit women", "label": "Slim Fit (Jeans Potongan Ramping)"},
-	  {"key": "mom jeans fit women", "label": "Mom Jeans Fit (Jeans Potongan Mom)"},
-	  {"key": "boyfriend fit women", "label": "Boyfriend Fit (Jeans Potongan Boyfriend)"},
-	  {"key": "skinny fit women", "label": "Skinny Fit (Jeans Potongan Ketat)"},
-	  {"key": "bootcut fit women", "label": "Bootcut Fit (Jeans Potongan Ramping-Lebar)"}
+      {"key": "straight fit", "label": "Straight Fit (Jeans Potongan Lurus)"},
+	  {"key": "relaxed fit", "label": "Relaxed Fit (Jeans Potongan Santai)"},
+	  {"key": "relaxed straight fit", "label": "Relaxed Straight Fit (Lebih Longgar dari Straight)"},
+	  {"key": "relaxed tapered fit", "label": "Relaxed Tapered Fit (Longgar di Atas, Mengecil di Bawah)"},
+	  {"key": "slim fit", "label": "Slim Fit (Jeans Potongan Ramping)"},
+	  {"key": "slim straight fit", "label": "Slim Straight Fit (Ramping, Lurus dari Paha ke Bawah)"},
+	  {"key": "slim tapered fit", "label": "Slim Tapered Fit (Ramping di Paha, Mengecil ke Bawah)"},
+	  {"key": "tapered fit", "label": "Tapered Fit (Jeans Potongan Mengecil)"},
+	  {"key": "regular fit", "label": "Regular Fit (Jeans Potongan Standar)"},
+	  {"key": "regular tapered fit", "label": "Regular Tapered Fit (Standar di Atas, Mengecil ke Bawah)"},
+      {"key": "skinny fit", "label": "Skinny Fit (Jeans Potongan Ketat)"},
+	  {"key": "tight fit", "label": "Tight Fit (Potongan Ekstra Ketat)"},
+	  {"key": "wide leg fit", "label": "Wide Leg Fit (Jeans Potongan Lebar)"},
+	  {"key": "barrel/horseshoe fit", "label": "Barrel/Horseshoe Fit (Jeans Potongan Barrel)"},
+	  {"key": "flare/bootcut fit", "label": "Flare/Bootcut Fit (Jeans Potongan Flare)"},
+	  {"key": "baggy/loose fit", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
+	  {"key": "mom jeans fit", "label": "Mom Jeans Fit (Jeans Potongan Mom)"},
+	  {"key": "boyfriend fit", "label": "Boyfriend Fit (Jeans Potongan Boyfriend)"}
 	]
   }
   ]
@@ -96,15 +94,6 @@
 	  {"key": "rigid denim", "label": "Rigid Denim (100% Katun, Non-Stretch Denim)"},
 	  {"key": "slubby denim", "label": "Slubby Denim (Tekstur Kasar & Bergelombang)"},
 	  {"key": "chambray", "label": "Chambray (Sangat Ringan & Lembut)"}
-	]
-  },
-  {"key": "denim look", "label": "Denim Look (Tampilan Denim)",
-  "isMulti": false,
-  "items": [
-      {"key": "clean look", "label": "Clean Look (Warna Solid & Tampilan Rapi)"},
-	  {"key": "ripped", "label": "Ripped (Sobekan Terlihat & Gaya Edgy)"},
-	  {"key": "whiskers & fades", "label": "Whiskers & Fades (Efek Luntur Alami Pada Lipatan)"},
-      {"key": "distressed", "label": "Distressed (Efek Pudar/Aus & Tampilan Vintage)"}
 	]
   },
   {"key": "denim design", "label": "Denim Design (Bentuk & Karakter Utama)",
@@ -258,19 +247,19 @@
 }
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "mens fit","womens fit","body type","denim type","style","brand","koleksi pilihan","jeans terbaru & tren"
+    "denim look","denim fit","body type","denim type","style","brand","koleksi pilihan","jeans terbaru & tren"
   ],
   "EXCLUDED_PILLS_BASE": [
-    "mens fit","womens fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","denim look","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
+    "denim look","denim fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
   ],
   "categoryData": {
-	  "mens fit": {
-		"desc": "Temukan fit jeans pria yang langsung membentuk siluet tegas dan maskulin. Lebih rapi, lebih percaya diri, dan siap tampil maksimal.",
-		"introl": "Fit Jeans Tegas, Rapi & Berkarakter"
+	  "denim look": {
+		"desc": "Jeans clean look, sobek, fade maupun yang berefek pudar, semua memberikan karakter berbeda pada penampilanmu.",
+		"introl": "Tampilan Jeansmu Memancarkan Karakter"
 	  },
-	  "womens fit": {
-		"desc": "Pilih jeans wanita yang mengikuti lekuk tubuh dengan sempurna. Nyaman dipakai, menonjolkan bentuk, dan bikin kamu tampil lebih percaya diri.",
-		"introl": "Fit Jeans untuk Bentuk Indah dan Percaya Diri"
+	  "denim fit": {
+		"desc": "Temukan fit jeans yang langsung membentuk siluet tegas dan maskulin. Lebih rapi, membentuk tubuh, lebih percaya diri, dan siap tampil maksimal.",
+		"introl": "Fit Jeans Tegas, Rapi & Berkarakter"
 	  },
 	  "body type": {
 		"desc": "Tidak perlu ke mana-mana untuk memilih celana jeans yang sesuai bentuk tubuhmu! Cukup sekali klik di sini",
@@ -291,10 +280,6 @@
 	  "denim material": {
 		"desc": "Pilih denim sesuai material dan inovasi brand. Dari bahan alami, daur ulang, ringan hingga nyaman",
 		"introl": "Bukan Sekadar Material, Ini Kenyamanan"
-	  },
-	  "denim look": {
-		"desc": "Jeans clean look, sobek, fade maupun yang berefek pudar, semua memberikan karakter berbeda pada penampilanmu.",
-		"introl": "Tampilan Jeansmu Memancarkan Karakter"
 	  },
 	  "brand": {
 		"desc": "Merek celana jeans pilihan, bikin koleksi birumu lengkap dan siap tampil beda serta percaya diri.",
