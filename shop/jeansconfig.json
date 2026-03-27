@@ -51,23 +51,23 @@
   {"key": "body type", "label": "Body Type (Tipe Tubuh)",
   "isMulti": true,
   "items": [
-      {"key": "standard", "label": "Standard (Proporsi Tubuh Standar)"},
-	  {"key": "big & tall", "label": "Big & Tall (Ukuran Besar & Panjang Ekstra)"},
-	  {"key": "athletic", "label": "Athletic (Paha Lebih Lebar & Tetap Ramping di Bawah)"},
-	  {"key": "curvy", "label": "Curvy (Lekuk Pinggul Tegas & Lebih Mengikuti Bentuk)"},
-	  {"key": "petite", "label": "Petite (Khusus Tubuh Kecil/Pendek & Proporsi Pas)"},
-      {"key": "plus size", "label": "Plus Size (Khusus Untuk Ukuran Besar)"}
+	  {"key": "standard", "label": "Standard Fit (Pas & Fleksibel Buat Kebanyakan Orang)"},
+	  {"key": "big & tall", "label": "Big & Tall (Badan Besar/Tinggi, Tetap Proporsional)"},
+	  {"key": "athletic", "label": "Athletic Build (Paha Lebih Berisi, Tetap Rapi di Bawah)"},
+	  {"key": "curvy", "label": "Curvy Shape (Ngikut Bentuk, Tetap Nyaman Dipakai)"},
+	  {"key": "petite", "label": "Petite Fit (Badan Lebih Kecil, Tetap Pas & Proporsional)"},
+	  {"key": "plus size", "label": "Plus Size (Ukuran Lebih Besar, Tetap Nyaman & Pede)"}
 	]
   },
   {"key": "style", "label": "Style (Gaya)",
   "isMulti": true,
   "items": [
-      {"key": "streetwear", "label": "Streetwear (Gaya Kasual Urban & Trendi)"},
-      {"key": "minimal", "label": "Minimal (Sederhana, Bersih & Modern)"},
-	  {"key": "vintage", "label": "Vintage (Nuansa Klasik Tempo Dulu)"},
-	  {"key": "classic", "label": "Classic (Gaya Timeless & Tidak Lekang Tren)"},
-	  {"key": "casual", "label": "Casual (Santai, Nyaman Untuk Harian)"},
-	  {"key": "smart casual", "label": "Smart Casual (Santai Tapi Tetap Rapi)"}
+	  {"key": "streetwear", "label": "Street Mode (Santai Tapi Stand Out)"},
+	  {"key": "minimal", "label": "Minimal Clean (Anti Ribet, Tetap Cakep)"},
+	  {"key": "vintage", "label": "Vintage Feel (Klasik Tapi Ngena)"},
+	  {"key": "classic", "label": "Classic Vibes (Gak Pernah Salah)"},
+	  {"key": "casual", "label": "Casual Daily (Pakai Terus, Gak Mikir)"},
+	  {"key": "smart casual", "label": "Smart Casual (Rapi Tapi Santai)"}
 	]
   },
   {"key": "waist", "label": "Waist (Tinggi Pinggang)",
