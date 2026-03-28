@@ -89,7 +89,12 @@
   "items": [
       {"key": "selvedge denim", "label": "Selvedge Denim (Tepi Kain Ikonik, Rapat & Kuat)"},
 	  {"key": "raw/dry denim", "label": "Raw/Dry Denim (Kaku, Membentuk Fading Alami)"},
-	  {"key": "stretch denim", "label": "Stretch Denim (Fleksibel, Sangat Nyaman)"},
+	  {"key": "stretch denim", "label": "Stretch Denim (Fleksibel, Sangat Nyaman)",
+	  "subitems": [
+		  ["comfort stretch","Comfort Stretch (x)"],
+		  ["x","x (x)"]
+        ]
+	  },
 	  {"key": "non-stretch", "label": "Non-Stretch (Tidak Elastis, Tidak Melar)"},
 	  {"key": "rigid denim", "label": "Rigid Denim (100% Katun, Non-Stretch Denim)"},
 	  {"key": "slubby denim", "label": "Slubby Denim (Tekstur Kasar & Bergelombang)"},
@@ -121,7 +126,7 @@
 	]
   },
   {"key": "brand", "label": "Brand (Merek)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "oldblue co", "label": "Oldblue Co"},
 	  {"key": "mischief denim", "label": "Mischief Denim"},
@@ -157,7 +162,11 @@
 	  {"key": "the unbranded brand", "label": "The Unbranded Brand"},
 	  {"key": "lee cooper", "label": "Lee Cooper"},
 	  {"key": "evisu", "label": "Evisu"},
-	  {"key": "nyoel jeans", "label": "Nyoel Jeans"}
+	  {"key": "nyoel jeans", "label": "Nyoel Jeans"},
+	  {"key": "denimitup", "label": "Denimitup"},
+	  {"key": "hyperdenim", "label": "Hyperdenim"},
+	  {"key": "joybasic", "label": "Joybasic"}
+
 	]
   },
   {"key": "price", "label": "Sesuaikan Budget (Rentang Harga)",
@@ -228,29 +237,19 @@
 },
 {"title": "Akses Cepat",
 "groups": [
-  {"key": "koleksi pilihan", "label": "Koleksi Pilihan (Featured Collections)",
-  "isMulti": true,
-  "items": [
-      {"key": "editors picks", "label": "Editor's Picks (Pilihan Editor)"},
-	  {"key": "best sellers", "label": "Best Sellers (Paling Laris)"},
-      {"key": "most favorite", "label": "Most Favorite (Paling Pavorit)"}
-	]
-  },
-  {"key": "jeans terbaru & tren", "label": "Jeans Terbaru & Tren (New & Trend Jeans)",
-  "isMulti": true,
-  "items": [
-      {"key": "new arrivals", "label": "New Arrivals (Jeans Terbaru)"},
-	  {"key": "trending now", "label": "Trending Now (Lagi Tren)"}
-	]
-  }
+  {"key": "editors picks", "label": "Editor's Picks (Pilihan Editor)", "isMulti": false, "items": []},
+  {"key": "best sellers", "label": "Best Sellers (Paling Laris)", "isMulti": false, "items": []},
+  {"key": "most favorite", "label": "Most Favorite (Paling Pavorit)", "isMulti": false, "items": []},
+  {"key": "new arrivals", "label": "New Arrivals (Jeans Terbaru)", "isMulti": false, "items": []},
+  {"key": "trending now", "label": "Trending Now (Lagi Tren)", "isMulti": false, "items": []}
   ]
 }
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "denim look","denim fit","body type","denim type","style","brand","koleksi pilihan","jeans terbaru & tren"
+    "denim look","denim fit","body type","denim type","style"
   ],
   "EXCLUDED_PILLS_BASE": [
-    "denim look","denim fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","koleksi pilihan","jeans terbaru & tren","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
+    "denim look","denim fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
   ],
   "categoryData": {
 	  "denim look": {
@@ -312,14 +311,6 @@
 	  "fabric origin": {
 		"desc": "Pilih berdasarkan asal denim. Premium lokal hingga legenda selvedge denim internasional",
 		"introl": "Premium Lokal Hingga Internasional"
-	  },
-	  "koleksi pilihan": {
-		"desc": "Pilih celana jeans berdasarkan hasil kurasi editor, terlaris di brand celana jeans, hingga yang paling favorit oleh konsumen",
-		"introl": "Pilihan Editor, Terlaris & Paling Favorit"
-	  },
-	  "jeans terbaru & tren": {
-		"desc": "Pilih celana jeans terbaru dari berbagai merek ternama, bikin koleksimu semakin lengkap atau ikuti tren celana jeans",
-		"introl": "Jeans Terbaru & Tren"
 	  }
   }
 }
