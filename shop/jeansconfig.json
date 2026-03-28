@@ -85,7 +85,7 @@
 	]
   },
   {"key": "denim type", "label": "Denim Type (Tipe Denim)",
-  "isMulti": true,
+  "isMulti": false,
   "items": [
       {"key": "selvedge denim", "label": "Selvedge Denim (Tepi Kain Ikonik, Rapat & Kuat)"},
 	  {"key": "raw/dry denim", "label": "Raw/Dry Denim (Kaku, Membentuk Fading Alami)"},
@@ -246,7 +246,7 @@
 }
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "denim look","denim fit","body type","denim type","style"
+    "denim look","denim fit","body type","style"
   ],
   "EXCLUDED_PILLS_BASE": [
     "denim look","denim fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
