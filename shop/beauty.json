@@ -1,61 +1,6 @@
 [
-  {
-	"searched": "M03",
-	"name": "Twinpack Azalea Smooth Foot Cream - Krim Pelembut Kaki",
-    "image": "https://i.ibb.co.com/VWgCrVVb/og.webp",
-	"price": "Rp42.808",
-	"category": [
-      "perawatan khusus", 
-      "merek", 
-      "rentang harga",
-	  "produk terlaris",
-	  "paling favorit",
-	  "pilihan editor"
-    ],
-	"subcategory": [
-      "hand & foot care",
-	  "perawatan kaki",
-      "azalea",
-      "under 50k"
-    ],
-	"subsub": [
-      "foot cream",
-	  "krim kaki"
-    ], 
-	"articleUrl": "https://list.modenyania.com/beauty/azalea-smooth-foot-cream-krim-pelembut-kaki.html",
-    "links": [
-      {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSH7aoevMTgr7-yqUW9/", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "https://s.shopee.co.id/9KZKRMuFbK", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "https://tk.tokopedia.com/ZSUksB7nK/", "title": "Beli di Tokopedia"}
-    ]
-  },{
-    "searched": "M02",
-	"name": "COSRX Low pH Good Morning Cleanser - 150 ML (Sabun Wajah Untuk Semua Jenis Kulit) Best Seller",
-    "image": "https://i.ibb.co.com/MkFz5KXY/COSRX-Cleanser.webp",
-	"price": "Rp116.250",
-	"category": [
-      "skincare", 
-      "merek", 
-      "rentang harga",
-	  "pilihan editor"
-    ], 
-	"subcategory": [
-      "cleanser",
-	  "pembersih wajah",
-      "cosrx", 
-      "50k-150k"
-    ],
-    "subsub": ["cleansing gel", "gel pembersih wajah"],
-	"articleUrl": "https://list.modenyania.com/beauty/cosrx-low-ph-good-morning-cleanser.html",
-    "links": [
-      {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSH7M7uUBTuyo-n5xf9/", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "https://s.shopee.co.id/50QGXRlq4d", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "https://tk.tokopedia.com/ZSUYHWftG/", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "https://atid.me/go/nnvniuA0", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "https://atid.me/go/jx4lcG00", "title": "Beli di Blibli"}
-    ]
-  },{
-    "searched": "M01",
+{
+    "searched": "B01",
 	"name": "Cetaphil Gentle Skin Cleanser 500ml dengan Niacinamide, Glycerin dan Panthenol Sabun Pembersih Muka Untuk Segala Jenis Kulit",
     "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
 	"price": "Rp185.900",
@@ -76,14 +21,50 @@
       "150k-350k"
     ],
 	"subsub": ["gentle cleanser", "pembersih lembut", "hydrating", "kulit kering"],
-	"articleUrl": "https://list.modenyania.com/beauty/cetaphil-gentle-skin-cleanser.html",
+	"firstshopUrl": "https://vt.tokopedia.com/t/ZSHtTQSoCLbBV-dft7p/",
     "links": [
-      {"logo": "logo-tiktok", "url": "https://vt.tokopedia.com/t/ZSHtTQSoCLbBV-dft7p/", "title": "Beli di TikTok"},
-	  {"logo": "logo-shopee", "url": "https://s.shopee.co.id/BKGb9AcjP", "title": "Beli di Shopee"},
-      {"logo": "logo-tokopedia", "url": "https://tk.tokopedia.com/ZSAos2tv6/", "title": "Beli di Tokopedia"},
-      {"logo": "logo-lazada", "url": "https://atid.me/go/U5BVlADb", "title": "Beli di Lazada"},
-      {"logo": "logo-blibli", "url": "https://atid.me/go/zmwpQx3q", "title": "Beli di Blibli"},
-      {"logo": "logo-zalora", "url": "https://invl.me/clmy7pd", "title": "Beli di Zalora"}
+        {
+            "logo": "logo-tiktok",
+            "url": "https://vt.tokopedia.com/t/ZSHtTQSoCLbBV-dft7p/",
+            "data-type": "TikTok",
+            "title": "Beli di TikTok"
+        },
+        {
+            "logo": "logo-shopee",
+            "url": "https://s.shopee.co.id/BKGb9AcjP",
+            "data-type": "Shopee",
+            "title": "Beli di Shopee"
+        },
+        {
+            "logo": "logo-tokopedia",
+            "url": "https://tk.tokopedia.com/ZSAos2tv6/",
+            "data-type": "Tokopedia",
+            "title": "Beli di Tokopedia"
+        },
+        {
+            "logo": "logo-lazada",
+            "url": "https://atid.me/go/U5BVlADb",
+            "data-type": "Lazada",
+            "title": "Beli di Lazada"
+        },
+        {
+            "logo": "logo-blibli",
+            "url": "https://atid.me/go/zmwpQx3q",
+            "data-type": "Blibli",
+            "title": "Beli di Blibli"
+        },
+        {
+            "logo": "logo-zalora",
+            "url": "https://invl.me/clmy7pd",
+            "data-type": "Zalora",
+            "title": "Beli di Zalora"
+        },
+        {
+            "logo": "logo-artikel",
+            "url": "https://www.modenyania.com/shop/beauty/cetaphil-gentle-skin-cleanser",
+            "data-type": "Article",
+            "title": "Lihat di Article"
+        }
     ]
   }
 ]
