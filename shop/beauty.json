@@ -5,22 +5,24 @@
     "image": "https://i.ibb.co.com/HpC5f9hX/BKGb9-Acj-P.webp",
 	"price": "Rp185.900",
 	"category": [
-      "skincare", 
+      "produk prioritas",
+	  "facial skin concerns",
+	  "skincare",
       "merek", 
-      "produk terlaris",
-	  "paling favorit",
-	  "pilihan editor",
 	  "rentang harga"
     ],
 	"subcategory": [
-      "cleanser",
-	  "pembersih wajah",
-	  "skin concern",
-	  "masalah kulit",
+      "produk terlaris",
+	  "paling favorit",
+	  "pilihan editor",
+      "face cleanser",
       "cetaphil",
       "150k-350k"
     ],
-	"subsub": ["gentle cleanser", "pembersih lembut", "hydrating", "kulit kering"],
+	"subsub": [
+	  "gentle cleanser",
+	  "hydrating cleanser"
+	],
 	"firstshopUrl": "https://vt.tokopedia.com/t/ZSHtTQSoCLbBV-dft7p/",
     "links": [
         {
