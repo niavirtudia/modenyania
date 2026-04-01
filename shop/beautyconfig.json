@@ -40,7 +40,8 @@
       {"key": "dull skin", "label": "Dull Skin (Kulit Kusam)"},
       {"key": "redness", "label": "Redness (Kemerahan & Iritasi)"},
       {"key": "large pores", "label": "Large Pores (Pori-Pori Besar)"},
-      {"key": "skin barrier damage", "label": "Skin Barrier Damage (Skin Barrier Rusak & Sensitif)"},
+	  {"key": "weak skin barrier", "label": "Weak Skin Barrier (Skin Barrier Lemah)"},
+      {"key": "damaged skin barrier", "label": "Damaged Skin Barrier (Skin Barrier Rusak & Sensitif)"},
 	  {"key": "dehydrated skin", "label": "Dehydrated Skin (Kulit Kering & Dehidrasi)"}
 	]
   },
@@ -243,17 +244,19 @@
   {"key": "skin recovery & sensitive", "label": "Skin Recovery & Sensitive (Pemulihan & Perawatan Kulit Sensitif)",
   "isMulti": true,
   "items": [
-      {"key": "sensitive/calming routine", "label": "Sensitive/Calming Routine (Perawatan Harian untuk Kulit Reaktif)"},
+	  {"key": "daily gentle care", "label": "Daily Gentle/Barrier Care (Perawatan Dasar Kulit Sensitif)"},
+	  {"key": "sensitive/calming routine", "label": "Sensitive/Calming Routine (Perawatan Harian untuk Kulit Reaktif)"},
       {"key": "post-procedure & clinical recovery", "label": "Post-Procedure & Clinical Recovery (Pemulihan Setelah Laser/Peeling)"},
 	  {"key": "redness & inflammation comfort", "label": "Redness & Inflammation Comfort (Menenangkan Kemerahan/Perih)"},
-      {"key": "barrier repair & skin reset", "label": "Barrier Repair & Skin Reset (Memperbaiki Dinding Kulit Yang Rusak)"},
+	  {"key": "barrier-support", "label": "Barrier-Support (Menjaga Keseimbangan Skin Barrier)"},
+      {"key": "barrier repair & skin reset", "label": "Barrier Repair & Skin Reset (Memperbaiki Skin Barrier Yang Rusak)"},
 	  {"key": "microbiome & skin health support", "label": "Microbiome & Skin Health Support (Keseimbangan Ekosistem Kulit)"}
 	]
   },
   {"key": "hydration & moisture", "label": "Hydration & Moisture (Menghidrasi & Melembabkan Kulit)",
   "isMulti": true,
   "items": [
-      {"key": "hydration pure", "label": "Hydration Pure (Hidrasi Murni/Bebas Bahan Aktif)"},
+	  {"key": "hydration pure", "label": "Hydration Pure (Hidrasi Murni/Bebas Bahan Aktif)"},
       {"key": "hydration basic & daily moisture", "label": "Hydration Basic & Daily Moisture (Pelembap Harian Ringan)"},
 	  {"key": "deep moisture lock & occlusive", "label": "Deep Moisture Lock & Occlusive (Mengunci Kelembapan Sangat Lama)"},
       {"key": "hydration boost & intense plumping", "label": "Hydration Boost & Intense Plumping (Hidrasi Instan Agar Kulit Kenyal)"},
@@ -435,7 +438,7 @@
       {"key": "polyglutamic acid", "label": "Polyglutamic Acid (Hidrasi Intens, Mengunci Air, Menghaluskan Kulit, Menjaga Barrier)"},
 	  {"key": "ectoin", "label": "Ectoin (Perlindungan Barrier, Kulit Lebih Tenang, Anti Iritasi, Hidrasi Stabil)"},
 	  {"key": "glycerin", "label": "Glycerin (Humektan, Menarik & Mengunci Kelembapan)"},
-	  {"key": "panthenol/pro-vitamin b5", "label": "Panthenol/Pro-Vitamin B5 (Menenangkan & Membantu Pemulihan Kulit)"},
+	  {"key": "panthenol", "label": "Panthenol/Pro-Vitamin B5 (Menenangkan & Membantu Pemulihan Kulit)"},
 	  {"key": "propylene glycol", "label": "Propylene Glycol (Membantu Hidrasi & Kelembapan Kulit)"},
 	  {"key": "salicylic acid", "label": "Salicylic Acid (Membersihkan Pori, Mengontrol Minyak & Jerawat)"}
     ]
