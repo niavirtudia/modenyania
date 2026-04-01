@@ -68,6 +68,14 @@
 	  {"key": "smart casual", "label": "Smart Casual (Rapi Tapi Santai)"}
 	]
   },
+  {"key": "length", "label": "Length (Panjang Celana)",
+  "isMulti": false,
+  "items": [
+      {"key": "jorts", "label": "Jorts (Jeans Pendek)"},
+      {"key": "ankle", "label": "Ankle (Di Atas Mata Kaki)"},
+	  {"key": "full-length", "label": "Full-Length (Menutup Mata Kaki)"}
+	]
+  },
   {"key": "waist", "label": "Waist (Tinggi Pinggang)",
   "isMulti": false,
   "items": [
