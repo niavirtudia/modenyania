@@ -211,6 +211,7 @@
 	  {"key": "deep indigo", "label": "Deep Indigo (Biru Sangat Gelap, Hasil Fading Tajam)"},
       {"key": "indigo x black", "label": "Indigo X Black (Warna Pekat, Benang Dalam Hitam)"},
 	  {"key": "indigo x indigo", "label": "Indigo x Indigo (Warna Biru Luar-Dalam, Dimensi Biru Pekat)"},
+	  {"key": "super dark indigo", "label": "Super Dark Indigo (Biru Sangat Pekat, Hampir Hitam)"},
 	  {"key": "black x black", "label": "Black x Black (Hitam Pekat Luar-Dalam, Tampilan Stealth)"},
 	  {"key": "natural indigo", "label": "Natural Indigo (Pewarna Alami, Warna Biru Klasik)"},
 	  {"key": "bushido indigo", "label": "Bushido Indigo (Warna Biru Pekat, Signature Dye)"},
@@ -252,7 +253,7 @@
     "denim look","denim fit","denim type","body type","style"
   ],
   "EXCLUDED_PILLS_BASE": [
-    "denim look","denim fit","pengguna","men","women","unisex","body type","style","waist","denim type","denim material","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
+    "denim look","denim fit","pengguna","men","women","unisex","body type","style","length","waist","denim type","denim material","denim design","brand","price","washing","shrinkage","weight","indigo dyeing","selvedge id","fabric origin","di bawah 200k","200k – 399k","400k – 699k","700k – 999k","1jt – 1.5jt","di atas 1.5jt"
   ],
   "categoryData": {
 	  "denim look": {
