@@ -6,8 +6,7 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbfDQJlUNqVR2nPVEs1Qxm8LdOC3S6MJOlBm_O-0w6uKWeIbZQYIMbX6jpJraEoPDrZn-OvlM99ZjRb-krGa5iIBEUJ1SPLvwxRP-YXStHqRb6vUlhpn8WUHy4D1NEl9dxR8o8L5VSkOaZOiF7PO1RX_WLfW1Dc8CzuPrBormdz-nLbbLAXmUkcZivmlGC/s1600/J43.webp",
     "price": "Rp4.595.000",
     "category": [
-        "denim fit",
-		"denim look",
+        "denim look",
         "pengguna",
         "body type",
         "style",
@@ -18,11 +17,16 @@
         "denim material",
         "brand",
         "price",
-        "editors picks"
+        "editors picks",
+        "denim fit",
+        "washing",
+        "shrinkage",
+        "indigo dyeing",
+        "selvedge id",
+        "fabric origin"
     ],
     "subcategory": [
-        "slim tapered fit",
-		"clean look",
+        "clean look",
         "men",
         "standard",
         "athletic",
@@ -37,7 +41,13 @@
         "regular",
         "organic cotton",
         "naked & famous",
-        "di atas 1.5jt"
+        "di atas 1.5jt",
+        "slim tapered fit",
+        "raw selvedge",
+        "unsanforized selvedge",
+        "standard indigo",
+        "red line",
+        "japanese selvedge"
     ],
     "subsub": [],
     "firstshopUrl": "https://s.shopee.co.id/3LMgUGIvzc",
