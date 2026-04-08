@@ -31,7 +31,8 @@
 	  {"key": "flare/bootcut fit", "label": "Flare/Bootcut Fit (Jeans Potongan Flare)"},
 	  {"key": "baggy/loose fit", "label": "Baggy/Loose Fit (Jeans Potongan Longgar)"},
 	  {"key": "mom jeans fit", "label": "Mom Jeans Fit (Jeans Potongan Mom)"},
-	  {"key": "boyfriend fit", "label": "Boyfriend Fit (Jeans Potongan Boyfriend)"}
+	  {"key": "boyfriend fit", "label": "Boyfriend Fit (Jeans Potongan Boyfriend)"},
+	  {"key": "wide barrel fit", "label": "Wide Barrel Fit (Jeans Potongan Melengkung Keluar)"}
 	]
   }
   ]
@@ -119,13 +120,13 @@
   "isMulti": false,
   "items": [
       {"key": "organic cotton", "label": "Organic Cotton (Katun Alami, Ramah Lingkungan)"},
-	  {"key": "recycled denim", "label": "Recycled Denim (Bahan Daur Ulang)"},
-	  {"key": "seaweed denim", "label": "Seaweed Denim (Serat Rumput Laut, Inovatif & Unik)"},
-      {"key": "stretch blend", "label": "Stretch Blend (Lebih Fleksibel & Nyaman)"},
-	  {"key": "tencel", "label": "TENCEL™/Lyocell (Lembut & Breathable)"},
-	  {"key": "hemp blend", "label": "Hemp Blend (Kuat & Natural)"},
-	  {"key": "linen blend", "label": "Linen Blend (Lebih Ringan & Adem)"},
-	  {"key": "recycled stretch", "label": "Recycled Stretch (Stretch + Bahan Daur Ulang)"}
+	  {"key": "stretch blend", "label": "Stretch Blend (Campuran Elastane, Fleksibel & Nyaman)"},
+	  {"key": "recycled stretch", "label": "Recycled Stretch (Melar dengan Bahan Daur Ulang)"},
+	  {"key": "recycled denim", "label": "Recycled Denim (Menggunakan Serat Denim Daur Ulang)"},
+	  {"key": "seaweed denim", "label": "Seaweed Denim (Inovasi Serat Rumput Laut, Inovatif & Unik)"},
+	  {"key": "tencel", "label": "TENCEL™/Lyocell (Serat Kayu Berkelanjutan, Sangat Lembut & Sejuk)"},
+	  {"key": "hemp blend", "label": "Hemp Blend (Serat Rami Yang Kuat, Tahan Lama & Rendah Air)"},
+	  {"key": "linen blend", "label": "Linen Blend (Campuran Serat Linen, Sangat Ringan & Adem)"}
 	]
   },
   {"key": "brand", "label": "Brand (Merek)",
