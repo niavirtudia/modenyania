@@ -463,7 +463,8 @@
 	  {"key":"natural moisture magnet","label":"Natural Moisture Magnet (Menarik & Menahan Kelembaban Kulit)"},
 	  {"key":"pha/polyhydroxy acid","label":"PHA/Polyhydroxy Acid (Eksfoliasi Lembut & Mencerahkan Kulit Kusam)"},
 	  {"key":"growth factors peptide","label":"Growth Factors Peptide (Mendukung Regenerasi & Menghaluskan Kulit)"},
-	  {"key":"calmdown® complex","label":"CalmDown® Complex (Sistem Calming & Barrier Repair)"}
+	  {"key":"calmdown® complex","label":"CalmDown® Complex (Sistem Calming & Barrier Repair)"},
+	  {"key":"benzoyl peroxide","label":"Benzoyl Peroxide (Anti-Bakteri & Inflamasi)"}
 
     ]
   },
@@ -536,15 +537,18 @@
   {"key":"merek","label":"Pilih Merek (Brands Collection)",
   "isMulti": false,
   "items": [
-	  {"key":"somethinc","label":"SOMETHINC (Skincare & Makeup)"},
-	  {"key":"elformula","label":"ELFORMULA (Clean & Advanced Formulation)"},
-	  {"key":"azalea","label":"Azalea (Fokus Personal Care)"},
-	  {"key":"Cosrx","label":"Cosrx (Skincare Favorit Korea Selatan)"},
-	  {"key":"Cetaphil","label":"Cetaphil (Merek Perawatan Kulit Sensitif)"},
-      {"key":"Saff & Co.","label":"Saff & Co. (Merek Mewah & Niche Lokal)"},
-      {"key":"HMNS","label":"HMNS (Merek Mewah & Niche Lokal)"},
-      {"key":"Alchemist Fragrance","label":"Alchemist Fragrance (Merek Mewah & Niche Lokal)"},
-      {"key":"Carl & Claire","label":"Carl & Claire (Merek Mewah & Niche Lokal)"},
+	  
+
+	  {"key":"benzolac","label":"BENZOLAC"},
+	  {"key":"somethinc","label":"SOMETHINC"},
+	  {"key":"elformula","label":"ELFORMULA"},
+	  {"key":"azalea","label":"Azalea"},
+	  {"key":"Cosrx","label":"Cosrx"},
+	  {"key":"Cetaphil","label":"Cetaphil"},
+      {"key":"Saff & Co.","label":"Saff & Co."},
+      {"key":"HMNS","label":"HMNS"},
+      {"key":"Alchemist Fragrance","label":"Alchemist Fragrance"},
+      {"key":"Carl & Claire","label":"Carl & Claire"},
       {"key":"Mykonos","label":"Mykonos (Merek Mewah & Niche Lokal)"},
       {"key":"Euodia Parfums","label":"Euodia Parfums (Merek Mewah & Niche Lokal)"},
       {"key":"Project 1945","label":"Project 1945 (Merek Mewah & Niche Lokal)"},
