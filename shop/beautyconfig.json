@@ -20,7 +20,7 @@
 	  {"key":"produk terbaru","label":"Produk Terbaru (New Arrivals)"},
 	  {"key":"pilihan editor","label":"Pilihan Editor (Editor’s Pick)"},
 	  {"key":"paling favorit","label":"Paling Favorit (Shop-based)"},
-	  {"key":"travel size","label":"Travel Size (Ukuran Perjalanan)"},
+	  {"key":"travel size","label":"Travel Size (Ukran Praktis)"},
 	  {"key":"seasonal picks","label":"Seasonal Picks (Sesuai Musim)"},
 	  {"key":"special gift","label":"Special Gift (Kado Spesial)"}
     ]
@@ -1491,7 +1491,7 @@
 		  ["body trimmer", "Body Trimmer (Alat Cukur Tubuh)"],
           ["epilator", "Epilator (Alat Cabut Bulu Elektrik)"]
         ]
-      },
+      }
     ]
   },
   {"key":"care complements","label":"Care Complements (Perlengkapan Pendukung Perawatan)",
