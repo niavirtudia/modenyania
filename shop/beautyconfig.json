@@ -37,28 +37,29 @@
       {"key":"acne scars","label":"Acne Scars (Bekas Jerawat & Bopeng)"},
 	  {"key":"comedones","label":"Comedones (Komedo & Pori Tersumbat)"},
       {"key":"dark spots","label":"Dark Spots (Flek Hitam & Noda Gelap)"},
-	  {"key":"redness","label":"Redness (Kemerahan & Iritasi)"},
       {"key":"dull skin","label":"Dull Skin (Kulit Kusam)"},
       {"key":"large pores","label":"Large Pores (Pori-Pori Besar)"},
-	  {"key":"dehydrated skin","label":"Dehydrated Skin (Kulit Kering & Dehidrasi)"},
+	  {"key":"dehydrated skin","label":"Dehydrated Skin (Kulit Dehidrasi & Kekurangan Kelembapan)"},
 	  {"key":"uneven skin tone","label":"Uneven Skin Tone (Warna Kulit Tidak Merata)"},
-      {"key":"damaged skin barrier","label":"Damaged Skin Barrier (Skin Barrier Rusak & Sensitif)"}
+      {"key":"redness & damaged skin barrier","label":"Redness & Damaged Skin Barrier (Kemerahan, Iritasi & Skin Barrier Rusak)"},
+	  {"key":"behind ear issues","label":"Behind Ear Issues (Komedo, Jerawat & Bruntusan di Belakang Telinga)"}
 	]
   },
   {"key":"hair & scalp issues","label":"Hair & Scalp Issues (Masalah Rambut & Kulit Kepala)",
   "isMulti": true,
   "items": [
-      {"key":"hair fall & loss","label":"Hair Fall & Loss (Rambut Rontok Parah)"},
-      {"key":"thinning hair","label":"Thinning Hair (Rambut Menipis & Kurang Tebal)"},
+      {"key":"hair fall & loss","label":"Hair Fall & Loss (Rambut Rontok & Kerontokan Parah)"},
+      {"key":"thinning hair","label":"Thinning Hair (Rambut Menipis & Botak Sebagian)"},
 	  {"key":"dandruff","label":"Dandruff (Ketombe & Serpihan Putih)"},
-      {"key":"oily scalp","label":"Oily Scalp (Kulit Kepala Berminyak & Lepek)"},
-	  {"key":"itchy scalp","label":"Itchy Scalp (Kulit Kepala Gatal)"},
+      {"key":"oily scalp","label":"Oily Scalp (Kulit Kepala Berminyak & Cepat Lepek)"},
+	  {"key":"itchy scalp","label":"Itchy Scalp (Kulit Kepala Gatal & Panas)"},
       {"key":"sensitive scalp","label":"Sensitive Scalp (Kulit Kepala Sensitif & Mudah Iritasi)"},
-	  {"key":"damaged hair","label":"Damaged Hair (Rambut Rusak & Kering)"},
-      {"key":"hair breakage","label":"Hair Breakage (Rambut Mudah Patah)"},
+	  {"key":"damaged hair","label":"Damaged Hair (Rambut Rusak & Kering Berat)"},
+      {"key":"hair breakage","label":"Hair Breakage (Rambut Mudah Patah & Rapuh)"},
 	  {"key":"split ends","label":"Split Ends (Ujung Rambut Bercabang)"},
       {"key":"dry & frizzy hair","label":"Dry & Frizzy Hair (Rambut Kering & Mengembang)"},
-      {"key":"unmanageable hair","label":"Unmanageable Hair (Rambut Sulit Diatur)"}
+      {"key":"unmanageable hair","label":"Unmanageable Hair (Rambut Sulit Diatur & Kasar)"},
+	  {"key":"premature gray hair","label":"Premature Gray Hair (Rambut Beruban Dini & Uban)"}
 	]
   }, 
   {"key":"body care concerns","label":"Body Care Concerns (Masalah Kulit Tubuh)",
@@ -67,146 +68,156 @@
       {"key":"body acne","label":"Body Acne (Jerawat Badan, Punggung & Dada)"},
       {"key":"body odor & sweat","label":"Body Odor & Sweat (Bau Badan & Keringat Berlebih)"},
 	  {"key":"sensitive body skin","label":"Sensitive Body Skin (Kulit Tubuh Sensitif & Mudah Iritasi)"},
-      {"key":"dry & rough skin","label":"Dry & Rough Skin (Kulit Kering & Kasar)"},
-	  {"key":"scaly & flaky skin","label":"Scaly & Flaky Skin (Kulit Sangat Kering & Mengelupas)"},
-      {"key":"chicken skin","label":"Chicken Skin (Kulit Bruntusan/Keratosis Pilaris)"},
-	  {"key":"uneven body tone","label":"Uneven Body Tone (Warna Kulit Tidak Merata)"},
-      {"key":"dark spots","label":"Dark Spots (Flek Hitam)"},
-	  {"key":"friction marks","label":"Friction Marks (Bekas Gesekan)"},
-	  {"key":"dull body skin","label":"Dull Body Skin (Kulit Tubuh Kusam)"},
+      {"key":"dry & rough skin","label":"Dry & Rough Skin (Kulit Tubuh Kering & Kasar)"},
+	  {"key":"Very Dry & Flaky Skin","label":"Very Dry & Flaky Skin (Kulit Sangat Kering & Mengelupas)"},
+      {"key":"chicken skin","label":"Chicken Skin (Kulit Bruntusan & Keratosis Pilaris)"},
+	  {"key":"uneven body tone","label":"Uneven Body Tone (Warna Kulit Tubuh Tidak Merata)"},
+      {"key":"dark spots body","label":"Dark Spots Body (Flek Hitam di Tubuh)"},
+	  {"key":"friction marks","label":"Friction Marks (Bekas Gesekan & Hiperpigmentasi Lipatan)"},
+	  {"key":"dull body skin","label":"Dull Body Skin (Kulit Tubuh Kusam & Tidak Cerah)"},
 	  {"key":"loss of firmness","label":"Loss Of Firmness (Kulit Kendur & Kurang Kencang)"},
-      {"key":"stretch marks & scars","label":"Stretch Marks & Scars (Guratan & Bekas Luka)"}
+      {"key":"stretch marks & scars","label":"Stretch Marks & Scars (Stretch Marks & Bekas Luka)"}
 	]
   }, 
   {"key":"nail care solutions","label":"Nail Care Solutions (Masalah Kuku)",
   "isMulti": true,
   "items": [
-      {"key":"fungal nail issues","label":"Fungal Nail Issues (Jamur Kuku & Infeksi)"},
+      {"key":"fungal nail issues","label":"Fungal Nail Issues (Jamur Kuku & Infeksi Kuku)"},
       {"key":"brittle & chipping nails","label":"Brittle & Chipping Nails (Kuku Rapuh & Mudah Patah)"},
 	  {"key":"soft & peeling nails","label":"Soft & Peeling Nails (Kuku Tipis & Mudah Mengelupas)"},
-      {"key":"damaged by gel or acrylics","label":"Damaged by Gel or Acrylics (Kuku Rusak Akibat Gel/Acrylic)"},
+      {"key":"damaged by gel or acrylics","label":"Damaged by Gel or Acrylics (Kuku Rusak Akibat Gel atau Acrylic)"},
 	  {"key":"slow nail growth","label":"Slow Nail Growth (Kuku Lambat Tumbuh)"},
-      {"key":"bitten nails & recovery","label":"Bitten Nails & Recovery (Kuku Rusak Karena Kebiasaan Menggigit)"},
+      {"key":"bitten nails & recovery","label":"Bitten Nails & Recovery (Kuku Rusak Karena Digigit & Pemulihan)"},
 	  {"key":"dry & ragged cuticles","label":"Dry & Ragged Cuticles (Kutikula Kering & Pecah-Pecah)"},
-      {"key":"hangnails & skin irritation","label":"Hangnails & Skin Irritation (Kulit Sekitar Kuku Sobek & Perih)"},
+      {"key":"hangnails & skin irritation","label":"Hangnails & Skin Irritation (Hangnails & Kulit Sekitar Kuku Sobek)"},
 	  {"key":"yellow & stained nails","label":"Yellow & Stained Nails (Kuku Kuning & Bernoda)"},
-      {"key":"ridged & uneven texture","label":"Ridged & Uneven Texture (Permukaan Kuku Bergaris & Tidak Rata)"}
+      {"key":"ridged & uneven texture","label":"Ridged & Uneven Texture (Permukaan Kuku Bergaris & Tidak Rata)"},
+	  {"key":"weak nails","label":"Weak Nails (Kuku Lemah & Mudah Retak)"}
 	]
   }, 
   {"key":"eye area concerns","label":"Eye Area Concerns (Masalah Area Mata)",
   "isMulti": true,
   "items": [
-      {"key":"dark circles","label":"Dark Circles (Mata Panda & Lingkar Hitam)"},
-      {"key":"puffiness & eye bags","label":"Puffiness & Eye Bags (Kantung Mata & Bengkak)"},
+      {"key":"dark circles","label":"Dark Circles (Lingkar Hitam & Mata Panda)"},
+      {"key":"puffiness & eye bags","label":"Puffiness & Eye Bags (Kantung Mata & Bengkak di Bawah Mata)"},
 	  {"key":"sensitive & reactive eyes","label":"Sensitive & Reactive Eyes (Area Mata Sensitif & Mudah Iritasi)"},
-      {"key":"fine lines & crows feet","label":"Fine Lines & Crow’s Feet (Garis Halus & Kerutan Mata)"},
-	  {"key":"loss of firmness","label":"Loss of Firmness (Kelopak Mata Kendur)"},
-      {"key":"hollow under-eyes","label":"Hollow Under-Eyes (Bawah Mata Cekung)"},
+      {"key":"fine lines & crows feet","label":"Fine Lines & Crow’s Feet (Garis Halus & Kerutan di Sudut Mata)"},
+	  {"key":"loss of firmness eyes","label":"Loss of Firmness Eyes (Kelopak Mata Kendur & Kurang Kencang)"},
+      {"key":"hollow under-eyes","label":"Hollow Under-Eyes (Bawah Mata Cekung & Tampak Tua)"},
 	  {"key":"dry & crepey skin","label":"Dry & Crepey Skin (Kulit Bawah Mata Kering & Tipis)"},
-      {"key":"milia & clogged pores","label":"Milia & Clogged Pores (Milia & Bintik Putih di Bawah Mata)"},
-	  {"key":"under-eye texture","label":"Under-Eye Texture (Tekstur Bawah Mata Tidak Halus)"},
-      {"key":"morning fatigue","label":"Morning Fatigue (Mata Lelah & Kurang Segar)"}
+      {"key":"milia & clogged pores eyes","label":"Milia & Clogged Pores Eyes (Milia & Bintik Putih di Area Mata)"},
+	  {"key":"under-eye texture","label":"Under-Eye Texture (Tekstur Kulit Bawah Mata Kasar)"},
+      {"key":"morning fatigue","label":"Morning Fatigue (Mata Lelah & Kurang Segar di Pagi Hari)"},
+	  {"key":"eye puffiness & dark circles combo","label":"Eye Puffiness & Dark Circles Combo (Kombinasi Kantung Mata + Lingkar Hitam)"}  
 	]
   },   
   {"key":"lip care solutions","label":"Lip Care Solutions (Masalah Bibir)",
   "isMulti": true,
   "items": [
       {"key":"chapped & dry lips","label":"Chapped & Dry Lips (Bibir Kering & Pecah-Pecah)"},
-      {"key":"sensitive & peeling lips","label":"Sensitive & Peeling Lips (Bibir Sensitif & Mengelupas)"},
-	  {"key":"corner cracks","label":"Angular Cheilitis/Corner Cracks (Sudut Bibir Pecah & Luka)"},
+      {"key":"sensitive & peeling lips","label":"Sensitive & Peeling Lips (Bibir Sensitif & Mudah Mengelupas)"},
+	  {"key":"corner cracks","label":"Corner Cracks (Sudut Bibir Pecah & Luka)"},
       {"key":"lip hyperpigmentation","label":"Lip Hyperpigmentation (Bibir Gelap & Tidak Merata)"},
-	  {"key":"dull & pale lips","label":"Dull & Pale Lips (Bibir Pucat & Kusam)"},
-      {"key":"sun-damaged lips","label":"Sun-Damaged Lips (Bibir Belang & Terbakar Matahari)"},
-	  {"key":"rough & flaky texture","label":"Rough & Flaky Texture (Bibir Kasar & Bertekstur)"},
-      {"key":"fine lines & lip wrinkles","label":"Fine Lines & Lip Wrinkles (Garis Halus Di Bibir)"},
+	  {"key":"dull & pale lips","label":"Dull & Pale Lips (Bibir Kusam & Pucat)"},
+      {"key":"sun-damaged lips","label":"Sun-Damaged Lips (Bibir Belang & Rusak karena Matahari)"},
+	  {"key":"rough & flaky texture","label":"Rough & Flaky Texture (Bibir Kasar & Berkerak)"},
+      {"key":"fine lines & lip wrinkles","label":"Fine Lines & Lip Wrinkles (Garis Halus & Kerutan di Bibir)"},
 	  {"key":"loss of lip volume","label":"Loss of Lip Volume (Bibir Tipis & Kurang Bervolume)"},
-      {"key":"night-time recovery","label":"Night-Time Recovery (Perawatan Bibir Malam Hari)"}
+      {"key":"night-time recovery","label":"Night-Time Recovery (Perawatan Bibir Malam Hari)"},
+	  {"key":"dark lips from smoking","label":"Dark Lips From Smoking (Bibir Hitam karena Rokok)"}
 	]
   },  
   {"key":"brow concerns","label":"Brow Concerns (Masalah Alis)",
   "isMulti": true,
   "items": [
       {"key":"sparse & thinning brows","label":"Sparse & Thinning Brows (Alis Tipis & Jarang)"},
-      {"key":"patchy appearance","label":"Patchy Appearance (Alis Botak/Tidak Rata)"},
-	  {"key":"slow growth","label":"Slow Growth (Alis Lama Tumbuh)"},
-      {"key":"over-tweezed recovery","label":"Over-Tweezed Recovery (Alis Rusak Akibat Cabut Berlebihan)"},
+      {"key":"patchy appearance","label":"Patchy Appearance (Alis Tidak Rata & Berlubang)"},
+	  {"key":"slow growth","label":"Slow Growth (Alis Lambat Tumbuh)"},
+      {"key":"over-tweezed recovery","label":"Over-Tweezed Recovery (Alis Rusak Akibat Dicabut Berlebihan)"},
 	  {"key":"brittle brow hair","label":"Brittle Brow Hair (Bulu Alis Rapuh & Mudah Rontok)"},
       {"key":"post-lamination care","label":"Post-Lamination Care (Alis Rusak Setelah Lamination)"},
 	  {"key":"unruly & coarse brows","label":"Unruly & Coarse Brows (Alis Tebal, Kasar & Sulit Diatur)"},
       {"key":"flaky brow skin","label":"Flaky Brow Skin (Kulit Alis Kering & Mengelupas)"},
-	  {"key":"sensitive brow area","label":"Sensitive Brow Area (Area Alis Sensitif & Iritasi)"},
-      {"key":"graying brows","label":"Graying Brows (Alis Beruban/Memutih)"}
+	  {"key":"sensitive brow area","label":"Sensitive Brow Area (Area Alis Sensitif & Mudah Iritasi)"},
+      {"key":"graying brows","label":"Graying Brows (Alis Beruban & Memutih)"},
+	  {"key":"uneven brow shape","label":"Uneven Brow Shape (Bentuk Alis Tidak Simetris & Tidak Rapi)"}
 	]
-  },    
+  }, 
   {"key":"nose & pore issues","label":"Nose & Pore Issues (Masalah Hidung & Pori)",
   "isMulti": true,
   "items": [
-      {"key":"blackheads & clogged pores","label":"Blackheads & Clogged Pores (Komedo & Pori Tersumbat)"},
+      {"key":"blackheads & clogged pores","label":"Blackheads & Clogged Pores (Komedo Hitam & Pori Tersumbat di Hidung)"},
       {"key":"congested t-zone","label":"Congested T-Zone (Area T Berminyak & Mudah Berkomedo)"},
 	  {"key":"excessive nose shine","label":"Excessive Nose Shine (Hidung Berminyak & Mengkilap)"},
-      {"key":"sebaceous filaments","label":"Sebaceous Filaments (Bintik Hitam Di Hidung/Sebum)"},
-	  {"key":"visible & enlarged pores","label":"Visible & Enlarged Pores (Pori-Pori Besar & Terlihat Jelas)"},
-      {"key":"rough & bumpy texture","label":"Rough & Bumpy Texture (Hidung Kasar & Tidak Halus)"},
-	  {"key":"redness around the nose","label":"Redness Around The Nose (Kemerahan Di Sekitar Hidung)"},
+      {"key":"sebaceous filaments","label":"Sebaceous Filaments (Bintik Hitam Sebum di Hidung)"},
+	  {"key":"visible & enlarged pores","label":"Visible & Enlarged Pores (Pori-Pori Besar & Terlihat Jelas di Hidung)"},
+      {"key":"rough & bumpy texture","label":"Rough & Bumpy Texture (Tekstur Hidung Kasar & Berbintik)"},
+	  {"key":"redness around the nose","label":"Redness Around the Nose (Kemerahan di Sekitar Hidung)"},
       {"key":"flaky & peeling nose","label":"Flaky & Peeling Nose (Hidung Kering & Mengelupas)"},
 	  {"key":"pore elasticity","label":"Pore Elasticity (Pori Kendur & Terlihat Besar)"},
-      {"key":"post-extraction soothing","label":"Post-Extraction Soothing (Perawatan Setelah Bersihkan Komedo)"}
+      {"key":"post-extraction soothing","label":"Post-Extraction Soothing (Perawatan Setelah Bersihkan Komedo)"},
+	  {"key":"dry inside nose","label":"Dry Inside Nose (Hidung Kering di Bagian Dalam & Mudah Berdarah)"},
+	  {"key":"irritated inside nose","label":"Irritated Inside Nose (Iritasi & Gatal di Dalam Hidung)"}
 	]
   },   
   {"key":"ear care focuses","label":"Ear Care Focuses (Masalah Telinga)",
   "isMulti": true,
   "items": [
       {"key":"excessive wax build-up","label":"Excessive Wax Build-Up (Kotoran Telinga Menumpuk)"},
-      {"key":"water-clogged ears","label":"Water-Clogged Ears (Telinga Kemasukan Air)"},
-	  {"key":"dry & itchy ear canal","label":"Dry & Itchy Ear Canal (Telinga Gatal & Kering)"},
+      {"key":"water-clogged ears","label":"Water-Clogged Ears (Telinga Kemasukan Air & Tersumbat)"},
+	  {"key":"dry & itchy ear canal","label":"Dry & Itchy Ear Canal (Telinga Dalam Gatal & Kering)"},
       {"key":"ear sensitivity to jewelry","label":"Ear Sensitivity To Jewelry (Alergi Anting & Iritasi Telinga)"},
-	  {"key":"post-cleaning irritation","label":"Post-Cleaning Irritation (Iritasi Setelah Bersihkan Telinga)"},
-      {"key":"outer ear dryness","label":"Outer Ear Dryness (Kulit Telinga Kering & Mengelupas)"},
-	  {"key":"ear odor & hygiene","label":"Ear Odor & Hygiene (Telinga Bau & Kurang Bersih)"},
+	  {"key":"post-cleaning irritation","label":"Post-Cleaning Irritation (Iritasi Telinga Setelah Dibersihkan)"},
+      {"key":"outer ear dryness","label":"Outer Ear Dryness (Kulit Telinga Luar Kering & Mengelupas)"},
+	  {"key":"ear odor & hygiene","label":"Ear Odor & Hygiene (Bau Telinga & Masalah Kebersihan)"},
       {"key":"ear piercing aftercare","label":"Ear Piercing Aftercare (Perawatan Tindik Telinga)"},
-	  {"key":"stretched or sagging lobes","label":"Stretched Or Sagging Lobes (Daun Telinga Melar/Kendur)"},
-      {"key":"general ear comfort","label":"General Ear Comfort (Perawatan & Kenyamanan Telinga Harian)"}
+	  {"key":"stretched or sagging lobes","label":"Stretched or Sagging Lobes (Daun Telinga Melar & Kendur)"},
+      {"key":"general ear comfort","label":"General Ear Comfort (Kenyamanan Telinga Sehari-hari)"}
 	]
   }, 
   {"key":"beard & shaving concerns","label":"Beard & Shaving Concerns (Masalah Janggut & Cukur)",
   "isMulti": true,
-  "items": [
+  "items": [ 
       {"key":"coarse, dry & itchy beard","label":"Coarse, Dry & Itchy Beard (Janggut Kasar, Kering & Gatal)"},
       {"key":"unruly & hard to style beard","label":"Unruly & Hard to Style Beard (Janggut Berantakan & Sulit Diatur)"},
 	  {"key":"razor burn & post-shave irritation","label":"Razor Burn & Post-Shave Irritation (Iritasi & Kemerahan Setelah Cukur)"},
       {"key":"ingrown hairs & razor bumps","label":"Ingrown Hairs & Razor Bumps (Rambut Tumbuh ke Dalam & Benjolan Cukur)"},
-	  {"key":"patchy beard & growth issues","label":"Patchy Beard & Growth Issues (Janggut Jarang & Masalah Pertumbuhan)"},
-      {"key":"dry skin under beard","label":"Dry Skin Under Beard (Ketombe Janggut/Kulit Kering di Bawah Janggut)"}
+	  {"key":"patchy beard & growth issues","label":"Patchy Beard & Growth Issues (Janggut Jarang & Pertumbuhan Tidak Merata)"},
+      {"key":"dry skin under beard","label":"Dry Skin Under Beard (Kulit Kering & Ketombe di Bawah Janggut)"},
+	  {"key":"beard acne folliculitis","label":"Beard Acne Folliculitis (Jerawat & Folikulitis di Area Janggut)"},
+	  {"key":"dull & dry beard hair","label":"Dull & Dry Beard Hair (Janggut Kusam, Kering & Tidak Sehat)"}
 	]
   },
   {"key":"underarm solutions","label":"Underarm Solutions (Masalah Ketiak)",
   "isMulti": true,
   "items": [
-      {"key":"persistent odor","label":"Persistent Odor (Bau Badan Membandel)"},
+      {"key":"persistent odor","label":"Persistent Odor (Bau Ketiak Membandel)"},
       {"key":"excessive dampness","label":"Excessive Dampness (Ketiak Basah & Mudah Berkeringat)"},
 	  {"key":"dark underarms","label":"Dark Underarms (Ketiak Gelap & Menghitam)"},
-      {"key":"post-shaving irritation","label":"Post-Shaving Irritation (Iritasi Setelah Cukur/Cabut Bulu)"},
+      {"key":"post-shaving irritation","label":"Post-Shaving Irritation (Iritasi & Kemerahan Setelah Cukur Ketiak)"},
 	  {"key":"sensitive skin reaction","label":"Sensitive Skin Reaction (Ketiak Sensitif & Mudah Iritasi)"},
-      {"key":"ingrown hairs","label":"Ingrown Hairs (Bulu Tumbuh Ke Dalam)"},
+      {"key":"ingrown hairs","label":"Ingrown Hairs (Bulu Tumbuh ke Dalam di Ketiak)"},
 	  {"key":"rough & bumpy texture","label":"Rough & Bumpy Texture (Ketiak Kasar & Beruntusan)"},
       {"key":"deodorant buildup","label":"Deodorant Buildup (Penumpukan Deodorant & Pori Tersumbat)"},
 	  {"key":"dry & flaky underarms","label":"Dry & Flaky Underarms (Ketiak Kering & Mengelupas)"},
-      {"key":"loss of elasticity","label":"Loss Of Elasticity (Kulit Ketiak Kendur)"}
+      {"key":"loss of elasticity","label":"Loss Of Elasticity (Kulit Ketiak Kendur & Kehilangan Kekenyalan)"},
+	  {"key":"friction & darkening underarm","label":"Friction & Darkening Underarm (Ketiak Gelap karena Gesekan & Lipatan)"}
 	]
   }, 
   {"key":"intimate & feminine concerns","label":"Intimate & Feminine Concerns (Masalah Area Intim)",
   "isMulti": true,
   "items": [
       {"key":"odor neutralizing","label":"Odor Neutralizing (Bau Tidak Sedap Area Kewanitaan)"},
-      {"key":"ph imbalance","label":"pH Imbalance (pH Tidak Seimbang & Kurang Nyaman)"},
+      {"key":"ph imbalance","label":"pH Imbalance (pH Area Intim Tidak Seimbang)"},
 	  {"key":"sensitivity & chafing","label":"Sensitivity & Chafing (Iritasi & Lecet Karena Gesekan)"},
-      {"key":"delicate skin irritation","label":"Delicate Skin Irritation (Kulit Sensitif & Mudah Iritasi)"},
-	  {"key":"post-hair removal bumps","label":"Post-Hair Removal Bumps (Iritasi Setelah Cukur/Hair Removal)"},
-      {"key":"persistent dryness","label":"Persistent Dryness (Area Kewanitaan Kering)"},
-	  {"key":"monthly comfort","label":"Monthly Comfort (Perawatan Saat Masa Menstruasi)"},
-      {"key":"external discoloration","label":"External Discoloration (Area Menghitam & Warna Tidak Merata)"},
-	  {"key":"skin texture & elasticity","label":"Skin Texture & Elasticity (Kulit Kurang Halus & Elastis)"},
-      {"key":"post-activity refresh","label":"Post-Activity Refresh (Membersihkan Area Setelah Aktivitas)"}
+      {"key":"delicate skin irritation","label":"Delicate Skin Irritation (Kulit Area Intim Sensitif & Mudah Iritasi)"},
+	  {"key":"post-hair removal bumps","label":"Post-Hair Removal Bumps (Benjolan & Iritasi Setelah Cukur Bulu Area Intim)"},
+      {"key":"persistent dryness","label":"Persistent Dryness (Area Kewanitaan Kering & Kurang Nyaman)"},
+	  {"key":"monthly comfort","label":"Monthly Comfort (Perawatan Khusus Saat Menstruasi)"},
+      {"key":"external discoloration","label":"External Discoloration (Area Intim Menghitam & Warna Tidak Merata)"},
+	  {"key":"skin texture & elasticity","label":"Skin Texture & Elasticity (Kulit Area Intim Kurang Halus & Kendur)"},
+      {"key":"post-activity refresh","label":"Post-Activity Refresh (Membersihkan & Menyegarkan Setelah Aktivitas)"},
+	  {"key":"intimate itching","label":"Intimate Itching (Gatal di Area Kewanitaan)"}
 	]
   }, 
   {"key":"hand & foot solutions","label":"Hand & Foot Solutions (Masalah Tangan & Kaki)",
@@ -214,28 +225,29 @@
   "items": [
       {"key":"foot & shoe odor","label":"Foot & Shoe Odor (Bau Kaki & Sepatu)"},
       {"key":"sweaty hands & feet","label":"Sweaty Hands & Feet (Tangan & Kaki Mudah Berkeringat)"},
-	  {"key":"cracked heels","label":"Cracked Heels (Tumit Pecah-Pecah)"},
+	  {"key":"cracked heels","label":"Cracked Heels (Tumit Pecah-Pecah & Kasar)"},
       {"key":"dry & cracked hands","label":"Dry & Cracked Hands (Tangan Kering & Pecah-Pecah)"},
 	  {"key":"rough & callused feet","label":"Rough & Callused Feet (Kaki Kasar & Kapalan)"},
       {"key":"hardened soles","label":"Hardened Soles (Telapak Kaki Tebal & Keras)"},
-	  {"key":"rough knuckles & knees","label":"Rough Knuckles & Knees (Buku Jari & Lutut Gelap & Kasar)"},
-      {"key":"aging hands & liver spots","label":"Aging Hands & Liver Spots (Tangan Kusam & Muncul Flek)"},
-	  {"key":"thinning skin on hands","label":"Thinning Skin On Hands (Kulit Tangan Tipis & Keriput)"}
+	  {"key":"rough knuckles & knees","label":"Rough Knuckles & Knees (Buku Jari & Lutut Kasar & Gelap)"},
+      {"key":"aging hands & liver spots","label":"Aging Hands & Liver Spots (Tangan Tua, Kusam & Muncul Flek)"},
+	  {"key":"thinning skin on hands","label":"Thinning Skin on Hands (Kulit Tangan Tipis & Keriput)"}
 	]
   }, 
   {"key":"oral & dental solutions","label":"Oral & Dental Solutions (Masalah Mulut & Gigi)",
   "isMulti": true,
   "items": [
-      {"key":"persistent bad breath","label":"Persistent Bad Breath (Bau Mulut Tidak Sedap)"},
+      {"key":"persistent bad breath","label":"Persistent Bad Breath (Bau Mulut Tidak Sedap & Membandel)"},
       {"key":"dry mouth comfort","label":"Dry Mouth Comfort (Mulut Kering & Kurang Nyaman)"},
 	  {"key":"surface tooth stains","label":"Surface Tooth Stains (Noda Gigi Akibat Kopi & Makanan)"},
       {"key":"yellowish enamel","label":"Yellowish Enamel (Gigi Kuning & Kusam)"},
-	  {"key":"coffee & wine recovery","label":"Coffee & Wine Recovery (Perawatan Setelah Minum Kopi/Minuman Berwarna)"},
+	  {"key":"coffee & wine recovery","label":"Coffee & Wine Recovery (Perawatan Gigi Setelah Minum Kopi & Minuman Berwarna)"},
       {"key":"tooth sensitivity","label":"Tooth Sensitivity (Gigi Sensitif & Ngilu)"},
-	  {"key":"sensitive gums hygiene","label":"Sensitive Gums Hygiene (Gusi Sensitif & Mudah Tidak Nyaman)"},
+	  {"key":"sensitive gums hygiene","label":"Sensitive Gums Hygiene (Gusi Sensitif & Mudah Berdarah)"},
       {"key":"tartar & plaque buildup","label":"Tartar & Plaque Buildup (Karang Gigi & Plak Menumpuk)"},
-	  {"key":"mouth ph balance","label":"Mouth pH Balance (Keseimbangan Mulut & Napas Segar)"},
-      {"key":"aligner & retainer care","label":"Aligner & Retainer Care (Perawatan Aligner & Retainer Gigi)"}
+	  {"key":"mouth ph balance","label":"Mouth pH Balance (Keseimbangan pH Mulut & Napas Segar)"},
+      {"key":"aligner & retainer care","label":"Aligner & Retainer Care (Perawatan Aligner & Retainer Gigi)"},
+	  {"key":"gum recession","label":"Gum Recession (Gusi Surut & Gigi Terlihat Panjang)"}
 	]
   }  
   ]
@@ -660,7 +672,7 @@
       {"key":"targeted basic care","label":"Targeted Basic Care (Basic + Penyesuaian Kondisi Kulit)"}
 	]
   },
-  {"key":"advanced","label":"Advanced (Perawatan Lanjutan)",
+  {"key":"advanced","label":"Advanced (Perawatan Lanjutan & Treatment)",
   "isMulti": false,
   "items": [
       {"key":"self-treatment","label":"Self-Treatment (Transformation)"},
@@ -1630,7 +1642,7 @@
 	"kecocokan kulit",
 	"bebas dari",
 	"sertifikasi",
-	"ethical claim & sustainability",
+	"ethical claim",
 	"flawless application",
 	"deep cleansing & extraction",
 	"skincare boost & treatment",
@@ -1696,7 +1708,7 @@
 	"bebas dari",
 	"tekstur produk",
 	"sertifikasi",
-	"ethical claim & sustainability",
+	"ethical claim",
 	"rentang harga",
 	"under 50k",
 	"50k-150k",
