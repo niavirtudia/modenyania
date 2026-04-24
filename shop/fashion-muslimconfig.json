@@ -3,6 +3,7 @@
 {"title": "GAUN & DRESS PANJANG", 
 "groups": [
   {"key":"gamis","label": "Gamis (Long Dress Gamis)",
+  "isMulti": true,
   "items": [
 	  {"key":"gamis harian/santai","label": "Gamis Harian/Santai (Daily/Casual Gamis)"},
 	  {"key":"gamis pesta","label": "Gamis Pesta (Party Gamis)"},
@@ -15,30 +16,36 @@
 	  {"key":"gamis sporty","label": "Gamis Sporty (Sporty Gamis)"},
 	  {"key":"gamis beraksen","label": "Gamis Beraksen (Accented Gamis)"},
 	  {"key":"gamis modern","label": "Gamis Modern (Modern Gamis)"},
-	  {"key":"gamis busui friendly","label":"Gamis Busui Friendly (Nursing-Friendly Gamis)"}
+	  {"key":"gamis busui friendly","label":"Gamis Busui Friendly (Nursing-Friendly Gamis)"},
+	  {"key":"gamis ukuran besar","label":"Gamis Ukuran Besar (Plus Size Gamis)"}
 	]
   },
   {"key":"kaftan","label": "Kaftan (Kaftan)",
+  "isMulti": true,
   "items": [
 	  {"key":"kaftan satin/silk","label": "Kaftan Satin/Silk (Satin/Silk Kaftan)"},
 	  {"key":"kaftan brokat/etnik","label": "Kaftan Brokat/Etnik (Lace/Ethnic Kaftan)"},
 	  {"key":"kaftan harian","label": "Kaftan Harian (Daily Kaftan)"},
 	  {"key":"kaftan batik","label": "Kaftan Batik (Batik Kaftan)"},
 	  {"key":"kaftan satu set","label": "Kaftan Satu Set (One Set Kaftan)"},
-	  {"key":"kaftan rumah","label":"Kaftan Rumah (Home Kaftan)"}
+	  {"key":"kaftan rumah","label":"Kaftan Rumah (Home Kaftan)"},
+	  {"key":"kaftan ukuran besar","label":"Kaftan Ukuran Besar (Plus Size Kaftan)"}
     ]
   },
   {"key":"abaya","label": "Abaya (Abaya)",
+  "isMulti": true,
   "items": [
 	  {"key":"abaya dubai/premium","label":"Abaya Dubai/Premium (Dubai/Premium Abaya)"},
 	  {"key":"abaya kimono style","label":"Abaya Kimono Style (Kimono-Style Abaya)"},
 	  {"key":"abaya harian","label":"Abaya Harian (Daily Abaya)"},
 	  {"key":"abaya minimalis","label":"Abaya Minimalis (Minimalist Abaya)"},
 	  {"key":"abaya set hijab","label":"Abaya Set Hijab (Abaya Hijab Set)"},
-	  {"key":"abaya ibu hamil","label":"Abaya Ibu Hamil (Maternity Abaya)"}
+	  {"key":"abaya ibu hamil","label":"Abaya Ibu Hamil (Maternity Abaya)"},
+	  {"key":"abaya ukuran besar","label":"Abaya Ukuran Besar (Plus Size Abaya)"}
     ]
   },
   {"key":"dress panjang","label": "Dress Panjang (Muslim Maxi Dress)",
+  "isMulti": true,
   "items": [
 	  {"key":"dress casual","label":"Dress Casual (Casual Maxi Dress)"},
 	  {"key":"dress kaos","label":"Dress Kaos (Tee Dress)"},
@@ -56,6 +63,7 @@
     ]
   },
   {"key":"daster & gaun santai","label": "Daster & Gaun Santai (Muslimah Homewear & Loungewear)",
+  "isMulti": true,
   "items": [
 	  {"key":"daster kekinian","label":"Daster Kekinian (Baju Daster Model Sekarang)"},
 	  {"key":"daster tidur","label":"Daster Tidur (Daster Lembut & Nyaman)"},
@@ -63,7 +71,8 @@
 	  {"key":"daster katun/rayon","label":"Daster Katun/Rayon (Cotton/Rayon Home Dress)"},
 	  {"key":"daster motif/batik","label":"Daster Motif/Batik (Patterned/Batik Home Dress)"},
 	  {"key":"daster polos","label":"Daster Polos (Plain Home Dress)"},
-	  {"key":"daster busui friendly","label":"Daster Busui Friendly (Nursing-Friendly Home Dress)"}
+	  {"key":"daster busui friendly","label":"Daster Busui Friendly (Nursing-Friendly Home Dress)"},
+	  {"key":"daster ukuran besar","label":"Daster Ukuran Besar (Plus Size Home Dress)"}
     ]
   }
   ]
@@ -71,6 +80,7 @@
 {"title": "ATASAN MUSLIMAH", 
 "groups": [
   {"key":"tunik","label": "Tunik (Tunic)",
+  "isMulti": true,
   "items": [
 	  {"key":"tunik harian","label":"Tunik Harian (Daily Tunic)"},
 	  {"key":"tunik polos","label":"Tunik Polos (Plain Tunic)"},
@@ -83,6 +93,7 @@
     ]
   },
   {"key":"blus","label": "Blus (Blouse)",
+  "isMulti": true,
   "items": [
 	  {"key":"blus polos","label":"Blus Polos (Plain Blouse)"},
 	  {"key":"blus motif/printed","label":"Blus Motif/Printed (Patterned/Printed Blouse)"},
@@ -100,6 +111,7 @@
     ]
   },
   {"key":"outer & cardigan","label": "Outer & Cardigan (Muslimah Outerwear & Cardigans)",
+  "isMulti": false,
   "items": [
 	  {"key":"kimono outer muslimah","label":"Kimono Outer Muslimah (Muslimah Kimono Outer)"},
 	  {"key":"blazer muslimah","label":"Blazer Muslimah (Muslimah Oversized Blazer)"},
@@ -129,6 +141,7 @@
 {"title": "BAWAHAN MUSLIMAH", 
 "groups": [
   {"key":"rok panjang","label": "Rok Panjang (Long Skirt/Maxi Skirt)",
+  "isMulti": true,
   "items": [ 
 	  {"key": "rok plisket","label": "Rok Plisket (Pleated Skirt)"},
 	  {"key": "rok a-line","label": "Rok A-Line (A-Line Skirt)"},
@@ -138,8 +151,9 @@
       {"key": "rok batik/etnik","label": "Rok Batik/Etnik (Batik/Ethnic Skirt)"}
     ]
   },
-  {"key":"rok celana", "label": "Rok Celana (Skirt Pants/Muslimah Skirt-Trousers)", "items": [] },
+  {"key":"rok celana", "label": "Rok Celana (Skirt Pants/Muslimah Skirt-Trousers)", "isMulti": false, "items": [] },
   {"key":"celana panjang","label": "Celana Panjang (Long Pants/Muslimah Trousers)",
+  "isMulti": false,
   "items": [ 
 	  {"key": "celana kulot","label": "Celana Kulot (Culotte Pants)"},
 	  {"key": "celana palazzo","label": "Celana Palazzo (Palazzo Pants)"},
@@ -153,6 +167,7 @@
 	]
   },
   {"key":"skirt & hybrid style","label": "Skirt & Hybrid Style (Hybrid Modest Bottoms)",
+  "isMulti": false,
   "items": [ 
 	  {"key": "skirt over pants","label": "Skirt Over Pants (Layered Skirt-Pants)"},
 	  {"key": "skort muslimah","label": "Skort Muslimah (Modest Skort)"},
@@ -160,6 +175,7 @@
 	]
   },
   {"key":"bawahan tradisional modern","label": "Bawahan Tradisional Modern (Modern Ethnic Bottoms)",
+  "isMulti": false,
   "items": [ 
 	  {"key": "sarung instan muslimah","label": "Sarung Instan Muslimah (Instant Sarong Skirt)"},
 	  {"key": "celana batik","label": "Celana Batik (Batik Pants)"},
@@ -171,6 +187,7 @@
 {"title": "Pilih Preferensi", 
 "groups": [
   {"key":"tren","label": "Koleksi Tren 2026 (New Trend 2026)",
+  "isMulti": false,
   "items": [
 	  {"key":"abaya modern","label": "Abaya Modern (Modern Batik & Minimalis)"},
 	  {"key":"sarimbit","label": "Sarimbit & Busana Keluarga (Pakaian Serasi/Pasangan)"},
@@ -179,6 +196,7 @@
 	]
   },
   {"key":"rekomendasi","label": "Rekomendasi (Pilihan Populer)",
+  "isMulti": true,
   "items": [
 	  {"key":"produk terlaris","label": "Produk Terlaris (Best Sellers)"},
 	  {"key":"paling favorit","label": "Paling Favorit (Most Favorite)"},
@@ -186,6 +204,7 @@
 	]
   }, 
   {"key":"panjang busana","label": "Panjang Busana (Dress Length)",
+  "isMulti": false,
   "items": [
 	  {"key":"panjang/maxi","label": "Panjang/Maxi (Hingga Mata Kaki/Lantai)"},
 	  {"key":"midi","label": "Midi/Midi Length (Panjang Hingga Betis)"},
@@ -193,6 +212,7 @@
 	]
   },
   {"key":"gaya","label": "Gaya (Penampilan)",
+  "isMulti": true,
   "items": [
 	  {"key":"syari","label": "Syari (Tertutup, Longgar & Sopan)"},
 	  {"key":"kekinian","label": "kekinian/modern (Trendi, Ringkas & Stylish)"},
@@ -204,6 +224,7 @@
 	]
   },
   {"key":"kegiatan","label": "Kegiatan (Acara)",
+  "isMulti": true,
   "items": [
 	  {"key":"harian","label": "Harian/Santai (Nyaman, Ringan & Praktis)"},
 	  {"key":"kerja","label": "Kerja/Formal (Profesional, Terstruktur & Sopan)"},
@@ -212,22 +233,8 @@
 	  {"key":"ibadah","label": "Ibadah (Nyaman, Adem & Ringan)"}
 	]
   },
-  {"key":"material","label": "Material (Bahan Pakaian)",
-  "items": [
-	  {"key":"katun","label": "Bahan Katun (Sejuk, Menyerap & Nyaman)"},
-	  {"key":"linen","label": "Bahan Denim/Linen (Ringan, Bertekstur & Natural)"},
-	  {"key":"satin/silk","label": "Bahan Satin/Silk (Halus, Mengilap & Mewah)"},
-	  {"key":"brokat","label": "Bahan Brokat/Bordir (Berornamen, Detail & Elegan)"},
-	  {"key":"rayon","label": "Bahan Rayon/Jersey (Adem, Lembut & Fleksibel)"},
-	  {"key":"ceruty","label": "Bahan Ceruty (Ringan, Jatuh & Elegan)"},
-	  {"key":"crinkle","label": "Crinkle (Kasual, Effortless & Modern)"},
-	  {"key":"cloud mist","label": "Cloud Mist (Ringan, Lembut & Jatuh Halus)"},
-	  {"key":"matte satin","label": "Matte Satin (Lembut, Ringan & Adem)"},
-	  {"key":"texture silk","label": "Texture Silk (Lembut, Elegan & Bertekstur)"}
-	  
-	]
-  },
   {"key":"harga","label": "Rentang Harga (Price Range)",
+  "isMulti": false,
   "items": [
       {"key":"under 50k","label": "Di bawah Rp50.000 (Harga Receh)"},
 	  {"key":"50k-150k","label": "Rp50.000 - Rp150.000 (Budget Tipis)"},
@@ -237,49 +244,13 @@
       {"key":"1500k++","label": "Rp1.500.000++ (Harga Sultan)"}
     ]
   },
-  {"key":"koleksi merek","label": "Koleksi Merek (Brands Collection)",
-  "items": [
-	  
-	  {"key":"belimukena premium","label": "Belimukena Premium (Koleksi Mukena Premium)"},
-	  {"key":"lozy hijab","label": "Lozy Hijab (Koleksi Hijab, Mukena & Abaya)"},
-	  {"key":"diario","label": "Diario (Koleksi Hijab, Mukena & Abaya)"},
-	  {"key":"tazbiya","label": "Tazbiya (Koleksi Mukena Berkualitas)"},
-	  {"key":"khadijah label","label": "Khadijah label (Koleksi Mukena Premium)"},
-	  {"key":"sabamodest","label": "Sabamodest (Modest Stylish, Exclusive)"},
-	  {"key":"mayra","label": "Mayra (Modestwear Minimalis)"},
-	  {"key":"agnes hijab","label": "Agnes Hijab (Koleksi Gamis Elegan)"},
-	  {"key":"elzatta","label": "Elzatta (Elzatta)"},
-	  {"key":"dian pelangi","label": "Dian Pelangi (Dian Pelangi)"},
-	  {"key":"casa elana","label": "Casa Elana (Casa Elana)"},
-	  {"key":"shafira","label": "Shafira (Shafira)"},
-	  {"key":"miss marina","label": "Miss Marina (Miss Marina)"},
-	  {"key":"monel","label": "Monel (Monel)"},
-	  {"key":"kivitz","label": "Kivitz (Kivitz)"},
-	  {"key":"ria miranda","label": "Ria Miranda (Ria Miranda)"},
-	  {"key":"mfmw","label": "MFMW (MFMW)"},
-	  {"key":"rabbani","label": "Rabbani (Rabbani)"},
-	  {"key":"si.se.sa","label": "Si.Se.Sa (Si.Se.Sa)"},
-	  {"key":"suqma","label": "Suqma (Suqma)"},
-	  {"key":"tunecca","label": "Tunecca (Tunecca)"},
-	  {"key":"zoya","label": "Zoya (Zoya)"},
-	  {"key":"vanilla hijab","label": "Vanilla Hijab (Vanilla Hijab)"}
-	]
-  },
   {"key":"edisi premium","label": "Edisi Premium (Premium Edition)",
+  "isMulti": false,
   "items": [
 	  {"key":"gamis bordir & brokat premium","label": "Gamis Bordir & Brokat Premium (Premium Embroidered & Brocade Gamis)"},
 	  {"key":"abaya dubai premium","label": "Abaya Dubai Premium (Luxury Dubai Abaya)"},
 	  {"key":"hijab silk & satin","label": "Hijab Silk & Satin (Silk & Satin Hijab Collection)"},
 	  {"key":"aksesoris muslimah mewah","label": "Aksesoris Muslimah Mewah (Luxury Muslimah Accessories)"}
-	]
-  },
-  {"key":"ukuran besar","label": "Ukuran Besar (Plus Size Collection)",
-  "items": [
-	  {"key":"gaun & dress besar","label": "Gaun & Dress Besar (Gamis Big Size, Abaya Jumbo, Maxi Dress Curvy)"},
-	  {"key":"atasan plus size","label": "Atasan Plus Size (Tunik Oversize, Blus Big Size)"},
-	  {"key":"bawahan plus size","label": "Bawahan Plus Size (Rok Panjang Jumbo, Celana Kulot Big Size)"},
-	  {"key":"setelan plus size","label": "Setelan Plus Size (Sarimbit Big Size, Baju Kurung Plus Size)"},
-	  {"key":"hijab plus size","label": "Hijab Plus Size (Khimar Jumbo, Hijab untuk Wajah Bulat)"}
 	]
   }
   ]
@@ -287,16 +258,19 @@
 {"title": "Setelan & Busana Fungsional", 
 "groups": [
   {"key":"pakaian kantor & setelan muslimah","label": "Pakaian Kantor & Setelan Muslimah (Muslimah Office Wear & Coordinated Sets)",
+  "isMulti": false,
   "items": [
 	  {"key":"tunik formal untuk kerja","label":"Tunik Formal untuk Kerja (Formal Work Tunic)"},
 	  {"key":"blazer & abaya profesional","label":"Blazer & Abaya Profesional (Professional Blazer & Abaya)"},
-	  {"key":"setelan blus & rok/celana","label":"Setelan Blus & Rok/Celana (Blouse & Skirt/Pants Set)"},
+	  {"key":"setelan blus & rok","label":"Setelan Blus & Rok (Blouse & Skirt Set)"},
+	  {"key":"setelan blus & celana","label":"Setelan Blus & Celana (Blouse & Pants Set)"},
 	  {"key":"setelan tunik & celana kulot","label":"Setelan Tunik & Celana Kulot (Tunic & Culotte Pants Set)"},
 	  {"key":"setelan blus & rok plisket","label":"Setelan Blus & Rok Plisket (Blouse & Pleated Skirt Set)"},
 	  {"key":"setelan outer & inner","label":"Setelan Outer & Inner (One Set Outer & Inner Outfit)"}
     ]
   },
   {"key":"pakaian muslim untuk bepergian","label": "Pakaian Muslim untuk Bepergian (Travel Muslim Wear)",
+  "isMulti": false,
   "items": [
 	  {"key":"travel abaya","label": "Travel Abaya (Travel-Friendly Abaya)"},
 	  {"key":"travel tunic & pants set","label": "Travel Tunic & Pants Set (Travel Tunic & Pants Set)"},
@@ -306,6 +280,7 @@
 	]
   },
   {"key":"setelan busana & keluarga","label": "Setelan Busana & Keluarga (Family & Couple Outfits)",
+  "isMulti": false,
   "items": [
 	  {"key":"setelan hijab + gamis","label": "Setelan Hijab + Gamis (Hijab + Gamis Set)"},
 	  {"key":"setelan hijab + tunik","label": "Setelan Hijab + Tunik (Hijab + Tunic Set)"},
@@ -321,6 +296,7 @@
 {"title": "Hijab & Aksesoris", 
 "groups": [
   {"key":"hijab","label": "Hijab (Penutup Kepala & Tubuh)",
+  "isMulti": false,
   "items": [
       {"key":"hijab segi empat","label": "Hijab Segi Empat (Square Hijab)",
       "subitems": [
@@ -353,6 +329,7 @@
     ]
   },
   {"key":"aksesoris","label": "Aksesoris (Hijab Accessories)",
+  "isMulti": false,
   "items": [
 	  {"key":"ciput/inner hijab","label": "Ciput/Inner Hijab (Inner Cap/Underscarf)"},
 	  {"key":"syal/pashmina","label": "Syal/Pashmina (Scarf/Pashmina)"},
@@ -364,6 +341,7 @@
 {"title": "PAKAIAN MUSLIM PRIA", 
 "groups": [
   {"key":"pakaian muslim pria","label": "Busana Muslim Pria (Muslim Wear)",
+  "isMulti": false,
   "items": [
 	  {"key":"kemeja koko","label": "Kemeja Koko (Koko Shirt)"},
 	  {"key":"koko polos & minimalis","label": "Koko Polos & Minimalis (Plain & Minimalist Koko)"},
@@ -378,6 +356,7 @@
 	]
   },
   {"key":"aksesoris pria","label": "Aksesoris Pria (Muslim Accessories)",
+  "isMulti": false,
   "items": [
 	  {"key":"peci/songkok","label": "Peci/Songkok (Peci/Skullcap)"},
 	  {"key":"sorban","label": "Sorban (Turban/Head Scarf)"},
@@ -389,6 +368,7 @@
 {"title": "PERLENGKAPAN IBADAH", 
 "groups": [
   {"key":"mukena","label": "Mukena (Harian, Jumbo, Travel)",
+  "isMulti": true,
   "items": [
 	  {"key":"mukena harian","label": "Mukena Harian (Nyaman, Praktis & Rutin)"},
 	  {"key":"mukena jumbo","label": "Mukena Jumbo (Lega, Menutup & Nyaman)"},
@@ -405,6 +385,7 @@
 	]
   },
   {"key": "sajadah","label": "Sajadah (Harian, Travel, Motif)",
+  "isMulti": true,
   "items": [
 	  {"key":"sajadah harian","label": "Sajadah Harian (Nyaman, Praktis & Rutin)"},
 	  {"key":"sajadah travel","label": "Sajadah Travel (Ringkas, Ringan & Portabel)"},
@@ -421,6 +402,7 @@
 	]
   },
   {"key":"tas ibadah","label": "Tas Ibadah (Travel, Mini, Premium)",
+  "isMulti": true,
   "items": [
 	  {"key":"tas mukena & sajadah","label": "Tas Mukena & Sajadah (Multifungsi, Muat Banyak & Praktis)"},
 	  {"key":"tas travel ibadah","label": "Tas Travel Ibadah (Ringan, Ringkas & Siap Jalan)"},
@@ -437,10 +419,10 @@
 }
   ],
   "MULTI_SELECT_CATEGORIES": [
-    "tren","rekomendasi","panjang busana","gaya","kegiatan","material","harga","koleksi merek","edisi premium","ukuran besar","mukena","sajadah","tas ibadah"
+    "gamis","kaftan","abaya","dress panjang","daster & gaun santai","tunik","blus","rok panjang","rekomendasi","gaya","kegiatan","mukena","sajadah","tas ibadah"
   ],
   "EXCLUDED_PILLS_BASE": [
-    "tren","rekomendasi","panjang busana","gaya","kegiatan","material","harga","koleksi merek","edisi premium","ukuran besar","aksesoris","pakaian muslim pria","aksesoris pria","produk terlaris","paling favorit","pilihan editor","harian","kerja","pesta","travel","under 50k","50k-150k","150k-350k","350k-750k","750k-1500k","1500k++"
+    "tren","rekomendasi","panjang busana","gaya","kegiatan","harga","edisi premium","ukuran besar","aksesoris","pakaian muslim pria","aksesoris pria","produk terlaris","paling favorit","pilihan editor","harian","kerja","pesta","travel","under 50k","50k-150k","150k-350k","350k-750k","750k-1500k","1500k++"
   ],
   "categoryData": {
     "gamis": {
