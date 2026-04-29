@@ -13,10 +13,12 @@
 	  {"key":"gamis syari","label": "Gamis Syari (Syari Gamis)"},
 	  {"key":"gamis tradisional","label": "Gamis Tradisional (Traditional Gamis)"},
 	  {"key":"gamis berlapis","label": "Gamis Berlapis (Layered Gamis)"},
+	  {"key":"gamis motif","label": "Gamis Motif/Printed (Printed Gamis)"},
 	  {"key":"gamis sporty","label": "Gamis Sporty (Sporty Gamis)"},
 	  {"key":"gamis beraksen","label": "Gamis Beraksen (Accented Gamis)"},
 	  {"key":"gamis modern","label": "Gamis Modern (Modern Gamis)"},
 	  {"key":"gamis busui friendly","label":"Gamis Busui Friendly (Nursing-Friendly Gamis)"},
+	  {"key":"gamis wudhu friendly","label":"Gamis Wudhu Friendly (Wudhu-Friendly Gamis)"},
 	  {"key":"gamis ukuran besar","label":"Gamis Ukuran Besar (Plus Size Gamis)"}
 	]
   },
@@ -255,40 +257,29 @@
   }
   ]
 },
-{"title": "Setelan & Busana Fungsional", 
+{"title": "Setelan & Busana Keluarga",
 "groups": [
-  {"key":"pakaian kantor & setelan muslimah","label": "Pakaian Kantor & Setelan Muslimah (Muslimah Office Wear & Coordinated Sets)",
+  {"key":"setelan muslimah","label": "Setelan Muslimah (Muslimah Sets)",
   "isMulti": false,
   "items": [
-	  {"key":"tunik formal untuk kerja","label":"Tunik Formal untuk Kerja (Formal Work Tunic)"},
-	  {"key":"blazer & abaya profesional","label":"Blazer & Abaya Profesional (Professional Blazer & Abaya)"},
+	  {"key":"setelan gamis & hijab","label":"Setelan Gamis & Hijab (Gamis & Hijab Set)"},
+	  {"key":"setelan kaftan & hijab","label":"Setelan Kaftan & Hijab (Kaftan & Hijab Set)"},
+	  {"key":"setelan abaya & khimar","label":"Setelan Abaya & Khimar (Abaya & Khimar Set)"},
+	  {"key":"setelan kebaya","label":"Setelan Kebaya (Kebaya Set)"},
 	  {"key":"setelan blus & rok","label":"Setelan Blus & Rok (Blouse & Skirt Set)"},
 	  {"key":"setelan blus & celana","label":"Setelan Blus & Celana (Blouse & Pants Set)"},
-	  {"key":"setelan tunik & celana kulot","label":"Setelan Tunik & Celana Kulot (Tunic & Culotte Pants Set)"},
-	  {"key":"setelan blus & rok plisket","label":"Setelan Blus & Rok Plisket (Blouse & Pleated Skirt Set)"},
+	  {"key":"setelan tunik & rok","label":"Setelan Tunik & Rok (Tunic & Skirt Set)"},
+	  {"key":"setelan tunik & celana","label":"Setelan Tunik & Celana (Tunic & Pants Set)"},
 	  {"key":"setelan outer & inner","label":"Setelan Outer & Inner (One Set Outer & Inner Outfit)"}
     ]
   },
-  {"key":"pakaian muslim untuk bepergian","label": "Pakaian Muslim untuk Bepergian (Travel Muslim Wear)",
+  {"key":"setelan keluarga","label": "Setelan Keluarga (Family & Couple Outfits)",
   "isMulti": false,
   "items": [
-	  {"key":"travel abaya","label": "Travel Abaya (Travel-Friendly Abaya)"},
-	  {"key":"travel tunic & pants set","label": "Travel Tunic & Pants Set (Travel Tunic & Pants Set)"},
-	  {"key":"hijab anti kusut","label": "Hijab Anti Kusut (Wrinkle-Free Travel Hijab)"},
-	  {"key":"outer lightweight muslimah","label": "Outer Lightweight Muslimah (Lightweight Muslim Outerwear)"},
-	  {"key":"gamis sporty travel","label": "Gamis Sporty Travel (Sporty Travel Gamis)"}
-	]
-  },
-  {"key":"setelan busana & keluarga","label": "Setelan Busana & Keluarga (Family & Couple Outfits)",
-  "isMulti": false,
-  "items": [
-	  {"key":"setelan hijab + gamis","label": "Setelan Hijab + Gamis (Hijab + Gamis Set)"},
-	  {"key":"setelan hijab + tunik","label": "Setelan Hijab + Tunik (Hijab + Tunic Set)"},
-	  {"key":"setelan keluarga/sarimbit","label": "Setelan Keluarga/Sarimbit (Family Matching Set/Sarimbit)"},
+	  {"key":"setelan sarimbit","label": "Setelan arimbit (Family Matching Set)"},
 	  {"key":"setelan suami & istri","label": "Setelan Suami & Istri (Husband & Wife Set)"},
 	  {"key":"setelan ibu–anak","label": "Setelan Ibu–Anak (Mother–Daughter Set)"},
-	  {"key":"setelan ayah–anak","label": "Setelan Ayah–Anak (Father–Son Set)"},
-	  {"key":"busana keluarga lebaran","label": "Busana Keluarga Lebaran (Eid Family Outfit)"}
+	  {"key":"setelan ayah–anak","label": "Setelan Ayah–Anak (Father–Son Set)"}
 	]
   }
   ]
