@@ -1,0 +1,149 @@
+{
+  "NAV_DIMENSIONS": [
+{"title": "Rekomendasi",
+"groups": [
+  {"key":"pilihan populer","label":"Pilihan Populer (Shop by Offers)",
+  "isMulti": true,
+  "items": [
+	  {"key":"produk terlaris","label": "Produk Terlaris (Best Sellers)"},
+	  {"key":"paling favorit","label": "Paling Favorit (Most Favorite)"},
+	  {"key":"pilihan editor","label": "Pilihan Editor (Editor's Pick)"}
+	]
+  },
+  {"key":"curated collection","label":"Curated Collection (Koleksi Pilihan)",
+  "isMulti": false,
+  "items": [
+	  {"key":"best comfort","label":"Best Comfort (Paling Nyaman)"},
+	  {"key":"viral fit","label":"Viral Fit (Fit Favorit)"},
+	  {"key":"cozy essential","label":"Cozy Essential (Nyaman, Daily Wear)"},
+      {"key":"premium lounge","label":"Premium Lounge (Santai, Feel Premium)"},
+      {"key":"travel ready","label":"Travel Ready (Nyaman untuk Bepergian)"}
+	]
+  }
+  ]
+},
+{"title": "Pilih Berdasarkan", 
+"groups": [
+  {"key":"kenyamanan","label":"Kenyamanan (Shop by Comfort)",
+  "isMulti": true,
+  "items": [
+	  {"key":"ultra soft","label":"Ultra Soft (Super Lembut)"},
+	  {"key":"soft touch","label":"Soft Touch (Lembut di Kulit)"},
+	  {"key":"lightweight","label":"Lightweight (Ringan Dipakai)"},
+	  {"key":"breathable","label":"Breathable (Adem & Mudah Bernapas)"},
+	  {"key":"stretch comfort","label":"Stretch Comfort (Stretch & Nyaman)"},
+	  {"key":"heavyweight comfort","label":"Heavyweight Comfort (Tebal & Cozy)"}
+	]
+  },
+  {"key":"fit","label":"Pilih Fit (Shop by Fit)",
+  "isMulti": true,
+  "items": [
+	  {"key":"relaxed fit","label":"Relaxed Fit (Potongan Santai)"},
+	  {"key":"oversized","label":"Oversized (Fit Lebih Longgar)"},
+	  {"key":"slim fit","label":"Slim Fit (Fit Lebih Ramping)"},
+	  {"key":"tapered fit","label":"Tapered Fit (Fit Longgar Di Atas)"},
+	  {"key":"wide leg","label":"Wide Leg (Potongan Lebar)"},
+	  {"key":"straight leg","label":"Straight Leg (Potongan Lurus)"},
+	  {"key":"baggy fit","label":"Baggy Fit (Potongan Longgar)"}
+	]
+  },
+  {"key":"gaya","label":"Pilih Gaya (Shop by Style)",
+  "isMulti": true,
+  "items": [
+	  {"key":"minimalist","label":"Minimalist (Clean Look)"},
+	  {"key":"streetwear","label":"Streetwear (Gaya Kasual)"},
+	  {"key":"korean style","label":"Korean Style (Look Clean, Trendy)"},
+	  {"key":"old money casual","label":"Old Money Casual (Casual Premium)"},
+	  {"key":"sporty","label":"Sporty (Look Aktif dan Santai)"},
+	  {"key":"clean basic","label":"Clean Basic (Simple dan Versatile)"}
+	]
+  },
+  {"key":"aktivitas","label":"Pilih Aktivitas (Shop by Activity)",
+  "isMulti": true,
+  "items": [
+	  {"key":"home & lounge","label":"Home & Lounge (Santai di Rumah)"},
+	  {"key":"daily casual","label":"Daily Casual (Casual Harian)"},
+	  {"key":"traveling","label":"Traveling (Traveling)"},
+	  {"key":"airport outfit","label":"Airport Outfit (Airport Outfit)"},
+	  {"key":"gym & workout","label":"Gym & Workout (Gym & Workout)"},
+	  {"key":"outdoor chill","label":"Outdoor Chill (Santai Outdoor)"}
+	]
+  }
+  ]
+},
+{"title": "Pilih Preferensi", 
+"groups": [
+  {"key":"gender","label":"Gender (Gender)",
+  "isMulti": false,
+  "items": [
+	  {"key":"men","label":"Men (Pria)"},
+	  {"key":"women","label":"Women (Wanita)"},
+	  {"key":"unisex","label":"Unisex (Unisex)"}
+	]
+  },
+  {"key":"rise","label":"Rise (Tinggi Pinggang)",
+  "isMulti": false,
+  "items": [
+	  {"key":"high rise","label":"High Rise (Pinggang Tinggi)"},
+	  {"key":"mid rise","label":"Mid Rise (Pinggang Sedang)"},
+	  {"key":"low rise","label":"Low Rise (Pinggang Rendah)"}
+	]
+  },
+  {"key":"harga","label": "Rentang Harga (Price Range)",
+  "isMulti": false,
+  "items": [
+      {"key":"under 100k","label": "Di bawah Rp100.000 (Budget Tipis)"},
+      {"key":"100k-250k","label": "Rp100.000 - Rp250.000 (Harga Aman)"},
+	  {"key":"250++","label": "Rp250.000++ (Comfort Lovers)"}
+    ]
+  }
+  ]
+}
+  ],
+  "MULTI_SELECT_CATEGORIES": [
+	  "pilihan populer",
+	  "kenyamanan",
+	  "fit",
+	  "gaya",
+	  "aktivitas"
+  ],
+  "EXCLUDED_PILLS_BASE": [
+	  "pilihan populer",
+	  "kenyamanan",
+	  "fit",
+	  "gaya",
+	  "aktivitas",
+	  "gender",
+	  "rise",
+	  "harga",
+	  "under 100k",
+	  "100k-250k",
+	  "250++"
+  ],
+  "categoryData": {
+    "oversized": {
+      "intro": "Oversized sweatpants dengan fit longgar dan nyaman untuk look santai modern.",
+      "desc": "Pilihan oversized sweatpants dengan siluet loose fit yang nyaman dipakai seharian. Cocok untuk streetwear, casual outfit, hingga airport outfit dengan tampilan effortless dan modern."
+    },
+    "relaxed fit": {
+      "intro": "Relaxed fit sweatpants dengan potongan santai untuk kenyamanan harian.",
+      "desc": "Koleksi relaxed fit sweatpants dengan ruang gerak lebih nyaman dan tampilan clean casual. Ideal untuk daily wear, home lounge, traveling, maupun gaya minimalis modern."
+    },
+    "heavyweight comfort": {
+      "intro": "Heavyweight sweatpants dengan material lebih tebal dan feel premium.",
+      "desc": "Temukan heavyweight sweatpants dengan bahan tebal, cozy, dan nyaman digunakan untuk daily comfort maupun streetwear premium. Memberikan tampilan lebih structured dengan sensasi hangat dan lembut."
+    },
+    "lightweight": {
+      "intro": "Lightweight sweatpants yang ringan, adem, dan nyaman dipakai sepanjang hari.",
+      "desc": "Koleksi lightweight sweatpants dengan material ringan dan breathable untuk aktivitas harian, traveling, maupun cuaca hangat. Nyaman dipakai dengan feel lebih santai dan fleksibel."
+    },
+    "airport outfit": {
+      "intro": "Sweatpants nyaman dan stylish untuk airport outfit dan traveling.",
+      "desc": "Pilihan airport outfit sweatpants dengan material nyaman, fit modern, dan look effortless untuk perjalanan jauh maupun short trip. Cocok untuk gaya travel casual yang clean dan premium."
+    },
+    "ultra soft": {
+      "intro": "Ultra soft sweatpants dengan tekstur super lembut dan nyaman di kulit.",
+      "desc": "Temukan ultra soft sweatpants dengan material lembut, cozy, dan nyaman dipakai sepanjang hari. Cocok untuk lounge wear, daily casual, hingga comfort outfit dengan feel premium."
+    }
+  }
+}
