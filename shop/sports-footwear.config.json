@@ -1,1 +1,785 @@
-{}
+{
+  "NAV_DIMENSIONS": [
+    {
+      "title": "Pilih Tujuan Aktivitas",
+      "groups": [
+        {
+          "key": "running & road",
+          "label": "Running & Road (Lari & Joging)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "daily & easy run",
+              "label": "Daily & Easy Run (Lari Santai & Joging Harian)"
+            },
+            {
+              "key": "speed & tempo training",
+              "label": "Speed & Tempo Training (Lari Cepat, Interval & Latihan Kecepatan)"
+            },
+            {
+              "key": "race & marathon",
+              "label": "Race & Marathon (Sepatu Lomba & Performa Maksimal)"
+            },
+            {
+              "key": "max cushion & recovery",
+              "label": "Max Cushion & Recovery (Proteksi Maksimal & Lari Pemulihan)"
+            },
+            {
+              "key": "treadmill & road special",
+              "label": "Treadmill & Road Special (Optimasi Aspal & Lari Dalam Ruangan)"
+            }
+          ]
+        },
+        {
+          "key": "court & racket",
+          "label": "Court & Racket (Olahraga Lapangan)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "badminton & squash",
+              "label": "Badminton & Squash (Gerakan Agresif di Lapangan Kayu/Vinyl)"
+            },
+            {
+              "key": "basketball",
+              "label": "Basketball (Dukungan Pergelangan Kaki & Lompatan)"
+            },
+            {
+              "key": "tennis, padel & pickleball",
+              "label": "Tennis, Padel & Pickleball (Ketahanan Gesek & Gerak Lateral Lapangan Keras)"
+            },
+            {
+              "key": "futsal & indoor soccer",
+              "label": "Futsal & Indoor Soccer (Kontrol Bola & Sol Tanpa Bekas/Non-Marking)"
+            },
+            {
+              "key": "volleyball",
+              "label": "Volleyball (Peredam Kejut & Stabilitas Pendaratan)"
+            }
+          ]
+        },
+        {
+          "key": "training & gym",
+          "label": "Training & Gym (Latihan & Beban)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "general gym & fitness",
+              "label": "General Gym & Fitness (Latihan Beban Ringan & Kardio Gym)"
+            },
+            {
+              "key": "strength & weightlifting",
+              "label": "Strength & Weightlifting (Sol Datar & Stabil untuk Angkat Beban)"
+            },
+            {
+              "key": "functional & crossfit",
+              "label": "Functional & CrossFit (Ketahanan Tinggi untuk Latihan Serba Bisa)"
+            },
+            {
+              "key": "hiit & agility",
+              "label": "HIIT & Agility (Responsif untuk Melompat & Gerak Cepat)"
+            },
+            {
+              "key": "aerobic & studio",
+              "label": "Aerobic & Studio (Ringan & Fleksibel untuk Kelas Kebugaran)"
+            }
+          ]
+        },
+        {
+          "key": "walking & wellness",
+          "label": "Walking & Wellness (Jalan Cepat & Harian)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "power walking",
+              "label": "Power Walking (Jalan Cepat untuk Olahraga)"
+            },
+            {
+              "key": "all-day comfort",
+              "label": "All-Day Comfort (Kenyamanan Berdiri & Berjalan Seharian)"
+            },
+            {
+              "key": "travel & long walk",
+              "label": "Travel & Long Walk (Ringan & Praktis untuk Perjalanan Jauh)"
+            }
+          ]
+        },
+        {
+          "key": "trail & adventure",
+          "label": "Trail & Adventure (Lari Medan Berat & Outdoor)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "trail running",
+              "label": "Trail Running (Lari Cepat di Medan Tanah & Berbatu)"
+            },
+            {
+              "key": "hiking & trekking",
+              "label": "Hiking & Trekking (Perlindungan Kaki untuk Mendaki)"
+            },
+            {
+              "key": "fast hiking & light trail",
+              "label": "Fast Hiking & Light Trail (Pendakian Cepat & Medan Campuran)"
+            }
+          ]
+        },
+        {
+          "key": "active lifestyle",
+          "label": "Active Lifestyle (Gaya Hidup & Athleisure)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "retro running",
+              "label": "Retro Running (Gaya Klasik & Nostalgia Atletik)"
+            },
+            {
+              "key": "terrace & slim sneaker",
+              "label": "Terrace & Slim Sneaker (Desain Ramping, Clean & Ikonik)"
+            },
+            {
+              "key": "gorpcore & techwear",
+              "label": "Gorpcore & Techwear (Gaya Outdoor yang Fungsional di Perkotaan)"
+            },
+            {
+              "key": "chunky & platform",
+              "label": "Chunky & Platform (Gaya Modern yang Ekspresif)"
+            },
+            {
+              "key": "athletic ballet & slip-on",
+              "label": "Athletic Ballet & Slip-On (Feminin, Ringan & Praktis)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Diri & Preferensimu",
+      "groups": [
+        {
+          "key": "pengguna",
+          "label": "Pengguna (Pilih Gender)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "pria",
+              "label": "Pria (Men's Shoes)"
+            },
+            {
+              "key": "wanita",
+              "label": "Wanita (Women's Shoes)"
+            },
+            {
+              "key": "unisex & pasangan",
+              "label": "Unisex & Pasangan (Unisex & Couple Shoes)"
+            }
+          ]
+        },
+        {
+          "key": "level",
+          "label": "Levelmu (Pemula → Atlet)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "beginner",
+              "label": "Beginner (Pemula)"
+            },
+            {
+              "key": "casual",
+              "label": "Casual (Regular/Santai)"
+            },
+            {
+              "key": "intermediate",
+              "label": "Intermediate (Rutin/Latihan Terstruktur)"
+            },
+            {
+              "key": "advanced",
+              "label": "Advanced (High-Intensity)"
+            },
+            {
+              "key": "athlete",
+              "label": "Athlete (Profesional/Elite)"
+            }
+          ]
+        },
+        {
+          "key": "fitur utama",
+          "label": "Fitur Utama (Kenyamanan)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "plush cushioned",
+              "label": "Plush Cushioned (Empuk & Nyaman Lama)"
+            },
+            {
+              "key": "responsive ride",
+              "label": "Responsive Ride (Balik Energi & Gesit)"
+            },
+            {
+              "key": "firm/ground feel",
+              "label": "Firm/Ground Feel (Stabil & Dekat ke Permukaan)"
+            },
+            {
+              "key": "lightweight feel",
+              "label": "Lightweight Feel (Ringan di Kaki)"
+            },
+            {
+              "key": "fast & efficient",
+              "label": "Fast & Efficient Stride (Langkah Efisien & Cepat)"
+            },
+            {
+              "key": "comfortable fit",
+              "label": "Comfortable Fit (Nyaman Dipakai Lama)"
+            },
+            {
+              "key": "toe-friendly",
+              "label": "Toe-Friendly (Tidak Menekan Jari)"
+            },
+            {
+              "key": "foot-health friendly",
+              "label": "Foot-Health Friendly (Ramah Kesehatan Kaki)"
+            },
+            {
+              "key": "breathable upper",
+              "label": "Breathable Upper (Anti Gerah)"
+            },
+            {
+              "key": "soft underfoot",
+              "label": "Soft Underfoot (Lembut Saat Menapak)"
+            },
+            {
+              "key": "shock absorption",
+              "label": "Shock Absorption (Peredam Benturan)"
+            },
+            {
+              "key": "joint-friendly",
+              "label": "Joint-Friendly (Ramah Lutut & Sendi)"
+            },
+            {
+              "key": "anti-slip grip",
+              "label": "Anti-Slip Grip (Tidak Licin)"
+            },
+            {
+              "key": "weather protection",
+              "label": "Weather Protection (Perlindungan Cuaca)",
+              "subitems": [
+                [
+                  "waterproof",
+                  "Waterproof (Anti Air/Membrane)"
+                ],
+                [
+                  "water-resistant",
+                  "Water-Resistant (Tahan Air)"
+                ],
+                [
+                  "breathable only",
+                  "Breathable Only (Hanya Bernapas)"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "key": "koleksi prioritas",
+          "label": "Koleksi Prioritas (Featured Collections)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "flagship series",
+              "label": "Flagship Series (Unggulan Brand)"
+            },
+            {
+              "key": "produk terlaris",
+              "label": "Produk Terlaris (Best Selling Products)"
+            },
+            {
+              "key": "trending now",
+              "label": "Trending Now (Tren Saat Ini)"
+            },
+            {
+              "key": "pilihan editor",
+              "label": "Pilihan Editor (Editor's Pick)"
+            }
+          ]
+        },
+        {
+          "key": "brand",
+          "label": "Brand Collections (Koleksi Merek)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "ortuseight",
+              "label": "Ortuseight (Running Affordable)"
+            },
+            {
+              "key": "adidas",
+              "label": "Adidas (Global Runner-Up)"
+            },
+            {
+              "key": "nike",
+              "label": "Nike (Ikon Global)"
+            },
+            {
+              "key": "nineten",
+              "label": "Nineten (Lokal Premium Running)"
+            },
+            {
+              "key": "puma",
+              "label": "Puma (Affordable Performance)"
+            },
+            {
+              "key": "asics",
+              "label": "Asics (Spesialisasi GEL Cushion & Stability)"
+            },
+            {
+              "key": "hoka",
+              "label": "Hoka (Max Cushion King)"
+            },
+            {
+              "key": "specs",
+              "label": "Specs (Spesialisasi Futsal & Multi-Sport)"
+            },
+            {
+              "key": "new balance",
+              "label": "New Balance (Comfort Retro)"
+            },
+            {
+              "key": "league",
+              "label": "League (Lokal Versatile)"
+            }
+          ]
+        },
+        {
+          "key": "rentang harga",
+          "label": "Sesuaikan Budgetmu (Price Range)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "100k-300k",
+              "label": "Rp100.000 - Rp300.000 (Budget Tipis)"
+            },
+            {
+              "key": "300k-500k",
+              "label": "Rp300.000 - Rp500.000 (Harga Mahasiswa)"
+            },
+            {
+              "key": "500k-750k",
+              "label": "Rp500.000 - Rp750.000 (Kantong Aman)"
+            },
+            {
+              "key": "750k-1000k",
+              "label": "Rp750.000 - Rp1.000.000 (Naik Kelas Dikit)"
+            },
+            {
+              "key": "1000k++",
+              "label": "Rp1.000.000++ (Harga Sultan Baru Mulai)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fitur & Teknologi",
+      "groups": [
+        {
+          "key": "performance & technology",
+          "label": "Performance & Technology (Performa & Teknologi)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "plate system",
+              "label": "Plate System (Sistem Pelat)",
+              "subitems": [
+                [
+                  "full carbon plate",
+                  "Full Carbon Plate (Pelat Karbon Penuh)"
+                ],
+                [
+                  "partial/hybrid plate",
+                  "Partial/Hybrid Plate (Pelat Sebagian/Hibrida)"
+                ],
+                [
+                  "no plate",
+                  "No Plate (Tanpa Pelat)"
+                ]
+              ]
+            },
+            {
+              "key": "energy return foam",
+              "label": "Energy Return Foam (Foam Pengembalian Energi)",
+              "subitems": [
+                [
+                  "super foam",
+                  "Super Foam (PEBA/ZoomX/FF Blast Turbo)"
+                ],
+                [
+                  "performance foam",
+                  "Performance Foam (React/Lightstrike Pro)"
+                ],
+                [
+                  "standard eva",
+                  "Standard EVA (EVA Standar)"
+                ]
+              ]
+            },
+            {
+              "key": "cushioning level",
+              "label": "Cushioning Level (Tingkat Bantalan)",
+              "subitems": [
+                [
+                  "max cushion",
+                  "Max Cushion (Bantalan Maksimal/Plush/Empuk Lama)"
+                ],
+                [
+                  "moderate cushion",
+                  "Moderate Cushion (Bantalan Sedang)"
+                ],
+                [
+                  "firm/minimal",
+                  "Firm/Minimal (Bantalan Keras/Minimal)"
+                ]
+              ]
+            },
+            {
+              "key": "weight category",
+              "label": "Weight Category (Kategori Berat Sepatu)",
+              "subitems": [
+                [
+                  "<220 g",
+                  "<220 g (Race/Super Ringan)"
+                ],
+                [
+                  "220-250 g",
+                  "220–250 g (Tempo/Ringan)"
+                ],
+                [
+                  "250-280 g",
+                  "250–280 g (Daily Trainer/Harian)"
+                ],
+                [
+                  ">280 g",
+                  ">280 g (Max Protection/Perlindungan Maksimal)"
+                ]
+              ]
+            },
+            {
+              "key": "rocker geometry",
+              "label": "Rocker Geometry (Geometri Rocker)",
+              "subitems": [
+                [
+                  "high/aggressive rocker",
+                  "High/Aggressive Rocker (Rocker Tinggi/Agresif)"
+                ],
+                [
+                  "mild rocker",
+                  "Mild Rocker (Rocker Ringan)"
+                ],
+                [
+                  "flat/no rocker",
+                  "Flat/No Rocker (Datar / Tanpa Rocker)"
+                ]
+              ]
+            },
+            {
+              "key": "outsole grip & durability",
+              "label": "Outsole Grip & Durability (Grip & Ketahanan Sol Luar)",
+              "subitems": [
+                [
+                  "high durability",
+                  "High Durability >600 km (Ketahanan Tinggi)"
+                ],
+                [
+                  "all-terrain/trail grip",
+                  "All-Terrain/Trail Grip (Grip Semua Medan/Trail)"
+                ],
+                [
+                  "road-optimized grip",
+                  "Road-Optimized Grip (Grip Optimal Jalan Raya)"
+                ]
+              ]
+            },
+            {
+              "key": "stability support",
+              "label": "Stability Support (Dukungan Stabilitas)",
+              "subitems": [
+                [
+                  "neutral",
+                  "Neutral (Netral)"
+                ],
+                [
+                  "mild stability",
+                  "Mild Stability (Stabilitas Ringan)"
+                ],
+                [
+                  "high/structured stability",
+                  "High/Structured Stability (Stabilitas Tinggi/Terstruktur)"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "key": "comfort, fit & foot health",
+          "label": "Comfort, Fit & Foot Health (Kenyamanan, Fit & Kesehatan Kaki)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "toebox & width",
+              "label": "Toebox & Width (Toebox & Lebar)",
+              "subitems": [
+                [
+                  "roomy/wide toebox",
+                  "Roomy/Wide Toebox (Toebox Luas/Lebar)"
+                ],
+                [
+                  "standard toebox",
+                  "Standard Toebox (Toebox Standar)"
+                ],
+                [
+                  "narrow fit",
+                  "Narrow Fit (Fit Sempit)"
+                ]
+              ]
+            },
+            {
+              "key": "breathability upper",
+              "label": "Breathability Upper (Kemampuan Bernapas Upper)",
+              "subitems": [
+                [
+                  "high breathable",
+                  "High Breathable (Anti Gerah/Bernapas Tinggi)"
+                ],
+                [
+                  "moderate",
+                  "Moderate (Bernapas Sedang)"
+                ],
+                [
+                  "protective/low breathable",
+                  "Protective/Low Breathable (Protektif/Bernapas Rendah)"
+                ]
+              ]
+            },
+            {
+              "key": "width fit",
+              "label": "Width Fit (Lebar Kaki)",
+              "subitems": [
+                [
+                  "wide",
+                  "Wide - 2E/Extra Wide (Lebar/Ekstra Lebar)"
+                ],
+                [
+                  "regular/standard",
+                  "Regular/Standard (Reguler/Standar)"
+                ],
+                [
+                  "narrow/asian fit",
+                  "Narrow/Asian Fit (Sempit/Fit Asia)"
+                ]
+              ]
+            },
+            {
+              "key": "drop height",
+              "label": "Drop Height (Tinggi Drop)",
+              "subitems": [
+                [
+                  "zero drop",
+                  "Zero Drop (Drop Nol)"
+                ],
+                [
+                  "low drop",
+                  "Low Drop - 0–6 mm (Drop Rendah)"
+                ],
+                [
+                  "standard drop",
+                  "Standard Drop - 8–12 mm (Drop Standar)"
+                ]
+              ]
+            },
+            {
+              "key": "arch support",
+              "label": "Arch Support (Dukungan Lengkung Kaki)",
+              "subitems": [
+                [
+                  "high arch",
+                  "High Arch (Lengkung Tinggi)"
+                ],
+                [
+                  "medium arch",
+                  "Medium Arch (Lengkung Sedang)"
+                ],
+                [
+                  "low arch/flat feet",
+                  "Low Arch/Flat Feet (Lengkung Rendah/Kaki Datar)"
+                ]
+              ]
+            },
+            {
+              "key": "weather protection",
+              "label": "Weather Protection (Perlindungan Cuaca)",
+              "subitems": [
+                [
+                  "waterproof",
+                  "Waterproof (Anti Air/Membrane)"
+                ],
+                [
+                  "water-resistant",
+                  "Water-Resistant (Tahan Air)"
+                ],
+                [
+                  "breathable only",
+                  "Breathable Only (Hanya Bernapas)"
+                ]
+              ]
+            },
+            {
+              "key": "impact & shock absorption",
+              "label": "Impact & Shock Absorption (Penyerapan Dampak & Guncangan)",
+              "subitems": [
+                [
+                  "knee/joint friendly",
+                  "knee/joint friendly (Ramah Lutut/Sendi)"
+                ],
+                [
+                  "heel-focused protection",
+                  "Heel-Focused Protection (Perlindungan Fokus Tumit)"
+                ],
+                [
+                  "full-length absorption",
+                  "Full-Length Absorption (Penyerapan Sepanjang Kaki)"
+                ]
+              ]
+            },
+            {
+              "key": "insole & heel comfort",
+              "label": "Insole & Heel Comfort (Kenyamanan Insole & Tumit)",
+              "subitems": [
+                [
+                  "cushioned/orthotic-ready insole",
+                  "Cushioned/Orthotic-Ready Insole (Insole Empuk/Siap Orthotic)"
+                ],
+                [
+                  "structured heel counter",
+                  "Structured Heel Counter (Penahan Tumit Terstruktur)"
+                ],
+                [
+                  "soft padded heel",
+                  "Soft Padded Heel (Tumit Berlapis Lembut)"
+                ]
+              ]
+            },
+            {
+              "key": "injury prevention focus",
+              "label": "Injury Prevention Focus (Fokus Pencegahan Cedera)",
+              "subitems": [
+                [
+                  "plantar fasciitis friendly",
+                  "Plantar Fasciitis Friendly (Ramah Plantar Fasciitis)"
+                ],
+                [
+                  "anti shin splint",
+                  "Anti Shin Splint (Anti Shin Splint)"
+                ],
+                [
+                  "general foot health support",
+                  "General Foot Health Support (Dukungan Kesehatan Kaki Umum)"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Alat & Aksesoris",
+      "groups": [
+        {
+          "key": "dukungan kenyamanan",
+          "label": "Dukungan Kenyamanan (Support Comfort)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "insoles & orthotics",
+              "label": "Insoles & Orthotics (Insole & Penyangga Kaki)"
+            },
+            {
+              "key": "heel grip/stopper",
+              "label": "Heel Grip/Stopper (Penahan Tumit)"
+            },
+            {
+              "key": "compression socks",
+              "label": "Compression Socks (Kaos Kaki Kompresi)"
+            },
+            {
+              "key": "foot sprays/deodorizers",
+              "label": "Foot Sprays/Deodorizers (Semprotan Anti Bau/Deodorizer)"
+            },
+            {
+              "key": "shoe stretchers",
+              "label": "Shoe Stretchers (Penambah Lebar Sepatu)"
+            }
+          ]
+        },
+        {
+          "key": "perawatan & perlindungan",
+          "label": "Perawatan & Perlindungan (Care & Protection)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "shoe horn & jack",
+              "label": "Shoe Horn & Jack (Alat Bantu Pakai Sepatu)"
+            },
+            {
+              "key": "shoe trees",
+              "label": "Shoe Trees (Penyangga Sepatu)"
+            },
+            {
+              "key": "replacement laces",
+              "label": "Replacement Laces (Pengganti Tali Sepatu)"
+            },
+            {
+              "key": "cleaners & brushes",
+              "label": "Cleaners & Brushes (Pembersih Sepatu & Sikat)"
+            },
+            {
+              "key": "polishes & creams",
+              "label": "Polishes & Creams (Pemoles & Krim Sepatu)"
+            },
+            {
+              "key": "shoe bags/dust bags",
+              "label": "Shoe Bags/Dust Bags (Tas/Kantong Sepatu)"
+            },
+            {
+              "key": "shoe covers/overshoes",
+              "label": "Shoe Covers/Overshoes (Cover Sepatu/Jas Hujan Sepatu)"
+            },
+            {
+              "key": "ice grips/crampon mini",
+              "label": "Ice Grips/Crampon Mini (Anti-Slip di Jalan Licin)"
+            }
+          ]
+        },
+        {
+          "key": "gaya & dekorasi",
+          "label": "Gaya & Dekorasi (Style & Decoration)",
+          "isMulti": false,
+          "items": [
+            {
+              "key": "shoe charms/jibbitz",
+              "label": "Shoe Charms/Jibbitz (Aksesoris Hias Sepatu)"
+            },
+            {
+              "key": "buckles & straps",
+              "label": "Buckles & Straps (Tali/Sabuk Tambahan)"
+            },
+            {
+              "key": "reflective stickers",
+              "label": "Reflective Stickers (Stiker Reflektif)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "MULTI_SELECT_CATEGORIES": [],
+  "EXCLUDED_PILLS_BASE": [],
+  "categoryData": {},
+  "aiAssistant": {}
+}
